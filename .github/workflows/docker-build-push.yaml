@@ -8,12 +8,12 @@ on:
     branches: [v4]
     paths:
       - .github/workflows/docker-build-push.yaml
-      - quartz/**
+      - ellul/**
   workflow_dispatch:
 
 jobs:
   build:
-    if: ${{ github.repository == 'jackyzha0/quartz' }} # Comment this out if you want to publish your own images on a fork!
+    if: ${{ github.repository == 'jackyzha0/ellul' }} # Comment this out if you want to publish your own images on a fork!
     runs-on: ubuntu-latest
     steps:
       - name: Set lowercase repository owner environment variable
@@ -51,7 +51,7 @@ jobs:
         id: meta-pr
         uses: docker/metadata-action@v5
         with:
-          images: ghcr.io/${{ env.OWNER_LOWERCASE }}/quartz
+          images: ghcr.io/${{ env.OWNER_LOWERCASE }}/ellul
           tags: |
             type=raw,value=sha-${{ env.GITHUB_SHA_SHORT }}
           labels: |
@@ -63,7 +63,7 @@ jobs:
         with:
           flavor: |
             latest=auto
-          images: ghcr.io/${{ env.OWNER_LOWERCASE }}/quartz
+          images: ghcr.io/${{ env.OWNER_LOWERCASE }}/ellul
           tags: |
             type=semver,pattern={{version}}
             type=semver,pattern={{major}}.{{minor}}

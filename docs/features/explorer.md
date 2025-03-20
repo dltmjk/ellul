@@ -183,7 +183,7 @@ Component.Explorer({
 > and passing it in.
 >
 > ```ts title="quartz.layout.ts"
-> import { Options } from "./quartz/components/ExplorerNode"
+> import { Options } from "./ellul/components/ExplorerNode"
 >
 > export const mapFn: Options["mapFn"] = (node) => {
 >   // implement your function here

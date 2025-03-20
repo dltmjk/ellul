@@ -12,9 +12,9 @@ Then, in your terminal of choice, enter the following commands line by line:
 
 ```shell
 git clone https://github.com/jackyzha0/quartz.git
-cd quartz
+cd ellul
 npm i
-npx quartz create
+npx ellul create
 ```
 
 This will guide you through initializing your Quartz with content. Once you've done so, see how to:

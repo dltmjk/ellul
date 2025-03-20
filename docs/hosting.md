@@ -66,7 +66,7 @@ jobs:
       - name: Install Dependencies
         run: npm ci
       - name: Build Quartz
-        run: npx quartz build
+        run: npx ellul build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -203,7 +203,7 @@ build:
     - hash -r
     - npm ci --cache .npm --prefer-offline
   script:
-    - npx quartz build
+    - npx ellul build
   artifacts:
     paths:
       - public

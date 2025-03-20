@@ -103,7 +103,7 @@ export default (() => {
 Imported styles, however, can be from SCSS files:
 
 ```tsx {1-2,9} title="quartz/components/YourComponent.tsx"
-// assuming your stylesheet is in quartz/components/styles/YourComponent.scss
+// assuming your stylesheet is in ellul/components/styles/YourComponent.scss
 import styles from "./styles/YourComponent.scss"
 
 export default (() => {

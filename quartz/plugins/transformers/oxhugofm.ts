@@ -1,7 +1,7 @@
 import { QuartzTransformerPlugin } from "../types"
 
 export interface Options {
-  /** Replace {{ relref }} with quartz wikilinks []() */
+  /** Replace {{ relref }} with ellul wikilinks []() */
   wikilinks: boolean
   /** Remove pre-defined anchor (see https://ox-hugo.scripter.co/doc/anchors/) */
   removePredefinedAnchor: boolean
@@ -44,7 +44,7 @@ const quartzLatexRegex = new RegExp(/\$\$[\s\S]*?\$\$|\$.*?\$/, "g")
 /**
  * ox-hugo is an org exporter backend that exports org files to hugo-compatible
  * markdown in an opinionated way. This plugin adds some tweaks to the generated
- * markdown to make it compatible with quartz but the list of changes applied it
+ * markdown to make it compatible with ellul but the list of changes applied it
  * is not exhaustive.
  * */
 export const OxHugoFlavouredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {

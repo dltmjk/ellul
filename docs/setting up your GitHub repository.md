@@ -28,7 +28,7 @@ git remote add upstream https://github.com/jackyzha0/quartz.git
 Then, you can sync the content to upload it to your repository. This is a helper command that will do the initial push of your content to your repository.
 
 ```bash
-npx quartz sync --no-pull
+npx ellul sync --no-pull
 ```
 
 > [!warning]- `fatal: --[no-]autostash option is only valid with --rebase`
