@@ -52,8 +52,8 @@ function* chunks<T>(arr: T[], n: number) {
 
 async function transpileWorkerScript() {
   // transpile worker script
-  const cacheFile = "./.ellul-cache/transpiled-worker.mjs"
-  const fp = "./ellul/worker.ts"
+  const cacheFile = "./.quartz-cache/transpiled-worker.mjs"
+  const fp = "./quartz/worker.ts"
   return esbuild.build({
     entryPoints: [fp],
     outfile: path.join(QUARTZ, cacheFile),
@@ -166,7 +166,7 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
     }
   } else {
     await transpileWorkerScript()
-    const pool = workerpool.pool("./ellul/bootstrap-worker.mjs", {
+    const pool = workerpool.pool("./quartz/bootstrap-worker.mjs", {
       minWorkers: "max",
       maxWorkers: concurrency,
       workerType: "thread",

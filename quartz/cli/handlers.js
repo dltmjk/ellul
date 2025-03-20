@@ -43,7 +43,7 @@ function resolveContentPath(contentPath) {
 }
 
 /**
- * Handles `npx ellul create`
+ * Handles `npx quartz create`
  * @param {*} argv arguments for `create`
  */
 export async function handleCreate(argv) {
@@ -199,7 +199,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
   }
 
   // now, do config changes
-  const configFilePath = path.join(cwd, "ellul.config.ts")
+  const configFilePath = path.join(cwd, "quartz.config.ts")
   let configContent = await fs.promises.readFile(configFilePath, { encoding: "utf-8" })
   configContent = configContent.replace(
     /markdownLinkResolution: '(.+)'/,
@@ -221,7 +221,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 }
 
 /**
- * Handles `npx ellul build`
+ * Handles `npx quartz build`
  * @param {*} argv arguments for `build`
  */
 export async function handleBuild(argv) {
@@ -316,7 +316,7 @@ export async function handleBuild(argv) {
     release()
 
     if (argv.bundleInfo) {
-      const outputFileName = "ellul/.ellul-cache/transpiled-build.mjs"
+      const outputFileName = "quartz/.quartz-cache/transpiled-build.mjs"
       const meta = result.metafile.outputs[outputFileName]
       console.log(
         `Successfully transpiled ${Object.keys(meta.inputs).length} files (${prettyBytes(
@@ -455,8 +455,8 @@ export async function handleBuild(argv) {
   if (argv.watch) {
     const paths = await globby([
       "**/*.ts",
-      "ellul/cli/*.js",
-      "ellul/static/**/*",
+      "quartz/cli/*.js",
+      "quartz/static/**/*",
       "**/*.tsx",
       "**/*.scss",
       "package.json",
@@ -472,7 +472,7 @@ export async function handleBuild(argv) {
 }
 
 /**
- * Handles `npx ellul update`
+ * Handles `npx quartz update`
  * @param {*} argv arguments for `update`
  */
 export async function handleUpdate(argv) {
@@ -503,7 +503,7 @@ export async function handleUpdate(argv) {
   as it will be unable to find `npm`. This is often the case on systems
   where `npm` is installed via a package manager.
 
-  This means `npx ellul update` will not actually update dependencies
+  This means `npx quartz update` will not actually update dependencies
   on Windows, without a manual `npm i` from the caller.
 
   However, by spawning a shell, we are able to call `npm.cmd`.
@@ -524,7 +524,7 @@ export async function handleUpdate(argv) {
 }
 
 /**
- * Handles `npx ellul restore`
+ * Handles `npx quartz restore`
  * @param {*} argv arguments for `restore`
  */
 export async function handleRestore(argv) {
@@ -533,7 +533,7 @@ export async function handleRestore(argv) {
 }
 
 /**
- * Handles `npx ellul sync`
+ * Handles `npx quartz sync`
  * @param {*} argv arguments for `sync`
  */
 export async function handleSync(argv) {

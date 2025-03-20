@@ -26,7 +26,7 @@ The Custom OG Images emitter plugin generates social media preview images for yo
 This plugin accepts the following configuration options:
 
 ```typescript title="quartz.config.ts"
-import { CustomOgImages } from "./ellul/plugins/emitters/ogImage"
+import { CustomOgImages } from "./quartz/plugins/emitters/ogImage"
 
 const config: QuartzConfig = {
   plugins: {

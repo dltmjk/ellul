@@ -5,7 +5,7 @@ title: "Building your Quartz"
 Once you've [[index#🪴 Get Started|initialized]] Quartz, let's see what it looks like locally:
 
 ```bash
-npx ellul build --serve
+npx quartz build --serve
 ```
 
 This will start a local web server to run your Quartz on your computer. Open a web browser and visit `http://localhost:8080/` to view it.

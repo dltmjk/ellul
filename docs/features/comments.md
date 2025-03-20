@@ -38,7 +38,7 @@ afterBody: [
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'jackyzha0/ellul',
+      repo: 'jackyzha0/quartz',
       // from data-repo-id
       repoId: 'MDEwOlJlcG9zaXRvcnkzODcyMTMyMDg',
       // from data-category
@@ -107,9 +107,9 @@ afterBody: [
     options: {
       // Other options
 
-      themeUrl: "https://example.com/static/giscus", // corresponds to ellul/static/giscus/
-      lightTheme: "light-theme", // corresponds to light-theme.css in ellul/static/giscus/
-      darkTheme: "dark-theme", // corresponds to dark-theme.css ellul/static/giscus/
+      themeUrl: "https://example.com/static/giscus", // corresponds to quartz/static/giscus/
+      lightTheme: "light-theme", // corresponds to light-theme.css in quartz/static/giscus/
+      darkTheme: "dark-theme", // corresponds to dark-theme.css quartz/static/giscus/
     }
   }),
 ],

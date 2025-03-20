@@ -77,7 +77,7 @@ export async function fetchTtf(
 ): Promise<Buffer<ArrayBufferLike> | undefined> {
   const fontName = rawFontName.replaceAll(" ", "+")
   const cacheKey = `${fontName}-${weight}`
-  const cacheDir = path.join(QUARTZ, ".ellul-cache", "fonts")
+  const cacheDir = path.join(QUARTZ, ".quartz-cache", "fonts")
   const cachePath = path.join(cacheDir, cacheKey)
 
   // Check if font exists in cache
@@ -160,7 +160,7 @@ export type ImageOptions = {
    */
   fonts: SatoriOptions["fonts"]
   /**
-   * `GlobalConfiguration` of ellul (used for theme/typography)
+   * `GlobalConfiguration` of quartz (used for theme/typography)
    */
   cfg: GlobalConfiguration
   /**

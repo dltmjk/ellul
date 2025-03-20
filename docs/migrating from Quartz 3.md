@@ -9,7 +9,7 @@ git fetch
 git checkout v4
 git pull upstream v4
 npm i
-npx ellul create
+npx quartz create
 ```
 
 If you get an error like `fatal: 'upstream' does not appear to be a git repository`, make sure you add `upstream` as a remote origin:
