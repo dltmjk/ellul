@@ -1,0 +1,1 @@
+Zettelkasten is a notetaking/personal knowledge management system created by [[Niklas Luhmann]]. It is meant to externalize your knowledge and work as a 'secondary brain'. 
