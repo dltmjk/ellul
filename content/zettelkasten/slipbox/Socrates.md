@@ -1,0 +1,1 @@
+Socrates is a Greek philosopher from Athens. He was born in Alopece and died in Athens. 
