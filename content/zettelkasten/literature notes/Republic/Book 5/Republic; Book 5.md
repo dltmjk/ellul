@@ -1,5 +1,6 @@
 1. [[Socrates]] mentions that women and children will be shared in this society. 
 	1. Adeimantus accuses him of being lazy since he doesn't elaborate on this point.
+	2. Socrates defends himself by claiming that his ideas on this matter are unformed and he is scared of expressing them
 2. Women should be brought up in the same way as men
 	2. Given the same education and training. 
 		1. While this might seem laughable given the current customs, there have been examples of other such practices that were thought improper until practiced. 
@@ -15,5 +16,8 @@
 
 		> But those of inferior parents, or any deformed offspring of the others, they will hide in a secret and unknown place, as is fitting 460c4 #quote 
 		
-	2. 
+	2. The city will be a communal entity. It will feel and experience what the individual does. The city is shared between its citizens, the same way the human body shares pain and pleasure. 
+		1. Private property and possessions will not exist. A consequence of this is that there will be no private possessions 
+	3. How will all this come about?
+		1. The philosopher king. Either a philosopher has to become a king or a king has to be educated in philosophy. 
 
