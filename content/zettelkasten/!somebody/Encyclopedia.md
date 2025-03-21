@@ -1,0 +1,1 @@
+going through philosophy encyclopedia and making slipbox notes

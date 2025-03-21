@@ -9,3 +9,4 @@ On Keywords
 2. Your Zettelkasten is personal so make sure your keywords have a personal meaning that allow you to find them. What you relate a certain note with is what the keyword should be. 
 
 On Maintaining 
+1. Setup regular checks of your inbox folder and your someday folder. 

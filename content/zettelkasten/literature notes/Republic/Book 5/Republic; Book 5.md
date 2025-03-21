@@ -2,10 +2,10 @@
 	1. Adeimantus accuses him of being lazy since he doesn't elaborate on this point.
 	2. Socrates defends himself by claiming that his ideas on this matter are unformed and he is scared of expressing them
 2. Women should be brought up in the same way as men
-	2. Given the same education and training. 
+	1. Given the same education and training. 
 		1. While this might seem laughable given the current customs, there have been examples of other such practices that were thought improper until practiced. 
-	3. Therefore, women should have the same pursuits as men. Since their natural capacities are the same, it is only the training that differs between them. 
-		1. While this a viable proposition, is this the *best* state of affairs?
+	2. Therefore, women should have the same pursuits as men. Since their natural capacities are the same, it is only the training that differs between them. 
+		2. While this a viable proposition, is this the *best* state of affairs?
 			1. If these people have certain natures (such as shoemaker or guardian) then putting them in their correct positions would be best for the city. 
 
 > That all these women should be shared among all the men, that no individual > woman and man should live together, and that the children, too, should be shared, with no parent knowing its own offspring, and no child its parent. 457c10 #quote
