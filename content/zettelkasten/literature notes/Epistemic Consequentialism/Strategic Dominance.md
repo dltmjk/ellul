@@ -2,9 +2,11 @@
 Certain things can be ranked on a scale. For example, if A is preferred to be then A > B on a certain ordinal scale. This concept can be applied to certain epistemological notions like confidence. An example of this type of ordinal series is given here:
 
 Imagine you prefer apples to bananas, we can express this in the following way:
+
 $$ P_{ab} $$
 
 We can also express a certain type of indifference in the same way. For example if you neither prefer bananas or grapes:
+
 $$I_{bg}$$
 
 Using this information we can construct a "ladder" of sorts which expresses these preferences in the aforementioned ordinal series. Since we know that A > B and B = G, then our ladder would hold two "rungs". The first contains apples and the second contains bananas and grapes. For these types of orderings to be valid, they have to hold the ability to be categorized in this way. 
