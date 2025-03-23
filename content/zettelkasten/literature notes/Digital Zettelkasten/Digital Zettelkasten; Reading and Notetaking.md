@@ -10,3 +10,4 @@ On Keywords
 
 On Maintaining 
 1. Setup regular checks of your inbox folder and your someday folder. 
+2. Every morning turn literature notes in permanent notes. 
