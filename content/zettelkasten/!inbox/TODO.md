@@ -3,6 +3,7 @@ HPS Ellul
 Honors Research
 Frege Chapters
 
+Start working on Essays soon
 HPS Objectivity - April 7th
 Print out Officeworks photos
 Blood test

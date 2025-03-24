@@ -1,6 +1,6 @@
 Within his 'Meaning and Necessity', Carnap gives his method of Intentional Structure. A way to convert two sentences that are either *intentionally isomorphic* with each other or possess the same *intentional structure*
 
-For example, $'9-2$ is intentionally isomorphic with '*minus*****(IX,II)**' because there is a correspondence between each statements symbols. Where the matching symbols denote the same entities. 
+For example, $'9-2$ is intentionally isomorphic with '*minus* **(IX,II)**' because there is a correspondence between each statements symbols. Where the matching symbols denote the same entities. 
 
 Carnap gives the following explanation: 
 
