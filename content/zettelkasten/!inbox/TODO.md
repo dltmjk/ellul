@@ -1,10 +1,12 @@
 Turn literature notes in permanent notes 
-HPS Ellul
+Make Room into a huge collage
+	Buy scalpel and mat to cut things  
+New Gym Split
+HPS Objectivity - April 7th
 Honors Research
 Frege Chapters
 
 Start working on Essays soon
-HPS Objectivity - April 7th
 Print out Officeworks photos
 Blood test
 Epistemology presentation - April 24th
