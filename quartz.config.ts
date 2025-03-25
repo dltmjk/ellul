@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Questrial",
+        header: "Times New Roman",
         body: "Mate",
         code: "IBM Plex Mono",
       },
@@ -84,7 +84,6 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: true,
       }),
-      Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
