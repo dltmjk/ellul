@@ -33,7 +33,7 @@
 			1. However, it pays a price in explanatory power 
 				1. We cannot talk, in any meaningful way, about the construction itself. 
 			2. Furthermore, if the term is only a certain way of naming a number, then the number must hold each construction within it. The term must be constitutive of the number. 
-		3. There is a critique of [[Carnaps Intentional Structure]]. 
+		3. There is a critique of [[Carnap Intentional Structure]]. 
 			1. It is only valid for languages where the writing of arguments is done from left-to-right. 
 		4. We also have some troublesome statements that don't have a corresponding number. For example, '$3 \div 0$', which is *undefined*. However, people who accept view B will have to concede that the term if empty. 
 	3. To the pioneers of modern mathematics, a formula was a *diagram*. A graphical representation of a complex object. 

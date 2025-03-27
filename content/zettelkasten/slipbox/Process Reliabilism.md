@@ -1,0 +1,2 @@
+Definition by Selim Berker 
+> What makes a belief epistemically justified is its connection to a process (or indicator, or method, or …) that conduces towards the promotion of true belief and the avoidance of false belief. Berker, Epistemic Teleology and the Separateness of Propositions, 363

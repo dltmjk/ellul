@@ -1,5 +1,5 @@
 ## Ordering Items
-Certain things can be ranked on a scale. For example, if A is preferred to be then A > B on a certain ordinal scale. This concept can be applied to certain epistemological notions like confidence. An example of this type of ordinal series is given here:
+Certain things can be ranked on a scale. For example, if A is preferred to be then A > B on a certain ordinal scale. This concept can be applied to certain epistemological notions like confidence or belief within an [[Epistemic Consequentialism]] system. An example of this type of ordinal series is given here:
 
 Imagine you prefer apples to bananas, we can express this in the following way:
 

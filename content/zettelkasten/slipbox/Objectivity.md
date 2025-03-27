@@ -1,0 +1,1 @@
+Objectivity is a concept with a history. It is not equivalent to truth or certainty and is younger than both. 
