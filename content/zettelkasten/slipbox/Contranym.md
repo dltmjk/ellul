@@ -1,0 +1,1 @@
+A word which means two opposite things. For example, sanction which can be applied as a penalty or can be used to indicate permission to do something. 

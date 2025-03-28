@@ -1,0 +1,1 @@
+A Latin phrase meaning 'in his/her own right'. Used to refer to nobility who hold a title without it being derived from elsewhere. For example, a queen who is queen not through her husband but because she holds the title. 

@@ -26,3 +26,4 @@
 	2. We need to answer how many distinct variables there are. If there is more than one, how do we define the difference? e.g. 'x is greater than y'
 		1. Since he had no real satisfactory account of variables, he had no way of distinguishing between two variables. 
 	3. Variables are given difference by appearing at specific instances within the sentence. 
+	4. A variable is analogous to a point in space defined as ${x,y,z}$ coordinates. The x variable is the first coordinate in this sequence, the y is second and so on. Therefore, the ontological difference between variables is defined as the position in the sequence it returns.  

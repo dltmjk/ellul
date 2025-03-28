@@ -1,4 +1,4 @@
-aTurn literature notes in permanent notes 
+Turn literature notes in permanent notes 
 Make Room into a huge collage
 	Buy scalpel and mat to cut things  
 New Gym Split

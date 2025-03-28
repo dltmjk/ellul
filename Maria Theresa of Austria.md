@@ -1,0 +1,1 @@
+Born 13th May 1717 and died Nov 29 1780. The only woman to ever hold the Habsburg monarchy [[suo jure]]. 

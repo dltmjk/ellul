@@ -41,4 +41,4 @@
 	1. The problem with this is that the belief is not in the sentence. 
 		1. An analogous example is that when we say a tide is counterclockwise, we are not saying it is relational to the direction of a clock. Instead it is relational to a certain direction which aligns with the clock. 
 		2. Similarly, when we speak of a arithmetic statement, it is relational to some sort of entities, not as a mere syntax. 
-		3. Therefore, tom believes what is *meant* by 9-2=7. Not in the sentence. 
+		3. Therefore, Tom believes what is *meant* by 9-2=7. Not in the sentence. 
