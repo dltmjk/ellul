@@ -21,3 +21,6 @@
 				1. This will be an attempt to track down exactly why the meter became so popular and how this affected our epistemic attitudes towards the world and measurement.
 
 ## Measurements, Epistemological Filters
+1. Malebranche gives the example of everything shrinking down to a tennis ball. If you stayed the same size and the rest of the world was miniature, wouldn't their worries seem quite miniature. 
+	1. Scale works as an epistemological filter, it makes people separate what is important from what isn't based on the size. 
+	2. Magnitude plays an essential role in the construction of knowledge. 
