@@ -1,0 +1,1 @@
+Nikolai I. Vavilov writes that there are eight primary centers of cultivated plants. From these [eight](https://www.wikiwand.com/en/articles/Vavilov_center) agriculture centers extend outwards. For example by imitation or conquest. 
