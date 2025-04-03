@@ -19,5 +19,3 @@
 	4. Technique specifies the attitudes which man makes towards the world. These attitudes, or models, are taken as valid. 
 		1. When the technique has been integrated into every area in life, it becomes integrated within man. 
 
-## Science and Technique 
-1. Science comes from technique, not the other way around. 

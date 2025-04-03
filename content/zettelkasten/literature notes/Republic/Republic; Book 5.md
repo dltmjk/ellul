@@ -8,7 +8,7 @@
 		2. While this a viable proposition, is this the *best* state of affairs?
 			1. If these people have certain natures (such as shoemaker or guardian) then putting them in their correct positions would be best for the city. 
 
-> That all these women should be shared among all the men, that no individual > woman and man should live together, and that the children, too, should be shared, with no parent knowing its own offspring, and no child its parent. 457c10 #quote
+> That all these women should be shared among all the men, that no individual woman and man should live together, and that the children, too, should be shared, with no parent knowing its own offspring, and no child its parent. 457c10 #quote
 
 3. This claim has to be defended on the grounds of both benefit and viability. 
 	1. Socrates says he doesn't want to elaborate how this will be viable, but instead wants to focus on its benefit. 
