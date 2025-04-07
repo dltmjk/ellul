@@ -1,4 +1,4 @@
-Source: [[Objectivity; Epistemologies of The Eye]]
+Source: [[Epistemologies of The Eye]]
 
 The European language cognates derive from the Latin adverbial or adjectival form *obiectivus/obiective*. Introduced by philosophers Duns Scotus and William of Ockham. The substantive/noun form does not emerge until the 19th century. 
 

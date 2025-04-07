@@ -48,6 +48,7 @@ why can't you trust the ML model but not a doctor
 2. Why are opaque machine learning algorithms different from other algorithms. Why are they different from other scientific instruments, why are they different from people? 
 	1. Normal scientific instruments 
 		1. You can detect artifacts and give explanations 
+	2. Doctors (Trust and Trustworthiness in AI)
 
 # Questions I need to answer
 1. What motivates this as an interesting philosophical question
