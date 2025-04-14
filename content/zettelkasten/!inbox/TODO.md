@@ -1,8 +1,8 @@
+Think about what to say to Michael before meeting. 
 Turn literature notes in permanent notes 
 Make Room into a huge collage
 	Buy scalpel and mat to cut things  
 New Gym Split - 531, heavy ok volume
-Honors Research
 Frege Chapters
 
 New Phone
