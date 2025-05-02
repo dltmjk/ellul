@@ -1,0 +1,1 @@
+There are two major parts to the Triglyceride molecule. The glycerol backbone and the fatty acid tail. An ester bond connects the tail and backbone. 

@@ -1,0 +1,1 @@
+A compound that lowers the surface tension between two liquids. For example [[Soap]] is a surfactant 
