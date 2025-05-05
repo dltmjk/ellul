@@ -27,19 +27,10 @@ Put FT on the new phone - find a way to do this
 Start working on Essays soon
 Print out Officeworks photos
 Blood test
-Epistemology presentation - April 24th
-
 
 Buy sweatpants and shirts
 
 Anki Flashcards
-
-Things to do before book club:
-Check if PS2 is working before dylan leaves
-Check that the controller works and that it can play games 
-Clean up generally
-Move Nixon bookmark
-Put up posters 
-Make tiramisu or focaccia
+[German Reading Exercises ](https://la.utexas.edu/users/arens/tutorial/index.htm)
 
 nixon pg 85

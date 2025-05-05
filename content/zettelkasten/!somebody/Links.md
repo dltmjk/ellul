@@ -32,8 +32,29 @@ https://www.are.na/block/2733469
 CIA and the Rolling Stones
 https://www.carlbernstein.com/the-cia-and-the-media-rolling-stone-10-20-1977
 
-Philosophy as a Way of Life
-https://www.goodreads.com/book/show/305860.Philosophy_as_a_Way_of_Life
-
 Until Death Do Us Part
 https://slowburn.com.au/products/until-death-do-us-part
+
+Empty Plenum Dissertation 
+https://philarchive.org/archive/TEMFWT
+
+Foucault Epistemology 
+https://www.sas.upenn.edu/~cavitch/pdf-library/Foucault_Author.pdf
+
+Formal Philosophy 
+https://philpapers.org/rec/HENFP-2
+
+Wolfram LLM Essays
+https://christopherwolfram.com/essays/llms-in-academia/
+https://christopherwolfram.com/projects/eval-correlations/
+
+Dan Luu Programming Blogs
+https://danluu.com/programming-blogs/
+https://sites.google.com/site/steveyegge2/ten-great-books
+https://danluu.com/programming-books/
+
+Rome
+https://www.maximum-progress.com/p/romae-industriae
+
+Learning Tech Stuff Github List
+https://github.com/Selhar/learning_resources?tab=readme-ov-file
