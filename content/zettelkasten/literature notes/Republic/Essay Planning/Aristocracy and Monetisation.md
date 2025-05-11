@@ -11,3 +11,4 @@
 		   Access to Deity 
 		   Virtue
 	2. European aristocracy leaves us with the impression that the only entry into its ranks is fulfilling certain standards of birth. Producing a relatively insular class. 
+	3. 
