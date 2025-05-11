@@ -1,0 +1,3 @@
+Plato was a Greek philosopher from the fourth century BCE. He descended from members of the *Eupatridae* on both sides of his family. Essentially, aristocrats. His father traced his lineage to the old kinds of Athens while the mothers family traced theirs to Solon. 
+
+Plato's uncle was one of the thirty tyrants after the Peloponnesian War. As a youth he might have had political aspirations. His academy frequently provided counsel to kings and other leaders. 
