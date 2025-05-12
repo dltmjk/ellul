@@ -3,30 +3,30 @@
 
 1. Basis for how I can make an argument for philosophy arising out from material conditions.
     1. Marxist scholars have performed work for how we can take social contexts into account when analysing Plato’s ideas.
-        1. Wood and Wood 1978, pp. 2 – 8, 119-128.
-        2. Ste. Croix 1981, pp. 70 – 71
+        1. Wood and Wood 1978, pp. 2 – 8, 119-128. #source
+        2. Ste. Croix 1981, pp. 70 – 71 #source
     2. There can be a connection between the mode of production of the ancient polis and the abstractness of platonic thought
         1. There is an incongruity between the mode of platonic thought and the material conditions of the polis.
-    3. Alfred Sohn-Rethel and Rudolf Wolfgang Müller both argue that forms of thought can be deduced from commodity circulation.
-        1. R. Seaford also argues that there is an intrinsic connection between monetisation and the genesis of philosophy in Ionia.
+    3. Alfred Sohn-Rethel and Rudolf Wolfgang Müller both argue that forms of thought can be deduced from commodity circulation. #source
+        1. R. Seaford also argues that there is an intrinsic connection between monetisation and the genesis of philosophy in Ionia. #source
             1. The first historical society which exhibited an extended degree of monetisation.
     4. Marx argues that the mode of production of a society transfigures its social elements.
 
 ## Money Forms and Forms of thought 
 
-1. “The central claim of this analysis can be summarised in the following way: abstract rationality as the main form of theoretical thought cannot be explained as a natural form but must be deduced from the field of human action” Müller 1977, p. 20
+1. “The central claim of this analysis can be summarised in the following way: abstract rationality as the main form of theoretical thought cannot be explained as a natural form but must be deduced from the field of human action” Müller 1977, p. 20 
         a. Intellectual knowledge presumes itself autonomous from material conditions. 
 2. What matters as well in the formation of thought are the factors of: class, politics, and religion. 
     2. One of the prominent social relations of Ancient Greece was that of slavery. 
         a. “This relation accounts for a number of separations such as that between production and consumption, necessary labour and leisure, slave and citizen, in short the separation between ποίηση [production] and πράξη [action] as we find in Aristotle.”
 3. Commodities and money existed before capitalism. It was a production of use-values 
-        a. Mandel 1976, pp. 14–15.
-        b. Wood and Wood 1978
+        a. Mandel 1976, pp. 14–15. #source
+        b. Wood and Wood 1978 #source
 
 ## The Details of Book One
 
 1. It is hard not to notice the discrepancy in interests between Book I and the rest of the work. The interests of the former seem to fade away as the work progresses. 
-        a. Joseph 1966, p. 6; see also Annas 1981, p. 18.
+        a. Joseph 1966, p. 6; see also Annas 1981, p. 18. #source
 2. The important things to note 
         a. Piraeus as the location 
         b. Scene at 337d between Socrates and Thrasymachus
@@ -54,14 +54,14 @@
 
 1. Justice and it’s Connection to Wealth 
         a. The first interlocuter in the dialogue is Cephalus, who makes his money as a weapons manufacture (would this have been seen badly back in ancient Greece?)
-            i. It is not a traditional form of wealth, but a type of wealth that was newly created given the historical conditions (what are they? What caused an uptake of wealth in Piraeus?)  
+            i. It is not a traditional form of wealth, but a type of wealth that was newly created given the historical conditions (what are they? What caused an uptake of wealth in Piraeus?)  #questions
             ii. Socrates asserts that “‘have made money take this money seriously . . . and . . . they are hard to talk to since they are unwilling to commend anything except money’
             iii. Therefore, contending that there is a tension between having money and having good character. It is hard to even converse with him 
 2. When the son (Polemarchus) takes over the argument he invokes a quote from Simonides (The first poet who took payment for poetic compensation)
-        a. Thayer 1975, p. 4, and Detienne 1996, p. 107
+        a. Thayer 1975, p. 4, and Detienne 1996, p. 107 #source
         b. Everything seems to be in the process of being monetized. These things are not done for their own sake, but for the sake of money 
             i. This leads onto a discussion of use. 
-            ii. Socrates seems to be moving away from money, or excess into a society based around use-value and self-sufficiency.
-            iii. What is Polemarchus conception of justice?  	
+            ii. Socrates seems to be moving away from money, or excess into a society based around use-value and self-sufficiency. #questions
+            iii. What is Polemarchus conception of justice? #questions
 3. Throughout the text there is this framing of a perfect injustice, which takes place through exploitation. This can be extended to an analysis of usury in the ancient Greek world. 	
         a. Tyranny is the best way to leads one life – established in the book somewhere 

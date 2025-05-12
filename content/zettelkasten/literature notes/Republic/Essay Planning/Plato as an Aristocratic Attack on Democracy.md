@@ -43,7 +43,7 @@
 		1. Athenian citizenship was strengthened while the Eupatridae was weakened. 
 		2. His son, Hippias, fought against Cleisthenes who commanded a base of masses against the conservative wing of the aristocracy led by Isagoras. 
 5. The victory of Cleisthenes weakend the traditional nobility by abolishing the *phatry*. Newer kinship groups were tied directly to the *polis*
-	1. How did this change the Athenian superstructure? 
+	1. How did this change the Athenian superstructure? #questions
 	2. The Athenian Navy helped in the victory at the Battle of Salamis, which helped establish the Athenian Navy as a major military force
 		1. Staffed almost entirely by the *thetes* - The poorest Athenians. 
 		2. This contribution, helped in exacerbating the class struggle 
