@@ -11,4 +11,4 @@
 		   Access to Deity 
 		   Virtue
 	2. European aristocracy leaves us with the impression that the only entry into its ranks is fulfilling certain standards of birth. Producing a relatively insular class. 
-	3. 
+		1. A collection of essays *Aristocracy in Antiquity* (Redefining Greek and Roman Elites) Nick Fisher and Hans Van Wees rejects that these assumptions applied to Ancient civilisations. 
