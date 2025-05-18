@@ -2,7 +2,8 @@
 ## Background 
 1. Athens had been a democracy since Solon in the 6th Century until the Cleisthenian reforms in 507. 
 	1. Thousands of Athenian males won citizenship rights and the ability to engage in shaping the political order 
-	2. The aristocracy (Eupatridae) objected to this and claimed this disrupted the "natural order of things"
+	2. The aristocracy (Eupatridae) objected to this and claimed this disrupted the "natural order of things"stay strap
+	3. 
 2. Plato Lineage 
 	1. His father came from the old kings of Athens
 	2. His mother traced her roots to the Athenian lawgiver Solon 

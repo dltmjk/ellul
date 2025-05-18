@@ -22,6 +22,31 @@ to represent $i$'s values at $t$. We have, then, that $u_i^t(w) \geq u_i^t(w')$ 
 
 Let $\mathcal{O}_i^{t'}$ be a set of propositions that partitions $W$. We assume that, for each $O \in \mathcal{O}_i^{t'}$,
 
+## Advantages of Set Theoretic Approach
+1. Unsure, why not just limit decision theoretic approaches to a simple functional analysis? 
+	1. What is the advantage of the Atomic approach? 
+2. Credence function maps all members of $\text{A}_i^t$ to real numbers. Set $\rightarrow$ Set. $\text{At}_i^t$ is the set of Atoms of $\text{A}_i^t$
+	1. Utility function maps individual $W_{{1,2,\dots,n}}$ from a set $W$
+3. $O$ being the propositions which $i$ can possibly realise, i.e. make true at time $t$
+
+
+## Howson's Robustness Objection
+1. Consequences of using non-bounded Credences for probabilism 
+	1. Instead of 0 - 1, what happens if we use other bounding mechanisms. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

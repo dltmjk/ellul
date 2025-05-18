@@ -31,7 +31,7 @@
         a. Piraeus as the location 
         b. Scene at 337d between Socrates and Thrasymachus
             i. Seems to represent the antagonistic bet between sophist and philosopher 
-3. Why did Plato decide to set Piraeus as the location? What significance do the characters have? Pp. 8
+3. Why did Plato decide to set Piraeus as the location? What significance do the characters have Pp. 8
         a. Details about the location. It is the harbour of the city of Athens
             i. “Piraeus viewed as an obstacle to political unity both from the standpoint of the traditional political elite with its antidemocratic sentiments and that of the radical democratic faction itself”
             ii. Piraeus also represents the location in which new investment opportunities grow. 
