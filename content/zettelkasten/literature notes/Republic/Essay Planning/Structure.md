@@ -8,6 +8,9 @@ Plato's Political Philosophy can be viewed as a reaction to both the rise of min
 The rising propertied class pervert the polis. (Wood and Wood)
 
 
+The historical relationship between the rise of coinage, trade and the commercial class is of importance to Plato how places strict measures in his handling of money in the republic. 
+
+
 
 ## MasterList
 Start with Keynes Quote
