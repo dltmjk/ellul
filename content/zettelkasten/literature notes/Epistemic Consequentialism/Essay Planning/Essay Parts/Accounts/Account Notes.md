@@ -1,9 +1,13 @@
 1. Outline
-	1. Causal modelling found within Pearl (2009) and Spirtes, Glymour, and Scheines (2000). Find More. We need to introduce prerequisites
-		1. DAG (Directed acryllic graph)
-	2. "Intervention" to prove causality, Ricola pg 1946
+	1. Formalizing a DAG (Directed acryllic graph) as found within causal modelling literature within Pearl (2009) and Spirtes, Glymour, and Scheines (2000). 
+	2. How credences and evidence will be defined in this model. Taking inspiration from Causal Bayesian Networks. 
+	3. How evidence will affect this DAG
+
+
+
+	4. "Intervention" to prove causality, Ricola pg 1946
 		1. It is impossible to explain the actual dynamics of causal relevance we can model it in this way 
-	3. We can represent credal, or evidential sets with variables. 
+	5. We can represent credal, or evidential sets with variables. 
 		1. Why is it a probability distribution
 			1. We follow from Weisberg and Pettigrew in allowed for credences to lie in the span of your possible future credences. 
 			2. That is, if your current credence function is $c$ and your possible future credence functions are $c_1, \ldots, c_n$, then there should be $0 \leq \lambda_1, \ldots, \lambda_n \leq 1$ such that $\sum_{i=1}^{n} \lambda_i = 1$ and $c = \sum_{i=1}^{n} \lambda_i c_i$
@@ -41,6 +45,7 @@
 		2. This could be implemented by an iterative procedure (analogous to gradient descent) that makes a **series of mini-conditionalizations** as the credence of $E$ moves from $p$ toward $p’$. Such a process would reflect **procedural rationality**, acknowledging that real agents may update in stages. Notably, this is conceptually similar to how a BNN learns: each data point or small batch nudges the distribution rather than causing an instantaneous full update.
 	2. Conservatism in Credence changes 
 		1. **minimizes change from the prior while accommodating the new evidence constraints**
+		2. Principle of minimal change due to Diaconis & Zabell (1982, Section 5.1) and Dietrich et al. (2016)
 
 
 

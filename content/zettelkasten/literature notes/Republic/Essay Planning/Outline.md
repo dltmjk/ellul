@@ -1,4 +1,33 @@
-1. History of Aristocracy and the Rise of coinage [600 Words]
+Abstract
+We argue that Plato recognizes coinage as one of the main reasons for the declining Aristocracy
+within Greece and constructs his Kallipolis around this phenomenon. In this essay, we develop a history
+of the Greek aristocracy and the multiple reasons for it’s weakening. We specifically highlight the
+mass adoption of coinage and the rising commercial class which displaces the aristocratic stronghold on
+politics. We argue that Plato, holding certain staple aristocratic attitudes and witnessing the damage
+coinage can cause, constructs his Kallipolis with certain limitations. Specifically, limiting the function
+of money and its interaction with the Kallopolis ruling class.
+
+The critias is basically ancient athens. Plato thinks the city in the critias is good. Therefore, he thinks ancient athens is good. Ancient athens was disrupted by coinage. Looks at how he treats coinage in the republic. 
+
+
+Things to tie together: 
+Aristocratic Attitudes 
+Coinage, wealth, and Atlantis 
+Atlantis as being seafaring. Seafaring as representing wealth (nostolopulous)
+The end of the Atlantis myth as reducing Athens into trade 
+
+Solon and Cleisthenes 
+Weakening aristocracy, the same time as seafaring trade emerged
+This forming a distinct class. One who made their money purely off wealth. 
+Is money associated with the sea. Can we read the end of Critias allegorically for Athens descending into money-loving
+The beginning of the Republic. Not only are we going into the cave (Vidal-Naquet footnote towards the end) but we are also entering the house of money. Cephalus and Polemarchus. 
+
+Seafaring and Coinage 
+- Critias being a giant acropolis. 
+- Water being avoided by Plato. Aristocratic disdain arising out of it being the home of coinage and trade. 
+
+
+5. History of Aristocracy and the Rise of coinage [600 Words]
 	1. This section seeks to establish the basis of Greek aristocracy and establish how their power was weakened through the introduction of coinage 
 	2. Brief historical overview of how the ’Homeric’ lords (the lord of the oikos) functioned and formed a de facto aristocracy
 		1. These lords formed a ruling council of which entry was granted on a hereditary basis. One's birth determined ones social status. They claimed superiority all based on birth alone. They maintained their closed circle by marrying other aristocrats. Starr, _The Ancient Greeks_, p. 120.
