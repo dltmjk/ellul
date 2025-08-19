@@ -14,7 +14,7 @@ Essays
 Honours
 French
 Other stuff. Make a list. Make a Schedule for work. Make a new gym thing 
-Distro
+
 
 Fish oil 
 Zinc

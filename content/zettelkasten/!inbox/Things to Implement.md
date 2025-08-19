@@ -19,7 +19,6 @@ Teeth Stuff
 Debian
 Obsidian and Quartz Sync 
 Editing Personal Website 
-Dwm
 Anki
 
 Stories/Poetry

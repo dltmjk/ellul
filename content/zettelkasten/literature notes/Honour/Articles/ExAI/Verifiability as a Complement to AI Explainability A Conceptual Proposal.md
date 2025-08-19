@@ -1,0 +1,1 @@
+[Verifiability as a Complement to AI Explainability: A Conceptual Proposal](https://philsci-archive.pitt.edu/20297/1/Verification%20as%20a%20Complement%20to%20AI%20Explainability%23final.pdf)

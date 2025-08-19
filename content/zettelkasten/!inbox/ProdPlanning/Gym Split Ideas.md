@@ -38,7 +38,13 @@ Tricep, Overhead Cable Extension
 Tricep, Cable Pushdown 
 
 Back (Light)
-Pull Ups to Failure, Gironda Pull Ups
+Lower Back Extensions - Slow Controlled 
+Anterior Pelvic Tilt Exercises
+Hanging 
+Wall sit Knee Raise (Insta)
+Skater Squat 
+Hip internal rotater deadlifts
+
 
 Leg Press
 Leg Curls

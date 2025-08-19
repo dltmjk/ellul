@@ -23,12 +23,12 @@ Frege Chapters
 
 New Phone
 Put FT on the new phone - find a way to do this 
+ANKI
 
 Start working on Essays soon
 Print out Officeworks photos
 Blood test
 
-Buy sweatpants and shirts
 
 Anki Flashcards
 [German Reading Exercises ](https://la.utexas.edu/users/arens/tutorial/index.htm)

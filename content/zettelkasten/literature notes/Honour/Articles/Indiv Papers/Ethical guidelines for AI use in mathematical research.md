@@ -1,0 +1,1 @@
+[Ethical guidelines for AI use in mathematical research](https://philsci-archive.pitt.edu/24181/1/Ethical%20guidelines%20for%20AI%20use%20in%20mathematical%20research_preprint.pdf)
