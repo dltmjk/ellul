@@ -1,0 +1,23 @@
+Power necessitates its own survival. People in power will setup the institutions of power to continue their control. 
+
+What’s the use of power? Obviously, it’s to make sure that you’ll still be in power tomorrow. The problem is that everybody around you will stop at nothing to take this power from you. Whether it’s through money or politics, power forms obligations that seeks to maintain its control. The real world reprecussions of this are often destructive. Furthermore, it has formed a reality in which the interests of both money and power are admixed. We will argue that the material forms of power, either as wealth or political supremacy, have common goals and use their material tools in order to preserve their status.
+
+The government is presented as a system for the people. This is a common, if not idealistic, view that people have. You pay taxes and vote because your interests are represented in the beaurocratic appratus of the state. This belief forms the basis for participatory democracy. According to this logic, all government actions should, in some abstract manner, been sanctioned by the people. However, looking at the behaviour of most governments over the past century. We instead find a state which intervenes on the behalf of the ruling class (in this case those with capital), or to maintain its own supremacy.
+
+Capitalism seems to entail a world-system in which power is concentrated. Both domestically, with the rising wealth gap and internationally, with the supremacy of certain economically powerful countries. Wallerstein, a historian and political economist, described the effect in his “World-Systems” theory. For him, those rich western countries constituted a “main” section of the world. They established their supremacy through both economic and military dominance and now use this power to subject the “periphery” nations of the world. Countries within Africa or South East Asia which weren’t as lucky.
+
+  
+
+The classic example of a “main” country is the United States which, during the 20th century, started and maintained a number of international conflicts in order to preserve it’s status as the main hegemonic power. Whether it was in South America, the Middle East or South East Asia, the US seemed to have a vested interest in everything. For example, In order to preserve their power, the US crushed revolutions in Indonesia. An event which led to the deaths of nearly two million people. Their justification was that Indonesia was close to alligning with the Soviets. If this were to happen, the US would lose an important economic ally and the event would threaten their power.
+
+  
+
+Military subjugation is obvious. For example, the US still holds military operations in Japan and continues to intervene in the middle east. Economic subjugation can be proven through an analysis of predatory IMF loans, in which countries who wish to take part in the world economy are forced into macroeconomic policies which deprive them of autonomy. These “Structural Readjustment Plans” force countries with underdeveloped domestic industries onto the world stage where they are unprepared. Ha Joon Chang, a developmental economist characterises this as “kicking away the ladder”. Since most economically properous countries engaged in protectionist politics before opening up their industry internationally. By enforcing these policies, the US has squahsed any change of these countries posing a potential threat. Instead, they are locked into a subordinate role to the US government.
+
+  
+
+The interests of governments, then, seem to also represent the interests of capital. Most “main” country industries seem to depend on exploiting the resources of periphery countries. Further ties between capital and government can be illustrated if we look at the prevalence of lobbying. The oil and gas lobby have massive influence globally. It is hard to argue that our politics is performed in a bias-free manner given the influx of money from these sourced. For example, even Trump’s latest tariffs exclude the lion’s share of the semiconductor industry. The consequence of any obstruction would be a lack of resources for prominent US tech companies in their AI arms race, causing massive repercussions within the stock market.
+
+  
+
+Power begets power. It requires it’s own preserverence and seems to have a life of its own. Nick Land, an american philosopher, once remarked that “Capital was sentient”. In doing so he struck at the heart of this jarring relationship. Power seems to have a mind of its own, it seeks it own survival. In doing so, it kills and loots from those unable to fight back.

@@ -1,0 +1,1 @@
+Fritz Haber inventing cyanide and the Haber Bosch process, which converts nitrogen and hydrogen to ammonia. The dual nature of scientific advancement. 
