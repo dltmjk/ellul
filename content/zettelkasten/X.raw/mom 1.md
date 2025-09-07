@@ -191,6 +191,12 @@ What Robert Schumann did was sit back down at the piano and play the piece of mu
 
 "They assume that what they want is available, and then proceed to arrange all the rest, taking pleasure in going through everything they will do when they get it—thus making their already lazy souls even lazier" Socrates, The Republic
 
-"At the beginning of this century a self-destructive democratic principle was advanced in mathematics (especially by Hilbert), according to which all axiom systems have equal right to be analyzed, and the value of a mathematical achievement is determined, not by its significance and usefulness as in other sciences, but by its difficulty alone, as in mountaineering. This principle quickly led mathematicians to break from physics and to separate from all other sciences. In the eyes of all normal people, they were transformed into a sinister priestly caste of a dying religion, like Druids, parasitic on science and technology, recruiting acolytes in the mathematical schools by Zombie-like mental subjection. Bizarre questions like Fermat’s problem or problems on sums of prime numbers were elevated to supposedly central problems of mathematics" = Vladimir I. Arnold
+"At the beginning of this century a self-destructive democratic principle was advanced in mathematics (especially by Hilbert), according to which all axiom systems have equal right to be analyzed, and the value of a mathematical achievement is determined, not by its significance and usefulness as in other sciences, but by its difficulty alone, as in mountaineering. This principle quickly led mathematicians to break from physics and to separate from all other sciences. In the eyes of all normal people, they were transformed into a sinister priestly caste of a dying religion, like Druids, parasitic on science and technology, recruiting acolytes in the mathematical schools by Zombie-like mental subjection. Bizarre questions like Fermat’s problem or problems on sums of prime numbers were elevated to supposedly central problems of mathematics" Vladimir I. Arnold
 
 "Error can often be fertile, but perfection is always sterile" A.J.P. Taylor 
+
+"Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one
+which simulates the child's? If this were then subjected to an appropriate course of education one would
+obtain the adult brain. Presumably the child-brain is something like a note-book as one buys it from the
+stationers. Rather little mechanism and lots of blank sheets. … Our hope is that there is so little mechanism
+in the child-brain that something like it can be easily programmed." Alan M. Turing 
