@@ -1,0 +1,1 @@
+[Cultural Bias in Explainable AI Research: A Systematic Analysis](https://philsci-archive.pitt.edu/23157/1/arXiv%20JAIR%20final%20Cultural%20Bias%20in%20Explainable%20AI%20Research_MC.pdf)

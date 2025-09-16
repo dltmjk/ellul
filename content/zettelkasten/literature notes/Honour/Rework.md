@@ -1,14 +1,15 @@
-Potentially Include: Bayesian updating and machine learning. 
-1. Motivation
-
 Two Separate Questions: 
 Should we use epistemically opaque systems?
 1. Is it justified to trust opaque systems? Scientific knowledge production has parts which are opaque but this is unavoidable. We can use other scientific instruments? 
 2. A scientist should rely on an epistemically opaque tool without the following collectively accepted procedures. 
 3. So In cases of scientific knowledge production, in which there are verifiable methods, yes. Given there are standards. However, in the case of using it to convict criminals - no
 	1. How do these cases differ.
+	2. For example, we use other scientific instruments in the process of a legal case. How does this differ from using an ML system
 How should we use epistemically opaque systems?
 4. Epistemically justified reliance 
+
+Are machine learning models, scientific instruments? 
+1. If we establish this, we can compare and contrast them to other scientific instruments. 
 
 Response to Humphreys
 1. Against his characterisation of Epistemic Opacity 
@@ -24,6 +25,8 @@ When a DNN experiences an Error, it is different from when a normal scientific i
 Sources:
 
 3. What examples are analogous to our explanation of what makes a system opaque? 
+	1. [[Prediction versus understanding in computationally enhanced neuroscience]]
+		1. Good source on the *intelligibility* of a model vs the *interpretability* 
 
 Necessary Trust View: 
 

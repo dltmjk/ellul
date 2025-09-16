@@ -1,4 +1,4 @@
-[[We have no satisfactory social epistemology of AI-based science]]
+[[content/zettelkasten/literature notes/Honour/Articles/Social Epistemology/We have no satisfactory social epistemology of AI-based science]]
 
 Solutions to Trust:
 Focus on Reliability 

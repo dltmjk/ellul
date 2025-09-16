@@ -1,0 +1,1 @@
+[Trusting others in the sciences: a priori or empirical warrant?](https://www.sciencedirect.com/science/article/abs/pii/S0039368102000067?via%3Dihub)

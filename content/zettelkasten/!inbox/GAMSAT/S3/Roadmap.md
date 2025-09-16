@@ -25,18 +25,18 @@ Newton's Laws
 6/9
 Circular Motion
 Torque 
+Physics of Liquids 
 
 7/9
 Energy, work, and conservation of energy and momentum
+Optics
+Physics of Liquids 
 
-
-
-Physics
-Physics of liquids (pressures, Archimedes’ principle, buoyancy)
-Electricity and magnetism (fields, forces, and equilibriums)
-Electric circuits
-Optics (lenses, magnification, snells law)
-Radioactive decay
+8/9
+Electricity 
+Magnetism 
+Electric Circuits 
+Radioactive Decay
 
 
 Chemistry 
