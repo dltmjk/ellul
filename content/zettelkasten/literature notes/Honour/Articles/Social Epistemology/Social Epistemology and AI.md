@@ -1,1 +1,1 @@
-[[content/zettelkasten/literature notes/Honour/Articles/We have no satisfactory social epistemology of AI-based science]]
+[[We have no satisfactory social epistemology of AI-based science 1]]

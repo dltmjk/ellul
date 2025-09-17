@@ -11,8 +11,10 @@ How should we use epistemically opaque systems?
 Are machine learning models, scientific instruments? 
 1. If we establish this, we can compare and contrast them to other scientific instruments. 
 
+
 Response to Humphreys
 1. Against his characterisation of Epistemic Opacity 
+2. What is opacity anyway?
 
 HOW do we normally explain how a scientific tool works [[A Mechanistic Explanatory Strategy for XAI]]
 
@@ -20,6 +22,10 @@ Scientists cannot explain why a model works, but they can explain why are a cert
 
 
 2. A Scientific Model vs a DNN
+
+What is so special about DNNs in Science? 
+[[Functional Concept Proxies and the Actually Smart Hans Problem - What’s Special About Deep Neural Networks in Science]]
+
 Since DNNs are being used in knowledge production 
 When a DNN experiences an Error, it is different from when a normal scientific instrument encounters an Error. For Errors: [[Robustness in Machine Learning]]
 Sources:
@@ -30,7 +36,14 @@ Sources:
 
 Necessary Trust View: 
 
-
 3. Is Reliability enough? 
 
+
+4. Establish DNNs as an instrument 
+	1. Function approximating -> Theory dependence 
+5. Why isn't an instrument? because its opaque. what problems does opaqueness present and how do we remedy opacity? 
+6. Instruments are used pragmatically, by an agent in view of the theory they are approximating 
+7. Therefore, ExAI fails -> Why? 
+	1. Counterarguments
+8. AI use should be pragmatic and reliable. 
 

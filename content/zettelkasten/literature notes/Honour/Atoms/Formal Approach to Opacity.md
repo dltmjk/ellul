@@ -1,0 +1,1 @@
+Using ideas from [[Humphrey's Epistemic Opacity]]. This paper - Kubyshkina and Petrolo ([2022]([[Reasoning about algorithmic opacity]])) - turns that definition into logical notation. 

@@ -1,0 +1,1 @@
+[Extending ourselves: Computational science, empiricism, and scientific method](https://philpapers.org/rec/HUMEOC-2)

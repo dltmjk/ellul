@@ -1,5 +1,5 @@
 Notes:
-1. Science is a type of collective knowledge production which relies on trust. [[content/zettelkasten/literature notes/Honour/Articles/We have no satisfactory social epistemology of AI-based science]]
+1. Science is a type of collective knowledge production which relies on trust. [[We have no satisfactory social epistemology of AI-based science 1]]
 2. How should we characterise AI in comparison to other scientific instruments 
 	1. Why is it we can trust a scientific instrument if there is an agent that is answerable. What level of understanding qualifies an agent as answerable? 
 3. How should we treat certain scientific instruments of which we do not know the inner workings?

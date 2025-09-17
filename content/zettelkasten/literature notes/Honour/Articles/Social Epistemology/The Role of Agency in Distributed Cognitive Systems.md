@@ -1,0 +1,1 @@
+[The Role of Agency in Distributed Cognitive Systems](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/role-of-agency-in-distributed-cognitive-systems/F0A003BC486FB2970D29FFE4DD80FEE9)
