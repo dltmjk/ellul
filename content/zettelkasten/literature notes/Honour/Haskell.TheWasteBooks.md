@@ -1,4 +1,17 @@
- Difference Between DNN and Scientific Instruments
+Section 1: Trust in regards to scientific instruments 
+1. How do we normally go about trusting scientific instruments 
+	1. There needs to be an agent involved 
+
+Section 2: DNNs as a scientific model/instrument 
+1. The DNN is a scientific instrument 
+2. How does it differ from other scientific instruments.
+
+Section 3: What are the methods we can use to trust DNNs.  
+1. ExAI
+	1. This differs from the type of explanation we are after. Scientific explanations are different from ExAI which seek to just explain internal mechanisms
+	2. Can this be redeemed in any way? 
+
+Difference Between DNN and Scientific Instruments
 1. DNNs approximate a function
 2. What function do they approximate exactly? 
 	1. [[Functional Concept Proxies and the Actually Smart Hans Problem - What’s Special About Deep Neural Networks in Science]]
