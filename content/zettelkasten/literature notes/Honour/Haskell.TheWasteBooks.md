@@ -1,15 +1,29 @@
+Outline
+___
 Section 1: Trust in regards to scientific instruments 
 1. How do we normally go about trusting scientific instruments 
 	1. There needs to be an agent involved 
+2. Agency in regards to scientific instruments 
+	1. Necessary Trust View 
 
 Section 2: DNNs as a scientific model/instrument 
-1. The DNN is a scientific instrument 
-2. How does it differ from other scientific instruments.
+1. The DNN is a scientific instrument/How does it differ from a normal scientific instrument
+	1. How does the DNN pose problems to our traditional conceptions of scientific trust. 
+	2. Opacity, Explain opacity in regards to normal scientific instruments 
+	3. How are DNNs qualitatively different? 
 
 Section 3: What are the methods we can use to trust DNNs.  
 1. ExAI
 	1. This differs from the type of explanation we are after. Scientific explanations are different from ExAI which seek to just explain internal mechanisms
 	2. Can this be redeemed in any way? 
+
+
+Notes
+___
+Why is a DNN a scientific instrument 
+1. [[Scientific Instruments]]
+	1. Define what a scientific instrument is. Go into slight detail between the differences between scientific instruments 
+	2. Give example
 
 Difference Between DNN and Scientific Instruments
 1. DNNs approximate a function
@@ -36,7 +50,9 @@ What is the problem?
 1. Given this black box-nature, how can DNNs truly help us advance science? For, in the words of Raghu and Schmidt 
 	"Many standard applications of deep learning [...] focus on prediction—learn- ing to output specific target values given an input. Scientific applications, on the other hand, are often focused on understanding—identifying underlying mechanisms giving rise to observed patterns in the data." pg.44 [[Two Dimensions of Opacity and the Deep Learning Predicament]]
 2. Implications of opacity to science 
-	1. 
+3. Examples of opacity in science 
+	1. [[Thing Knowledge]] pg.3 
+	2. Faradys device. No-one denies that it works, just how it worked. Even today, people are unsure. 
 
 
 Definition of Opacity 
@@ -52,16 +68,25 @@ Definition of Opacity
 3. [[On the Opacity of Deep Neural Networks]]/[[Deep Learning Opacity in Scientific Discovery]]
 	1. Susceptibility to Training Data Ordering
 		1. The model is volatile given a specific training history. The ordering of training data affects the resulting model.
+		2. [[Instruments, Agents, and Artificial Intelligence]]
+			1. 'Local approaches' allow us to understand how a model changes in regards to a particular input 
+			2. However, this doesn't yield global understanding. 
 	2. Inability to understand what parts of the model perform which functions.
 		1. If we created a DNN which mimics the function of a certain traditional classifier model, we would be unable to match the parts of the DNN that are analogous to the traditional model.
 	3. Inability to meaningfully understand or explain the process behind a certain output
 		1. When we examine a DNN we are unable to find out which function or algorithm it implemented in order to classify data because it was constructed autonomously during the training-phase.
+
+Problems With Humphrey's Opacity 
+1. [[Thing Knowledge]] pg.19
+	1. Nobody understands completely how their telephone works. We should not seek understanding at the level of individual belief. 
+	2. Therefore, we should switch to a view in which we consider social epistemology of science. 
 
 Ways of Dealing with Opacity 
 1. ExAI
 	1. Methods for explanation in ExAI
 		1. [[Put it to the Test Getting Serious About Explanation in Explainable Artificial Intelligence]] pg.2 
 	2. "Scientists’ interest in what is usually called ‘eXplainable AI’ (XAI) should be rather high accordingly. But under one reading at least, “‘explanation’ here refers to an understanding of how a model works, as opposed to an explanation of how the world works” (Rudin, 2019, p. 206). Hence, even if XAI succeeds, can we really expect an understanding of “underlying mechanisms” or “how the world works” from it?" pg. 44 [[Two Dimensions of Opacity and the Deep Learning Predicament]]
+2. Why can't we just justify models with more training data to see if it's predicting the correct function? - Because we don't know?
 
 Problems With ExAI
 1. ExAI Inputs needs to be made testable -> Feeds into pragmatic treatment of AI Tools. [[Put it to the Test Getting Serious About Explanation in Explainable Artificial Intelligence]]
