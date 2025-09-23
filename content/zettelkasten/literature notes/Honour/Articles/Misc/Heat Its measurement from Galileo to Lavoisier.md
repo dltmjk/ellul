@@ -1,0 +1,1 @@
+[Heat: Its measurement from Galileo to Lavoisier](https://www.degruyterbrill.com/document/doi/10.1351/pac198759010091/)

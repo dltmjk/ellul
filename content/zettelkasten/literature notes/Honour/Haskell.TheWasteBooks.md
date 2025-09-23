@@ -1,3 +1,80 @@
+Detailed Outline
+___
+Introduction
+1. Alphafold example 
+2. General prevalence of DNNs 
+3. What has already been researched + How is this research different from other research. 
+4. Structure of the essay 
+
+## GO THROUGH hOUTLINE and TABS to construct essay plan
+
+[[Scientific Instruments]]
+1. Trust in instruments 
+	1. What exactly is trust? Can we trust an object
+		1. Trust requires an agent. When we trust someone not to rob us, we are trusting in their moral conscience. We do not trust objects, we rely on them. Agents can be held responsible if they breach our trust, objects cannot. When we say we “trust” an objects, we mean that it is a reliable object - one that functions according to our expectations. (HOutline)
+2. Breakdown of Instruments 
+	1. Instruments assist in knowledge production during research. 
+	2. *instruments that interact with the world* & *instruments that model the world*
+		1. This distinction arose in the 17th century "the trend-setting differentiation between “mathematical” and “philosophical” instruments emerged (see for example Shapin 2006, Benett 2011, Warner 1990 and 1994, van Helden 1983 and 1994)." (Kletzl/Neges Dis. pg.108)
+		2. The line between both is blurred 
+			1. "First, as has been pointed out by many scholars, this distinc- tion primarily mirrored a newly-emerging social boundary, but it does not have much to do with underlying epistemic principles. The same functions of instruments, like the possibility to perform different kinds of measurements, could be regarded as part of a philosophical as well as of a mathematical instrument, dependent on who used the instrument and in what context (see van Helden 1983, 65)."
+			2. In our later discussion of DNNs we will find that certain uses of DNNs could fit into either category 
+			3. Why is this spiel still important? 
+					1. The types of ways these two instrument types are reliable differ. 
+	3. We can justify the OUTPUT of instruments if they are reliable. 
+		1. How do these two instruments differ in their reliability 
+			1. Consistently exploiting causal pathway vs acting analogously to the world 
+3. What is the function of instruments? 
+	1. Another example that is worked out in much detail is Michael Heidelberger’s discussion of four different roles that instruments can play in experimental setups (see Heidelberger 2003, 146ff). (Kletzl Diss pg. 109)
+		1. Producing phenomena (Microscopes, telescopes, air pumps)
+			1. Also splitting up phenomena into small parts (e.g. spectrometer)
+		2. Making phenomena behave in certain ways 
+			1. E.g. making phenomena "pure"
+		3. Imitative function 
+			1. Produce effects that appear in nature but on a smaller scale 
+		4. Representative role 
+4. Definition of opaqueness 
+	1. Humphreys Definition 
+		1. Here a process is epistemically opaque relative to a cognitive agent X at time t just in case X does not know at t all of the epistemically relevant elements of the process. A process is essentially epistemically opaque to X if and only if it is impossible, given the nature of X, for X to know all of the epistemically relevant elements of the process (HOutline)
+		2. Burrel expands 
+			1. They are opaque in the sense that if one is a recipient of the output of the algorithm (the classification decision), rarely does one have any concrete sense of how or why a particular classification has been arrived at from inputs. Additionally, the inputs themselves may be entirely unknown or known only partially.”
+		3. What does explain mean? 
+		4. What is an epistemically relevant element? 
+			1. An element which is known to an agent and can be used by them to explain other elements within the system or the systems output.
+	2. Why are certain instruments opaque towards an agent
+		1. Technical opaqueness
+			1. Non-understanding of each moving part. 
+		2. Social opaqueness 
+			1. Barriers to double checking. 
+	3. Therefore, we need to move into NTV 
+		1. Social epistemology literature 
+5. Conclusion
+	1. With all this established. Why exactly do DNNs pose a problem? 
+		1. Summarise main argument of next section. 
+6. To Add Somewhere: 
+	1. Explanatory use of instruments within science. Instrument allows us to study the causal effect we are exploiting. 
+
+[[What's so special?]]
+1. Common argument that DNN is a black box. 
+	1. Why exactly is a DNN a black box? What fuels these common notions. 
+2. What type of instrument is a DNN 
+	1. Is it an *instrument that interacts with the world* or a *instrument that models*
+		1. It's a bit of both depending on it's use. 
+		2. Example of *instrument that interacts with the world*
+			1. Could the training data be the discovery of functions of causal relationships with the world? or is this something that is kept exclusively for *instruments that model*
+		3. Example of *instrument that models*
+			1. Most statistical methods 
+3. Ways in which DNNs are unreliable 
+	1. Transparency arguments 
+		1. [[Knowledge and The Trustworthiness of Instruments]] pg.162
+
+How do we ensure reliability? 
+1. Through ExAI? 
+	1. Problems with ExAI
+	2. It doesn't fulfil the common explanations we refer to in the philosophy of science. 
+2. Alternate methods 
+	1. Only reliability within pragmatist notions of ML. 
+
 Outline
 ___
 Section 1: Trust in regards to scientific instruments 
@@ -77,7 +154,7 @@ Definition of Opacity
 		1. When we examine a DNN we are unable to find out which function or algorithm it implemented in order to classify data because it was constructed autonomously during the training-phase.
 
 Problems With Humphrey's Opacity 
-1. [[Thing Knowledge]] pg.19
+1. [[Thing Knowledge]] pg.13
 	1. Nobody understands completely how their telephone works. We should not seek understanding at the level of individual belief. 
 	2. Therefore, we should switch to a view in which we consider social epistemology of science. 
 

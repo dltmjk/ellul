@@ -1,1 +1,5 @@
 [Trusting others in the sciences: a priori or empirical warrant?](https://www.sciencedirect.com/science/article/abs/pii/S0039368102000067?via%3Dihub)
+
+How do we trust others in research despite not interacting with them or knowing them personally? 
+
+"I argue that, whether or not such an on-no-evidence entitlement to believe what one is told exists, it shrinks to irrelevance in the explanation of the basis on which scientists take each other’s word in the scientific community. This is so, since a normally knowledgeable adult hearer is typically awash with relevant evidence, direct and circumstantial, for and against, concerning a teller’s trustworthiness, and this swamps any alleged entitlement to believe in the absence of such evidence. There need not be personal knowledge of the teller, since social role and topic provide evidence regarding trustworthiness."
