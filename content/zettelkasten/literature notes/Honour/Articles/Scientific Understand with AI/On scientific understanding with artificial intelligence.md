@@ -1,2 +1,1 @@
 [On scientific understanding with artificial intelligence](https://www.nature.com/articles/s42254-022-00518-3)
-

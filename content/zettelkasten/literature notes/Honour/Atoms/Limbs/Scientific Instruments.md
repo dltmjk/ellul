@@ -58,7 +58,7 @@ While these principles are well understood and established now, Michael Faraday,
 
 Despite the lack of theoretical knowledge surrounding the behaviour of Faraday's electromagnetic motor, the device was able to produce motion. Faraday did not have epistemic access to the underlying laws mediating the behaviour of his motor. All that mattered was that he had a theorised causal connection and built his motor to exploit this. His example establishes multiple important facts on how we justify *instruments that interact with the world*. 
 
-Firstly, instruments are constructed in order to take advantage of an established, or theorised, causal pathway in a consistent manner. While it impossible to directly know the underlying principles that determine certain relationships, we can still appropriate certain properly established relationships between objects. Secondly, The usage of an instrument does not follow from theory, but from its ability to perform the same function under the same circumstances consistently. Therefore, an instrument is justified if it can causally interact with the world in a way that produces reliable results. 
+Firstly, instruments are constructed in order to take advantage of an established, or theorised, causal pathway in a consistent manner. A particular instrument only comes about as the result of theorising and attempting to exploit a causal relationship. While it impossible to directly know the underlying principles that determine certain relationships, we can still appropriate certain properly established relationships between objects. Secondly, The usage of an instrument does not follow from theory, but from its ability to perform the same function under the same circumstances consistently. Therefore, an instrument is justified if it can causally interact with the world in a way that produces reliable results. 
 
 If we return to the thermometer, the link between expanding liquids and heat was well known before an underlying theory proposed. Early thermoscopes of the late 16th and early 17th century (such as those described by Galileo and Santorio Santorio) exploited the observable fact that air and liquids expand when warmed. It was only in the 18th century with the work of Joseph Black on latent and specific heat, that systematic formulas relating temperature and material properties were formulated (Fenby 1987, [[Heat Its measurement from Galileo to Lavoisier]]). 
 
@@ -111,6 +111,10 @@ Apply to DNN in next section. Establish how they fit it with other statistical t
 ===DNNs, because of the multiple ways they are employed, fit into multiple categories of instruments.===
 
 
+is it fair to group dnns with other statistical techniques . it is ridiculous to ask if we can trust a general statistical methods
+dnns as being instruments that pick up on things in the world through input data
+how do instruments usually help with scientific understanding
+Humphreys definition can be applied to any sufficiently complex system
 
 
 

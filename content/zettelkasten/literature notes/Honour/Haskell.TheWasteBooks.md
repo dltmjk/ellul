@@ -5,8 +5,27 @@ Introduction
 2. General prevalence of DNNs 
 3. What has already been researched + How is this research different from other research. 
 4. Structure of the essay 
+	1. The first section goes over how scientists are expected to trust scientific instruments and how these instruments could be "opaque"
+	2. We then establish DNNs as a type of scientific instrument within the context of scientific discovery and why they are commonly considered opaque. Also why scientists have a problem with them 
+	3. Therefore, these are the following problems with DNNs: 
+		1. .
+	4. There are many ways that we can attempt to solve this. 
+		1. ExAI
+		2. Problems with ExAI
+	5. Pragmatic treatment of DNNs in the process of scientific discovery 
 
-## GO THROUGH hOUTLINE and TABS to construct essay plan
+
+# GO THROUGH hOUTLINE and TABS to construct essay plan
+## ACTUALLY DO THE ABOVE. YOUR IDEAS WILL COME TOGETHER
+
+Scientific Instruments Section 
+
+What is my argument: 
+
+Tie in Both Scientific Instruments and DNNs 
+
+
+
 
 [[Scientific Instruments]]
 1. Trust in instruments 
@@ -17,15 +36,21 @@ Introduction
 	2. *instruments that interact with the world* & *instruments that model the world*
 		1. This distinction arose in the 17th century "the trend-setting differentiation between “mathematical” and “philosophical” instruments emerged (see for example Shapin 2006, Benett 2011, Warner 1990 and 1994, van Helden 1983 and 1994)." (Kletzl/Neges Dis. pg.108)
 		2. The line between both is blurred 
-			1. "First, as has been pointed out by many scholars, this distinc- tion primarily mirrored a newly-emerging social boundary, but it does not have much to do with underlying epistemic principles. The same functions of instruments, like the possibility to perform different kinds of measurements, could be regarded as part of a philosophical as well as of a mathematical instrument, dependent on who used the instrument and in what context (see van Helden 1983, 65)."
+			1. "First, as has been pointed out by many scholars, this distinction primarily mirrored a newly-emerging social boundary, but it does not have much to do with underlying epistemic principles. The same functions of instruments, like the possibility to perform different kinds of measurements, could be regarded as part of a philosophical as well as of a mathematical instrument, dependent on who used the instrument and in what context (see van Helden 1983, 65)."
 			2. In our later discussion of DNNs we will find that certain uses of DNNs could fit into either category 
 			3. Why is this spiel still important? 
 					1. The types of ways these two instrument types are reliable differ. 
+					2. *instruments that interact with the world* intervene with the world in some way by exploiting a causal pathway. Hacking (1983 [[The Scientific Use of Technological Instruments]] pg. 62)
+						1. "As has been indicated in the former section, a phenomenon is estab- lished through the entangled activities of materially producing it and forming a theoretical concept. Next, scientists aim to reproduce or manipulate the phenomenon through interventions with instruments and experimental set-ups, which enable investigation, but at the same time generate and shape the phenomenon"
+						2. "Any test of theory is related to apparatus that has evolved in conjunction with it – and in conjunction with modes of data analysis."
+						3. Is the problem with DNNs that it doesn't evolve around a theory? 
 	3. We can justify the OUTPUT of instruments if they are reliable. 
-		1. How do these two instruments differ in their reliability 
+		1. How do we justify the results of a scientific instrument? 
+			1. Franklin Epistemology of the experiment. (1986, 2002, 2005) [[The Scientific Use of Technological Instruments]] pg. 64
+		2. How do these two instruments differ in their reliability 
 			1. Consistently exploiting causal pathway vs acting analogously to the world 
 3. What is the function of instruments? 
-	1. Another example that is worked out in much detail is Michael Heidelberger’s discussion of four different roles that instruments can play in experimental setups (see Heidelberger 2003, 146ff). (Kletzl Diss pg. 109)
+	1. Another example that is worked out in much detail is Michael Heidelberger’s discussion of four different things that instruments can do in experimental setups (see Heidelberger 2003, 146ff). (Kletzl Diss pg. 109)
 		1. Producing phenomena (Microscopes, telescopes, air pumps)
 			1. Also splitting up phenomena into small parts (e.g. spectrometer)
 		2. Making phenomena behave in certain ways 
@@ -33,7 +58,17 @@ Introduction
 		3. Imitative function 
 			1. Produce effects that appear in nature but on a smaller scale 
 		4. Representative role 
-4. Definition of opaqueness 
+	2. This shows the explicit theory-ladenness of scientific instruments
+		1. Instruments are constructed in a presence of a certain theory. Does this apply to all scientific instruments? 
+		2. However, they do not depend upon the theory. They are always viewed in conjunction with a certain theory 
+			1. "These readings are also independent of changes in the theory. An instrument reads 2 when exposed to some phenomenon. After a change in theory, it will continue to show the same reading, but we may take the reading to be no longer important, or, to tell us something other than what we thought originally. Thus, the meanings of data – such as superconductivity – are not given by the data" [[The Scientific Use of Technological Instruments]] pg. 61
+			2. " In addition, data may be interpreted differently by different theories (also see Van Fraassen 2012)." pg.61 
+4. What is the greater overall role of scientific instruments within the process of scientific discovery
+	1. Theory Oriented 
+		1. "Firstly, the traditional view of the philosophy of science in which the focus is on the theories. From this perspective, the primary aim of science is the discovery and justification of theories, for which the development of technological instruments is subservient" [[The Scientific Use of Technological Instruments]] pg. 56 
+	2. Phenomenon Oriented 
+		1. "This presumes the simultaneous material and theoretical development of (1) relevant physical phenomena and the technological instruments that produce them, as well as (2) scientific knowledge that may be used to describe or explain both the phenomenon and the workings of the technological instruments – where ‘scientific knowledge’ includes empirical knowledge, theoretical concepts, scientific models, etc" pg. 57 
+5. Definition of opaqueness 
 	1. Humphreys Definition 
 		1. Here a process is epistemically opaque relative to a cognitive agent X at time t just in case X does not know at t all of the epistemically relevant elements of the process. A process is essentially epistemically opaque to X if and only if it is impossible, given the nature of X, for X to know all of the epistemically relevant elements of the process (HOutline)
 		2. Burrel expands 
@@ -48,18 +83,22 @@ Introduction
 			1. Barriers to double checking. 
 	3. Therefore, we need to move into NTV 
 		1. Social epistemology literature 
-5. Conclusion
+6. Conclusion
 	1. With all this established. Why exactly do DNNs pose a problem? 
 		1. Summarise main argument of next section. 
-6. To Add Somewhere: 
+7. To Add Somewhere: 
 	1. Explanatory use of instruments within science. Instrument allows us to study the causal effect we are exploiting. 
 
 [[What's so special?]]
 1. Common argument that DNN is a black box. 
 	1. Why exactly is a DNN a black box? What fuels these common notions. 
+		1. [[Functional Concept Proxies and the Actually Smart Hans Problem - What’s Special About Deep Neural Networks in Science]]
 2. What type of instrument is a DNN 
-	1. Is it an *instrument that interacts with the world* or a *instrument that models*
+	1. Within scientific contexts, DNNs are already being used in a way similar to other scientific instruments. (What is our motivation for treating DNNs as scientific instruments? Why not as something else - what does other literature treat DNNs as?)
+	2. Is it an *instrument that interacts with the world* or a *instrument that models*
 		1. It's a bit of both depending on it's use. 
+			1. *instrument that interacts with the world*
+				1. It takes in certain streams of input data and utilises some sort of causal pathway for its output data. The problem is that we are unsure what function the DNN utilises. 
 		2. Example of *instrument that interacts with the world*
 			1. Could the training data be the discovery of functions of causal relationships with the world? or is this something that is kept exclusively for *instruments that model*
 		3. Example of *instrument that models*
@@ -118,7 +157,7 @@ Ways DNNs are different from other scientific models/instruments
 	1.  Sullivan (2022b, p. 128) argues that it is not the opacity of an ML model that potentially hinders understanding, but rather the ‘link uncertainty’ attached to it, that is, “the amount, kind, and quality of scientific and empirical evidence supporting the link connecting the model to the target-phenomenon
 	2. "As a main example, Sullivan discusses Schelling’s model of segregation: Here, it seems irrelevant how the model is implemented for it to promote understanding of segregation phenomena in cities; all that matters is that we know how to connect its in- and outputs to evidence about people’s housing behavior."
 	3. Scientists may gain "objectual understanding" from the outputs of a DNN system
-		1. "As Räz and Beisbart (2022, p. 12) argue, scientists might gain objectual under standing directly from the use of ML models like AlphaFold2, where objectual understanding concerns a subject matter or phenomenon on the whole, as in ‘S understands P’; P being the relevant topic, subject matter, or phenomenon,6 Thus, scientists might understand ‘the protein universe’ better, directly from AlphaFold2’s outputs. But this contrasts with understanding why proteins fold the way they do, where ‘understanding why’ is usually taken to be intimately connected to explanations."
+		1. "As Räz and Beisbart (2022, p. 12) argue, scientists might gain objectual under standing directly from the use of ML models like AlphaFold2, where objectual understanding concerns a subject matter or phenomenon on the whole, as in ‘S understands P’; P being the relevant topic, subject matter, or phenomenon, Thus, scientists might understand ‘the protein universe’ better, directly from AlphaFold2’s outputs. But this contrasts with understanding why proteins fold the way they do, where ‘understanding why’ is usually taken to be intimately connected to explanations."
 			1. Similar to other scientific instruments. For example, a microscope engenders objectual understanding. 
 			2. However - "Stated differently, even though AlphaFold2 has increased our understanding of protein folds, it hasn’t rendered protein folding any more understandable, by virtue of falling short of providing a mechanism—something that could explain why proteins fold the way they do. Hence, even if some things may be understood more or less directly with the help of models like AlphaFold2, it remains fair to say that the amount of understanding that transpires from opaque ML models is in general rather limited, and to some extent even ‘off-target’."
 	4. Therefore, we need to understand how the model relates to a particular target. 
