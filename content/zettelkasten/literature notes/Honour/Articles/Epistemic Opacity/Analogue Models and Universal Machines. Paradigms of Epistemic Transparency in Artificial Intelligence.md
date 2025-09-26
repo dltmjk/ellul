@@ -1,0 +1,1 @@
+[Analogue Models and Universal Machines. Paradigms of Epistemic Transparency in Artificial Intelligence](https://link.springer.com/article/10.1007/s11023-022-09596-9)

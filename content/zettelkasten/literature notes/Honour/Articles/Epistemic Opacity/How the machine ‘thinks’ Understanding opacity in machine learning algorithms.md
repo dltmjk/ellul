@@ -1,0 +1,1 @@
+[How the machine ‘thinks’: Understanding opacity in machine learning algorithms](https://journals.sagepub.com/doi/10.1177/2053951715622512)

@@ -19,6 +19,7 @@ Introduction
 2. Philosophers have argued that this presents problems because of the DNNs opacity 
 3. General Structure of the Essay 
 
+Most literature has treated DNNs as opaque generally. Our paper differs by identifying certain core properties that make a DNN opaque. Through identification, we can evaluate certain methods with hope to remedy opaqueness (e.g. ExAI). Our argument is that opaqueness cannot be fully treated and must be considered only in the context of a broader range of scientific discovery. 
 
 
 Scientific Instruments + DNNs 
@@ -69,6 +70,7 @@ Scientific Instruments + DNNs
 			2. *instruments that pick up causal relations in the world*
 				1. If this class of instrument picks up latent patterns. We can argue that the DNN, through its input data picks up on certain causal relationships within the world. 
 				2. A convolutional neural network trained on radiology images directly “responds” to tumor presence by activating specific feature detectors. It doesn’t need to be told what a tumor
+				3. Isn't this really just a model? DNNs are usually considered to *just* be models (Cite Literature). While DNNs may produce functions that can act as models, the process of constructing these functions requires picking up on certain patterns within input data. (Are you sure about this? )
 			3. *instruments that model the world*
 				1. For example, 
 				2. Deep learning models (e.g. graph neural nets for atmospheric flows) learn to approximate the underlying physics of weather and can generate forecasts without directly sensing temperature, pressure, or wind. It constructs a function (which the weather supposedly obeys) and creates predictions from this. 
@@ -106,12 +108,16 @@ Opaqueness with ordinary scientific instruments
 		1. Rundown of NTV 
 
 Therefore, for an instrument to be fully justified. There needs to be an agent who can claim responsibility for it. However, nobody can claim responsibility for the DNN because:
+[[What's so special?]]
 1. Nobody knows what part of the DNN does what 
-	1. It is not transparent 
-	2. Susceptibility to training data ordering 
-	3. Therefore, the problem is the link uncertainty 
+	1. Prediction without explanation. 
+	2. It is not transparent 
+	3. Susceptibility to training data ordering 
+	4. Therefore, the problem is the link uncertainty 
 		1.  "As a main example, Sullivan discusses Schelling’s model of segregation: Here, it seems irrelevant how the model is implemented for it to promote understanding of segregation phenomena in cities; all that matters is that we know how to connect its in- and outputs to evidence about people’s housing behavior."
-	4. Therefore, we are unsure what function a DNN picks up on. 
+	5. Therefore, we are unsure what function a DNN picks up on. 
+		1. And it doesn't make this property known to the researcher (Conference pg. 4)
+		2. The problem of adversarial examples 
 2. It doesn't help in the greater role of scientific discovery by serving an explanatory role 
 	1. Tied back to the role of instruments within the experiment. 
 	2. While, for example in alphafold, you can gain objectual understanding - for 'the protein universe'. Understanding is still limited. 

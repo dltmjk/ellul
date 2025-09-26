@@ -1,3 +1,5 @@
+[[Opacity]] 
+
 Connection with scientific instruments: 
 
 How do DNNs work? 

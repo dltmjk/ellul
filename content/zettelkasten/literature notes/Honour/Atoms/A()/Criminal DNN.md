@@ -1,0 +1,8 @@
+Why are we limiting our treatment to scientific contexts? 
+DNNs, due to their versatility, have been employed in almost every context. Our decision to limit our discussion to scientific contexts is partly a pragmatic one. However, scientific contexts also grant us a guarantee that there is a relationship the DNN can pick up on. For example, given a set of lung x-rays, we can expect that there is a pattern that would allow both the DNN and a skilled doctor to identify the scans with tumours and those without. Utilising a DNN within this context means that we believe that, somewhere within the input data, there is a pattern that can be detected. Scientific theory relies on the notion that there are underlying laws which can be modelled. The same assurance cannot be granted for use-cases outside of science. [Rework] 
+
+For example, within the US DNNs were recently deployed to predict potential recidivism risk. Training data was an admixture of “current charges, pending charges, prior arrest history, previous pretrial failure, residential stability, employment status, community ties, and substance abuse” (https://s3.documentcloud.org/documents/2840784/Practitioner-s-Guide-to-COMPAS-Core.pdf , pg.27). 
+Similar attempts have been made, Chinese study. 
+
+
+"In 2016, computer scientists Xiaolin Wu and Xi Zhang developed a Convolutional Neural Network (CNN) that analyzed over 1,850 ID photos and classified them as {criminal; non-criminal}." [[Beyond transparency computational reliabilism as an externalist epistemology of algorithms]] pg. 5
