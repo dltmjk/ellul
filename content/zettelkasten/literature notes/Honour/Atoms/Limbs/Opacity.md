@@ -1,9 +1,11 @@
-General Plan 
+TO DO: 
+Rework scientific instrument section. Make more compact and scholarship heavy. 
 
-Instruments: 
-A microscope doesn't provide an explanation of its results. It's results are only valid in the context of, for example, a Newtownian theory. DNNs, like most scientific instruments which pick up on causal relationships with the world, also do not provide explanations. However, the key difference is that most scientific instruments are specifically constructed in the process of an experiment, therefore their explanatory role is already fulfilled. 
+Finish off opacity section. Just get everything down. 
 
-DNNs do not have their luxury, as a general statistical tool, their prevalence has led to misconceptions in which they have to account for the results in a way that most other instruments are not expected to. If we view a DNN as a model, the same rules apply. Scientific models are constructed in view of a specific theory. 
+
+
+
 
 (how to expand?)
 
@@ -17,13 +19,24 @@ To Write: The advantage that treating DNNs as scientific instruments gives us. W
 
 We should only care about reliability, if the DNN is a scientific instrument. Can reliability ever be secured? 
 
+Source for not trusting objects, only relying - C. Thi Nguyen (Koskinen pg. 7)
+
 Arguments for Opacity. 
 
 There is a property $\chi$ that when applied to a scientific model makes it opaque. The lack, or toning down, of this property increases the *transparency* of a system. If more than two $\chi$ properties are present, the lowering of one doesn't change the opaqueness of a system. If a system is opaque because of its dimensionality, modifying the size will not make a difference to the overall opaqueness. In attempting to find which properties actually guarantee opaqueness, we can look at examples of inherently transparent statistical algorithms, of which both decision trees and naive bayes classifiers are examples. 
 
-Rundown of both 
+Decision trees are generally considered to be fully transparent algorithms (Mittelstadt et al., 2018, Skogaard pg. 227). They function as a nonlinear flowchart structure made up of nodes.
+
+![[Pasted image 20250926193228.png]]
+MAKE OWN IMAGE
+
+A decision tree progresses through these nodes depending on the content of some input data. For example, a decision tree constructed in order to diagnose a fever may return “yes” if given a temperature of “40.5C” and “no” if given a temperature of “37C”. All decision trees are theoretically computable by hand. A large enough tree, with millions of parameters, could be worked through given enough time.
+
+For example, size is commonly thought of as a candidate for opaqueness.
+
 
 In what qualities does a DNN differ from these two algorithms? 
+
 
 Zerelli “Tractability/Intelligibility/Fathomability Distinction” 
 
@@ -32,9 +45,9 @@ Fathomability
 Intelligibility 
 Tractability 
 
-Zerilli argues for model opacity along the lines of *linearity* and *dimensionality*. A linear system with fewer dimensions is more *fathomable* than an alternate higher dimensional system. In which *fathomability* concerns a human observer who, in the former low-dimensional case, is able to "contemplate the entire model at once" (Lipton 2017, 4) (Zerelli, 7). Therefore, dimensionality and fathomability are inversely correlated. An unfathomable system, for example, would be an extremely large computer simulation model with billions of parts. However, as long as this simulation maintains linearity, it retains another two of  Zerelli's properties - intelligibility and tractability. Tractability is whether a model can be run on a machine whereas intelligibility is if the relationship between a models subparts can be determined despite size. 
+Zerilli argues for model opacity along the lines of _linearity_ and _dimensionality_. A linear system with fewer dimensions is more _fathomable_ than an alternate higher dimensional system. In which _fathomability_ concerns a human observer who, in the former low-dimensional case, is able to “contemplate the entire model at once” (Lipton 2017, 4) (Zerelli, 7). Therefore, dimensionality and fathomability are inversely correlated. An unfathomable system, for example, would be an extremely large computer simulation model with billions of parts. However, as long as this simulation maintains linearity, it retains another two of Zerelli’s properties - intelligibility and tractability. Tractability is whether a model can be run on a machine whereas intelligibility is if the relationship between a model’s subparts can be determined, despite size.
 
-Zerelli's speaks of opacity in respect to these properties. For example, a computer program which multiplies large numbers may be opaque due to its un-*fathomability* given that a human agent cannot possibly hope to work through each binary operation the program performs. However, it still maintains the properties of tractability and intelligibility.
+Zerelli’s speaks of opacity in respect to these properties. For example, a computer program which multiplies large numbers may be opaque due to its un-_fathomability_ given that a human agent cannot possibly hope to work through each binary operation the program performs. However, it still maintains the properties of tractability and intelligibility. DNNs seem to disregard themselves in regards to tractability.
 
 ![[Pasted image 20250926104216.png]]
 
@@ -51,8 +64,24 @@ Boge makes a similar distinction between h(ow)-opacity, which concerns how a DNN
 
 However, is this really opaqueness? 
 
-
-
-
-
 (What are the different ways DNNs can be opaque?) Opaque in regards to how it arrived to a prediction and the lack of explanation along with the prediction. 
+
+___
+
+In treating the problem of opacity within DNNs, we will start with Humphrey’s (CITE) characterisation. He defines epistemic opacity as such:
+
+“Here a process is epistemically opaque relative to a cognitive agent X at time t just in case X does not know at t all of the epistemically relevant elements of the process. A process is essentially epistemically opaque to X if and only if it is impossible, given the nature of X, for X to know all of the epistemically relevant elements of the process”
+
+Humphreys epistemic opacity means that certain processes can be opaque to one agent but not to another. For example, the functioning of a calculator may be opaque to a philosopher but not to an electrical engineer.
+
+However, this seems to present certain problems when viewed in relation to most scientific instruments. As Louis Bucciarelli (1994, Thing Knowledge pg.13) points out “Do you know how your telephone works?” (p.3, Designing Engineers). He explains that while one scientist might be able to explain one particular aspect of a telephones functioning (for example, how sound is produced by an electric current), they might not be able to parse the exact functioning of the algorithms employed in noise suppression (Cite Baird). Therefore, they are unable to fully ensure that the telephone is functioning as intended due to a lack of technical know-how, making it opaque. This presents a general problem for most scientific discovery since every scientist utilizes tools they are unfamiliar with. For example, a biologist in the process of recording their results may use the data analytics tools of a spreadsheeting program that is technically opaque to them.
+
+Similar to this, is the concern that scientists are constantly forced to rely upon previously conducted work which they cannot verify the accuracy of. Even if it was the norm for a scientist to conduct a thorough investigation into the results he cites (an unrealistic practice due to social barriers), he still might face problems of opacity if the work employs tools which are technically unintelligible to him. Scientific results that are produced out of large organized groups, such as the large hadron collider (LHC) or LIGO, do not have a single agent who understands every epistemically important part (Rolin 2020, Miller & Freiman 2020; Longino 2022.)
+
+CITATIONS ARE IN KOSKINEN
+
+Given the varied and distributed system of scientific research, large elements of trust are required as it’s impossible for an individual to double check and fully understand all the previous information he relies on. Research, especially those of large groups, produce work in which no singular agent can interpret each moving part. Hardwig (1985, Koskinen) states that in cases like this, of collective knowledge production, trust stands in for justification. Granted that this trust is regulated in a few ways (Frost-Arnold 2013). Some informal, for instance the belief that your scientific peers are acting honestly, and some regulated, such systems of peer-review. These procedures of epistemic checking, when followed correctly, reduce error and the role of trust within knowledge production (Wilholt, 2013).
+
+As established before, instruments cannot be trusted - they can only be relied on. Therefore, in cases of scientific instruments, trust is warranted as long as there is an agent who “understands how the instruments work, takes responsibility of them in an epistemically acceptable manner, and can be trusted” (Koskinen pg. 7). Returning to our example of the biologist, we can justify their usage of technically opaque instruments as long as there is an agent, such as the manufacturer, that exists. Results from large-scale scientific endeavors, such as the LHC, are justified on the basis that every part has an agent for which it is not epistemically opaque.
+
+The reputation of DNNs as a “black box” means that there are no agents that can take responsibility due to its ‘opaqueness’. However, Next section.

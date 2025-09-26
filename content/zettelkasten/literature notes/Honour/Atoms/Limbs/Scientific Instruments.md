@@ -36,7 +36,28 @@ Questions to answer: How does the nature of trust in a scientific instrument cha
 
 Trust in relation to scientific instrument is a field mainly focused on material tools. 
 
-PHYSICALLY MEDIATED INSTRUMENTS - *instruments that interact with the world* do NOT NEED TO BE PHYSICAL. THEY JUST NEED TO PICK UP ON CAUSAL RELATIONSHIPS WITHIN THE WORLD.
+
+**What do I want to say:**
+Breakdown of types of instruments:
+Each type of theory
+	If they are only viewed vis-à-vis their reliability. How are both categories considered reliable? 
+An instrument is only constructed in view of a theory - 
+	A microscope doesn't provide an explanation of its results. It's results are only valid in the context of, for example, a Newtownian theory. DNNs, like most scientific instruments which pick up on causal relationships with the world, also do not provide explanations. However, the key difference is that most scientific instruments are specifically constructed in the process of an experiment, therefore their explanatory role is already fulfilled. DNNs do not have their luxury, as a general statistical tool, their prevalence has led to misconceptions in which they have to account for the results in a way that most other instruments are not expected to. If we view a DNN as a model, the same rules apply. Scientific models are constructed in view of a specific theory.
+Construction of two main categories - model and causal instruments 
+	Are DNNs models or are they causal? 
+	Boge, in presenting the idea of FCPs, argues that DNNs pick up on relationships that human agents cannot be privy to. It functions by recognising a causal relationship in the world that with hitherto unnoticed.
+Opaqueness in scientific instruments generally 
+	NTV 
+
+Next section. Opacity in DNNs 
+What do I want to say: 
+
+
+Conclusion: 
+DNNs are really nothing more than just statistical algorithms. Yes they are 'opaque' but this is because they produce results from data, not fully formed theories. They aren't requires to produce fully formed theories. 
+
+
+
 
 Scientific instruments can be broken down into two broad categories. Harre (2010, Equipment for an experiment) distinguishes between *instruments* and *apparatus*. The former is causally related to the world as tools which reveal natural phenomena. For example, a litmus solution is able to reveal whether a particular mixture is acidic or base. The instrument works through exploiting a causal connection with the world. Within this category are most measuring devices – e.g., rulers, thermometers, and clocks. The thermometer is widely considered the characteristic scientific instrument and, like all instruments of this class, its usefulness is dependent on its ability to respond to changes within the world. In this case of a mercury thermometer, the mercury expands as the temperature of its surroundings increase. 
 
@@ -51,11 +72,6 @@ Both the thermometer and the wind tunnel have to be fulfil certain criteria in o
 In the case of *instruments that interact with the world*, the instrument takes advantage of an established causal pathway. Modern electromagnetic motors, for example, operate on a theoretical principle that a current-carrying conductor in a magnetic field experiences a force, as expressed by the Lorentz force law. When an electric current passes through the motor’s coil, the interaction between the generated magnetic field of the coil and the permanent (or electromagnetically induced) magnetic field of the stator produces torque, causing rotational motion. 
 
 While these principles are well understood and established now, Michael Faraday, at the time of his original experiments on electromagnetism in 1821, was unaware of this information. His construction of the electric motor was to show how a certain arrangement of electric and magnetic elements could produce motion (Faraday 1844, Thing Knowledge). His device worked in a simpler fashion, in which a wire is suspended around a magnet allowing for the intersecting magnetic and electric fields to produce motion, compared to our contemporary electromagnetic motors. 
-
-![[Pasted image 20250919114519.png]]
-
-> "Built in 1831, the [Faraday disc](https://www.wikiwand.com/en/articles/Faraday_disc "Faraday disc") was the first [electric generator](https://www.wikiwand.com/en/articles/Electric_generator "Electric generator")"
-> Not like the thing we were describing before. 
 
 Despite the lack of theoretical knowledge surrounding the behaviour of Faraday's electromagnetic motor, the device was able to produce motion. Faraday did not have epistemic access to the underlying laws mediating the behaviour of his motor. All that mattered was that he had a theorised causal connection and built his motor to exploit this. His example establishes multiple important facts on how we justify *instruments that interact with the world*. 
 
@@ -73,13 +89,14 @@ A mercury thermometer must reliably register displacement in proportion to chang
 
 In comparison, *instrument that model* are qualitatively different from our previous examples because their utility arises out of representation. This can be either within the context of an experiment or during knowledge production. As stated before, our treatment of these instruments follows from Baird (2004) in including mathematical formulas, such as statistical techniques or experimental methods (e.g. RCTs). While there are both material models (Watson and Cricks "ball and stick" DNA is an example) and conceptual models. Our discussion will mainly focus on the latter. Instrumental models need to be analogous to the world in some way in order to have a representative function. Our justification of these models depends on how reliably and closely it represents this process. 
 
+In evaluating whether a DNN is a *causal instrument*, we need to determine if *causal instruments* need to physically interact with the world, or if they just require the ability to pick up relationships. 
+
+PHYSICALLY MEDIATED INSTRUMENTS - *instruments that interact with the world* do NOT NEED TO BE PHYSICAL. THEY JUST NEED TO PICK UP ON CAUSAL RELATIONSHIPS WITHIN THE WORLD.
+
+___
 
 
-In treating the problem of opacity within DNNs, we will start with Humphrey's prototypical characterisation. 
 
-However, this seems to present certain problems when viewed in relation to most scientific instruments. As Louis Bucciarelli (1994, Thing Knowledge pg.13) points out "Do you know how your telephone works?" (p.3, Designing Engineers). He explains that while one scientist might be able to explain one particular aspect of a telephones functioning (for example, how sound is produced by an electric current), they might not be able to parse the exact functioning of the algorithms employed in noise suppression (Cite Baird). Therefore, they are unable to fully ensure that the telephone is functioning as intended due to a lack of technical know-how, making it opaque. This presents a general problem for most scientific discovery since every scientist utilises tools they are unfamiliar with. 
-
-Furthermore, scientists are constantly forced to rely upon previously conducted work which they cannot verify the accuracy of. Given the varied and distributed system of scientific research, large elements of trust are required as it's impossible for an individual to double check and fully understand all the previous information he relies on. Research, especially those of large groups, produce work in which no singular agent can interpret each moving part. Hardwig (1985, Koskinen) states that in cases like this, of collective knowledge production, trust stands in for justification. Granted that this trust is regulated in a few ways. Some informal, for instance the belief that your scientific peers are acting honestly, and some regulated, such systems of peer-review. The process of epistemic checking is implemented to reduce the role of trust within knowledge production. 
 
 [[Trusting others in the sciences a priori or empirical warrant?]]
 How do we trust others in research despite not interacting with them or knowing them personally? 
@@ -93,7 +110,7 @@ This is an established problem with the social epistemology of science. Research
 
 
 
-Most instruments are opaque because we do not fully understand how they work, we do not have physical access to them. We only have access to the results. Furthermore, even if wanted to verify their accuracy and reliability - social factors limit our ability to carry this out. 
+
 
 TO DO:
 finish discussion on models. 
