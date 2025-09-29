@@ -1,0 +1,1 @@
+[The Ethics of Deep Learning AI and the Epistemic Opacity Dilemma](https://blog.apaonline.org/2020/08/13/the-ethics-of-deep-learning-ai-and-the-epistemic-opacity-dilemma/)

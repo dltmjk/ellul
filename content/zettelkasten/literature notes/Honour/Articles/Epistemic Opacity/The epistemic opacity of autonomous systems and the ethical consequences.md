@@ -1,0 +1,1 @@
+[The epistemic opacity of autonomous systems and the ethical consequences](https://link.springer.com/article/10.1007/s00146-020-01024-9)

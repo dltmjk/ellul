@@ -1,0 +1,1 @@
+[Concepts as decision functions. The issue of epistemic opacity of conceptual representations in artificial computing systems](https://www.sciencedirect.com/science/article/pii/S1877050921019268?ref=pdf_download&fr=RR-2&rr=984e74e8f8ed57dd)

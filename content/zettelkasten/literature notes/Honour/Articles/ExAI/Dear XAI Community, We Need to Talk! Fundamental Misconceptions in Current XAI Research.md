@@ -1,0 +1,1 @@
+[Dear XAI Community, We Need to Talk! Fundamental Misconceptions in Current XAI Research](https://arxiv.org/pdf/2306.04292)

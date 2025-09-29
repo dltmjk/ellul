@@ -1,0 +1,1 @@
+[Decentring the discoverer: how AI helps us rethink scientific discovery](https://link.springer.com/article/10.1007/s11229-022-03902-9)

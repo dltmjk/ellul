@@ -1,1 +1,0 @@
-[Artificial intelligence and illusions of understanding in scientific research](https://www.nature.com/articles/s41586-024-07146-0?fromPaywallRec=true)

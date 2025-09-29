@@ -1,0 +1,1 @@
+[Machine understanding and deep learning representation](https://link.springer.com/article/10.1007/s11229-022-03999-y)

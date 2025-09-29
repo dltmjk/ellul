@@ -1,0 +1,1 @@
+[Artificial Neural Nets and the Representation of Human Concepts](https://arxiv.org/pdf/2312.05337)
