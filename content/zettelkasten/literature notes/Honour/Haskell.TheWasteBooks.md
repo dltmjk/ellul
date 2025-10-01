@@ -25,6 +25,11 @@ What is my argument:
 Tie in Both Scientific Instruments and DNNs 
 
 
+Start Essay with Outline of DNNs 
+How do DNNs work. Actual full technical outline 
+How does this present a problem - High level overview, like oh people are unable to see how the nodes connect to the output. 
+Use stuff from hOutline 
+
 
 
 [[Scientific Instruments]]

@@ -88,7 +88,7 @@ Scientific Instruments + DNNs
 				2. Phenomenon Oriented 
 					1. "This presumes the simultaneous material and theoretical development of (1) relevant physical phenomena and the technological instruments that produce them, as well as (2) scientific knowledge that may be used to describe or explain both the phenomenon and the workings of the technological instruments – where ‘scientific knowledge’ includes empirical knowledge, theoretical concepts, scientific models, etc" pg. 57 
 
-Opaqueness with ordinary scientific instruments 
+Opaqueness with ordinary scientific instruments Experimental AI 
 1. As social epistemologists have pointed out, there is a level of opaqueness within seemingly normal scientific instruments. 
 2. To start, we will quickly cover the classic conception of opaqueness and explain some core terms. 
 	1. Humphreys Definition 
@@ -128,7 +128,7 @@ Therefore, for an instrument to be fully justified. There needs to be an agent w
 Ways to Remedy this
 1. Opacity comes in degrees? How can we reduce opacity? 
 
-Experimental AI 
+
 
 
 
