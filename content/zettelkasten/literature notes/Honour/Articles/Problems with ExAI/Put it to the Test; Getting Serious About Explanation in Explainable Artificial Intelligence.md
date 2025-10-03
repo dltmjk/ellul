@@ -1,0 +1,1 @@
+[Put it to the Test: Getting Serious About Explanation in Explainable Artificial Intelligence](https://link.springer.com/article/10.1007/s11023-025-09724-1)
