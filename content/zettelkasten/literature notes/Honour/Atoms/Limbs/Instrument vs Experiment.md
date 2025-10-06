@@ -1,17 +1,20 @@
-Simulating Science Notes: 
+Source
+[[A Formal Framework for Computer Simulations; Surveying the Historical Record and Finding Their Philosophical Roots]]
+[[Deep Learning Opacity in Scientific Discovery]]
+[[Beyond generalization; a theory of robustness in machine learning]]
 
 What exactly are DNNs? 
+DNNs, in their unique epistemological situation, have been classified as a number of things. From mathematical processes to problem solving techniques (Hartmann, 1996, Frigg & Reiss 2009). This is due to their varied use within scientific discovery. Discovery, used to mean empirical discovery, observes the world in order to produce knowledge. An experiment, for example, is a specific instantiation of this process. We say we perform an experiment on a phenomenon or system X when we can construct X or find a way to causally interfere with X and see what happens (Heidelberger 2005).
 
-DNNs, in their unique epistemological situation, have been classified as a number of things. From mathematical processes to problem solving techniques (Hartmann, 1996, Frigg & Reiss 2009). Our current section concerns whether, in the context of scientific discovery, DNNs are instruments or experiments. 
-
-
-
-Scientific discovery being the process of knowledge production within scientific inquiry. 
+The key part within the experiment is the scientific instrument, which occupies a key epistemic position within this process of discovery. 
 
 
-What do I need to answer: 
-What is an experiment?
-What is an instrument? 
 
-Why can DNNs be considered for the category of experiment? 
-What can they be considered for the category of instrument? 
+
+
+
+
+Distinctions between theory, experiment, and instrument have been argued in relation to computer simulations. A DNN, as a type of ML model, are a subset of computer simulations and are liable to these results. However, they differ in a few ways. 
+
+There are generally considered two *senses* are two senses in which a computer simulation is: a narrow and broad sense. The former, 
+

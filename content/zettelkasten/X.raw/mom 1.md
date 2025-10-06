@@ -75,7 +75,7 @@ I haven't passed any happy days. But if you want to compare, the days since Libe
 
 "I used to love jungle. I still think it's the ultimate genre, because the people making it weren't musicians. The best artists are people who don't consider themselves artists, and the people who do are usually the most pretentious and annoying. They've got their priorities wrong. They're just doing it to be artists rather than because they want to do it. And a lot of jungle people were actually car mechanics and painter-and-decorator types, like, pretty hardcore blokes. I wouldn't want to get into a fight with them. I know a few people who were like that, and I don't think that really exists any more." Richard D James, Pitchfork Interview
 
-"My teachers had told me that every serious author goes through successively three stages with regard to each manuscript: self-admiration; self-loathing; fatalistic indifference.  Once, they said, one had reached the third stage the manuscript was ready to publish" Raymond Geuss 
+"My teachers had told me that every serious author goes through successively three stages with regard to each manuscript: self-admiration; self-loathing; fatalistic indifference. Once, they said, one had reached the third stage the manuscript was ready to publish" Raymond Geuss 
 
 "Life isn't about finding yourself. Life is about creating yourself"
 
