@@ -1,0 +1,1 @@
+[Deep Neural Networks as Scientific Models](https://www.sciencedirect.com/science/article/pii/S1364661319300348?ref=pdf_download&fr=RR-2&rr=98a1ad1c9fe1e7c0)

@@ -1,0 +1,1 @@
+[Analysis of Beliefs Acquired from a Conversational AI: Instruments-based Beliefs, Testimony-based Beliefs, and Technology-based Beliefs](https://www.cambridge.org/core/journals/episteme/article/analysis-of-beliefs-acquired-from-a-conversational-ai-instrumentsbased-beliefs-testimonybased-beliefs-and-technologybased-beliefs/FBEF11A905AA8A524B344A09BDC72C3E)

@@ -22,7 +22,59 @@ For example, in classifying spam emails. Given an input space of emails either l
 
 Machine learning (ML) models are universal function approximators which, through an algorithm, implement the core logic of SLT (Hornik et al., 1989; Castro et al., 2000; Schchafer and Zimmermann, 2006). This can be done through a number of different architectures. E.g. linear models, decision trees, or neural networks. Different architectures define different ways in which the system represents and learns the underlying $h$ mapping $X \rightarrow Y$ . For example, in linear models, the architecture is simple: each input feature is multiplied by a weight and summed to produce a prediction. In comparison, decision trees split the input space into a set of decision rules in order to attain the output. Despite these differences, the logic remains static - we start with a set of training data and, through a specific procedure, approximate a certain function. 
 
-Our focus will be on neural networks - specifically deep neural networks (DNNs). A neural network, as the name suggests, is an arrangement of neurons placed in separate layers. Either an input/output layer or a 'hidden' layer, the number of layers is the *depth* of the network. A common way of representing the relations within a DNN is through a directed graph G = {V,E}. V being a set of neurons, E being a set of edges and   
+Our focus will be on neural networks. Specifically a type of neural network dubbed a deep neural networks (DNNs). A neural network is an arrangement of neurons placed in separate layers: an input/output layer or one or more hidden layers. The number of layers is called the \textit{depth} of the network. A common way of representing the relations within a DNN is through a directed graph, where each neuron is indexed by ($i$) in layer ($t-1$) and ($j$) in layer ($t$). Each neuron ($i$) from layer ($t-1$) is connected to each neuron ($j$) in the next layer ($t$) by an edge ($e_{ij}$) for some ($t \in {1, \ldots, T}$), where ($T$) is the network's depth.
+
+Each edge ( e_{ij} \in E ) carries an associated _weight_ ( w_{ij} ), which quantifies the strength and direction of influence between neuron ( i ) in one layer and neuron ( j ) in the next. The weights determine how the information from one layer is combined and transformed as it passes forward through the network. In addition to these weights, each neuron is associated with a _bias_ term ( b_j ), which shifts the activation threshold and enables the neuron to output non-zero values even when its weighted input sum is small or zero.
+
+Mathematically, this operation can be expressed for a single layer as $h = \sigma(Wx + b),$ where ( x ) is the vector of activations from the previous layer, ( W ) the matrix of weights connecting the layers, ( b ) the bias vector, and ( \sigma(\cdot) ) a nonlinear _activation function_ (such as ReLU, sigmoid, or tanh). 
+
+During training, the values of ( W ) and ( b ) are _learned_ by minimizing a chosen loss function. Typically through _gradient descent_ and its variants. This optimization process adjusts the weights in small increments opposite to the gradient of the loss with respect to each parameter (weights and biases), thereby reducing prediction error. Intuitively, learning in a DNN corresponds to progressively shaping the internal feature space defined by the weights so that the network’s output aligns with the desired target values.
+
+Image of Gradient Descent
+
+To illustrate this concretely, consider the classic _exclusive-or (XOR)_ problem. Suppose our network must learn the Boolean function
+
+$\text{XOR}: {0,1}^2 \rightarrow {0,1}$
+
+which outputs 1 for input pairs (0,1) and (1,0), and 0 otherwise. This function is not linearly separable, meaning a simple linear model cannot represent it. However, a neural network with a single hidden layer can successfully learn this mapping.
+
+Such a network first computes a hidden representation via
+
+$h(x; W, c) = Wx + c$
+
+where ( W ) contains the weights connecting the input nodes to the hidden neurons, and ( c ) represents the biases. Each hidden unit then passes its output through a non-linearity function which yields 
+
+$h_i = \max{0, (Wx + c)_i}.$
+
+Finally, the output layer combines these hidden activations through another weighted sum,
+
+$f(x; W, c, w, b) = w \cdot \max{0, h} + b.$
+
+Here, the distribution of _weights_ across layers enables the network to transform the input space into one where the XOR outputs become linearly separable. The example highlights how weights serve as the key adjustable parameters, along with the architecture (particular directed graph) in determining the function. Beyond their formal structure, DNNs can be viewed as _semi-autonomous learning systems_. Once provided with data and an objective function, a DNN learns internal representations without explicit feature engineering or direct human specification of what patterns to attend to. 
+
+The only parts a scientist has control over is the architecture and input data of the DNN. Weights are adjusted automatically. The lack of epistemic access to the method, or *decisions*, made when updating weights is one of the reasons why DNNs have been called "black-boxes" (Boge & Grunke, 2019). Other candidates for causing this black-box nature are as follows (\footnote{Examples are taken from Sogaard (2024)}): 
+
+CITATIONS IS SOGAARD
+1. Size and complexity 
+	1. DNNs can have billions of parameters. Some argue that this overwhelming size makes the model "opaque" (Shrestha et al., 2021)
+2. Non-linearity 
+	1. A nonlinear function induces opacity due to difficulty in grasping a models "decision making" 
+	2. "nonlinear structure which makes them opaque” (Joneidy & Ayadurai, 2021; Sachan et al., 2020). "
+3. Lack of Grounding 
+	1. DNNs are not actually connected to the world and are not derived intentionally. In particular, they "do not work in accordance with the ways humans themselves assign meaning to the reality that surrounds them” (Landgrebe & Smith, 2021, p. 2070). "
+4. Semi-autonomous learning 
+	1. We are not privy to the *way* and *decisions* a network makes during training. This is also called the incrementality of a system. Specifically, “learning algorithms are even more opaque because they do not rely on pre-specified instructions, but on evolving weights and networks of connections that get refined with each additional data point” (Faraj et al., 2018, §2.1),
+
+We will -> 
+
+ADD GRAPHS FROM SLT EXAMPLES. Overfitting and underfitting graphs 
+
+
+
+
+
+
+
 
 
 

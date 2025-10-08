@@ -4,5 +4,8 @@ DNNs, due to their versatility, have been employed in almost every context. Our 
 For example, within the US DNNs were recently deployed to predict potential recidivism risk. Training data was an admixture of “current charges, pending charges, prior arrest history, previous pretrial failure, residential stability, employment status, community ties, and substance abuse” (https://s3.documentcloud.org/documents/2840784/Practitioner-s-Guide-to-COMPAS-Core.pdf , pg.27). 
 Similar attempts have been made, Chinese study. 
 
+DNNs were not picking up on any sort of universal "criminal" function within these cases. Instead, it latched onto easily modelled and incorrect features, such as skin colour. 
+
+In these cases we: 
 
 "In 2016, computer scientists Xiaolin Wu and Xi Zhang developed a Convolutional Neural Network (CNN) that analyzed over 1,850 ID photos and classified them as {criminal; non-criminal}." [[Beyond transparency computational reliabilism as an externalist epistemology of algorithms]] pg. 5
