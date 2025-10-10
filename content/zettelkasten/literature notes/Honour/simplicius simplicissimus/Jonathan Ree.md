@@ -1,12 +1,32 @@
 Intro: [[Intro;Problem]]
 Section 1: [[SLT DNN]]
-Section 2: [[Instruments]]
+Section 2: [[Instrument vs Experiment]]
 Section 3: [[Models]]
 
 Papers: 
 Find ExAI and explanation paper 
 Go through each paper in tabs. Highlight each ones use - e.g Raz is good for what properties induce opaqueness - and build an essay plan around the best ones. 
 Look at Boge 2 Dimensions after plan has been written. 
+
+ADD:
+The ERM approach provides the theoretical basis for all modern ML techniques, including support vector machines (Schölkopf & Smola, 2017), boosting (Schapire & Freund, 2012), and deep learning (Goodfellow et al., 2016). [[Conceptual challenges for interpretable machine learning]]
+
+
+Section 1 goes over a basic overview of statistical learning theory principles and DNN architecture. 
+Section 2
+Section 3
+
+
+
+
+Main claims: 
+1. DNNs are instruments and their reliability can be epistemically justified similar to other instruments 
+2. What is opacity 
+3. 
+
+
+
+
 
 
 Intro: 

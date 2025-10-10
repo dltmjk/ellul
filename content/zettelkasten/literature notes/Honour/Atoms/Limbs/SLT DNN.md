@@ -50,7 +50,11 @@ Finally, the output layer combines these hidden activations through another weig
 
 $f(x; W, c, w, b) = w \cdot \max{0, h} + b.$
 
-Here, the distribution of _weights_ across layers enables the network to transform the input space into one where the XOR outputs become linearly separable. The example highlights how weights serve as the key adjustable parameters, along with the architecture (particular directed graph) in determining the function. Beyond their formal structure, DNNs can be viewed as _semi-autonomous learning systems_. Once provided with data and an objective function, a DNN learns internal representations without explicit feature engineering or direct human specification of what patterns to attend to. 
+Here, the distribution of _weights_ across layers enables the network to transform the input space into one where the XOR outputs become linearly separable. 
+
+Add more to this from Sources. 
+
+Beyond their formal structure, DNNs can be viewed as _semi-autonomous learning systems_. Once provided with data and an objective function, a DNN learns internal representations without explicit feature engineering or direct human specification of what patterns to attend to. 
 
 The only parts a scientist has control over is the architecture and input data of the DNN. Weights are adjusted automatically. The lack of epistemic access to the method, or *decisions*, made when updating weights is one of the reasons why DNNs have been called "black-boxes" (Boge & Grunke, 2019). Other candidates for causing this black-box nature are as follows (\footnote{Examples are taken from Sogaard (2024)}): 
 

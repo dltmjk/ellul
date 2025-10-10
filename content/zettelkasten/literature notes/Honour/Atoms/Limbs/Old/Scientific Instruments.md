@@ -79,9 +79,7 @@ Firstly, instruments are constructed in order to take advantage of an establishe
 
 If we return to the thermometer, the link between expanding liquids and heat was well known before an underlying theory proposed. Early thermoscopes of the late 16th and early 17th century (such as those described by Galileo and Santorio Santorio) exploited the observable fact that air and liquids expand when warmed. It was only in the 18th century with the work of Joseph Black on latent and specific heat, that systematic formulas relating temperature and material properties were formulated (Fenby 1987, [[Heat Its measurement from Galileo to Lavoisier]]). 
 
-Galileo was unaware of the specific principles that dictated material responses to heat. However, the reliability of his thermoscopes did not require a comprehensive theory. Galileo had good reason to believe that there was a relationship between temperature and certain liquids. However, in order for his trust to be justified, his thermoscope needed to demonstrate the causal connection in a consistent manner. 
-
-A mercury thermometer must reliably register displacement in proportion to changes in temperature and this displacement must be the same given the same external conditions. The thermometers ability to utilise this causal pathway is a consistent manner is what makes it reliable. 
+Galileo was unaware of the specific principles that dictated material responses to heat. However, the reliability of his thermoscopes did not require a comprehensive theory. Galileo had good reason to believe that there was a relationship between temperature and certain liquids. However, in order for his trust to be justified, his thermoscope needed to demonstrate the causal connection in a consistent manner. Therefore, a mercury thermometer must reliably register displacement in proportion to changes in temperature and this displacement must be the same given the same external conditions. The thermometers ability to utilise this causal pathway is a consistent manner is what makes it reliable. 
 
 ==TA: The DNN has no causal connection with the world. It is the result of its own logic. Can you make the argument that it has a causal connection with the world as the result of its training data? ===
 
@@ -115,15 +113,6 @@ This is an established problem with the social epistemology of science. Research
 TO DO:
 finish discussion on models. 
 
-
-
-
-Give example: 
-Tie in to how there is a level of opacity because no-one can understand all the moving parts for modern scientific instruments 
-Go into NTV 
-
-
-In both cases, if an instrument is relatively complex, arguments can be made that no agent is able to understand. 
 
 Apply to DNN in next section. Establish how they fit it with other statistical tools 
 ===DNNs, because of the multiple ways they are employed, fit into multiple categories of instruments.===

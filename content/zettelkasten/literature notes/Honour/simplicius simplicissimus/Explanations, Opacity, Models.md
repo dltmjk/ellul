@@ -2,7 +2,7 @@ TA: Where do DNNs actually keep concepts? What is a model in a DNN?
 
 What is an explanation?
 	1. In relation to computer science - is abstracting 
-		1. Find the source with the american scientist article - cosmology? 
+		1. Find the source with the american scientist article - cosmology? [[Explanations]]
 	2. Literature 
 		1. Appealing to correlations is not an accurate way of producing explanation. Instead, there needs to be a line of causation [[The Automated Laplacean Demon; How ML Challenges Our Views on Prediction and Explanation]]
 		2. Prediction and explanation in regards to the scientific instrument 
