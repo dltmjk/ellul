@@ -8,10 +8,15 @@ Structure:
 	2. They are "epistemically opaque", or "black boxed"
 4. Structure of the paper
 
+Add Contents Page
+
+
 Sources:
 [[On scientific understanding with artificial intelligence]]
 
 Understanding is a major goal of science (Elgin, 2017; de Regt, 2017 Potochnik, 2017). [[Put it to the Test Getting Serious About Explanation in Explainable Artificial Intelligence]]
+
+CRIMINAL : https://ieeexplore.ieee.org/abstract/document/9233349
 
 REWRITE THIS 
 "his paper focuses on models based on DNNs, because these have been responsible for the most impressive successes in recent years and because they pose the most interesting challenges from an epistemological point of view. However, we will occasionally consider also other ML methods, such as Logistic Regression (LR) and Random Forest (RF) models as they share some features of DNN models and some features of traditional scientific models. For the sake of concreteness, we focus on supervised ML models for binary classification. However, everything discussed in this article could be easily extended to other models of supervised ML. Unsupervised ML methods have quite different purposes and are beyond the scope of this paper." ([[Reliability and Interpretability in Science and Deep Learning]])
@@ -41,41 +46,66 @@ This can be illustrated by example:
 
 The CASP, short for \textit{"Critical Assessment of Structure Prediction"}, is a worldwide biennial protein-structure prediction competition. Contenders, usually large research groups, are given a set of modelling targets – proteins for which the structure has not been determined in the form of an amino acid sequence – and must predict the structure. A protein is, structurally, a sequence of amino acids. When a protein interacts with other molecules, it \textit{folds} into a set 3-dimensional structure. During his 1972 Nobel speech, Christian Anfinsen theorized that this 3D structure was somehow encoded within the 1-dimensional amino acid sequence and that the former could be determined from the latter. The \textit{protein-folding} problem concerns \textit{why} a certain amino acid sequence will lead to a certain protein structure and what physical law this transformation follows. \citep{proteinfolding}.\\
 
-Progress was exceptionally slow and traditional modelling techniques, such as *ab initio* methods, were the only prediction techniques that showed any promise. This was until the 13th CASP competition, at which a DNN dubbed 'AlphaFold', designed by Google's DeepMind team, outperformed every traditional model and took first place. Predicting structures to a nearly 90% accuracy. Specifically, AlphaFold2 achieved a median backbone accuracy of 0.96 Å, while the next best method had a median accuracy of 2.8 Å. This means that AlphaFold's predictions were, on average, within about the width of an atom from the actual protein structures, approximately 2.9 times more accurate than the next best method \citep{Jumper2021}. 
+Progress was exceptionally slow and traditional modelling techniques, such as *ab initio* methods, were the only prediction techniques that showed any promise both in prediction and the discovery of an underlying law. This was until the 13th CASP competition, at which a DNN dubbed 'AlphaFold', designed by Google's DeepMind team, outperformed every traditional model and took first place. Predicting structures to a nearly 90% accuracy. Specifically, AlphaFold2 achieved a median backbone accuracy of 0.96 Å, while the next best method had a median accuracy of 2.8 Å. This means that AlphaFold's predictions were, on average, within about the width of an atom from the actual protein structures, approximately 2.9 times more accurate than the next best method \citep{Jumper2021}. 
 
-Since then, Alphafold has produced a data-bank of almost every protein structure known in nature \citep{alphafold2020}. However, it operates without ever "explaining" its predictions. 
+Since then, Alphafold has produced a data-bank of almost every protein structure known in nature \citep{alphafold2020}. However, it operates without ever "explaining" its predictions. The algorithm takes in an amino acid sequence and outputs, without explanation of any intermediate steps, a finished protein. 
 
 As one scientist (Greg Bowman, director of Folding@home) points out:
 AlphaFold doesn’t explain how proteins fold, which is another important piece of the protein folding problem. [...] There are also a host of related problems, such as what sort of moving parts do folded proteins have? How do these dynamics enable proteins to transmit information and cargos? How can we design drugs to turn proteins off (or on)? How can we design proteins to perform new functions? [[Minds and Machines]] pg. 2
 
-In comparison, traditional modelling techniques, while less accurate, helped in explaining certain sub-problems related to protein-folding. For example, determining the hydrophobic effect (minimising contact with polar water molecules during protein construction) as a major driving force of protein-folding. ===Researchers were able to tinker with these algorithms, implement safeties and counterfactuals, and examine exactly why certain starting conditions manifest into particular results===. For example, changing energy states at specific times allowed researchers to understand exactly how a specific structure was simulated. Every predicted protein had a unique \textit{why} even if it did not assist in solving the larger problem \citep{MUNOZ1996R71}. 
+In comparison, traditional modelling techniques, while less accurate, helped in explaining certain sub-problems related to protein-folding. For example, determining the hydrophobic effect (minimising contact with polar water molecules during protein construction) as a major driving force of protein-folding. For example, changing energy states at specific times allowed researchers to understand exactly how a specific structure was simulated. Every predicted protein had a unique \textit{why} even if it did not assist in solving the larger problem \citep{MUNOZ1996R71}. 
+
+While AlphaFold has increased our data on protein folding, it hasn't allowed for the construction of a general, underlying, theory. Which presents problems given that this sort of understanding is a major goal of science (Elgin, 2017; de Regt, 2017 Potochnik, 2017). Raz and Beisbart (2022, pg. 12) argue that scientific discovery should aim for an "objectual understanding" of a subject matter or phenomenon. In this case of AlphaFold, the goal would be to encourage a greater understanding of the "the protein universe", which necessitates answering questions such as: "why do proteins fold in this manner". 
 
 This tension between prediction and explanation is common with DNN usage in science. As Boge (2022 Two Dimensions) states: 
 
 "Many standard applications of deep learning [...] focus on prediction—learning to output specific target values given an input. Scientific applications, on the other hand, are often focused on understanding—identifying underlying mechanisms giving rise to observed patterns in the data"
 
-While AlphaFold has increased our data on protein folding, it hasn't allowed for the construction of a general, underlying, theory. Which presents problems given that understanding is a major goal of science (Elgin, 2017; de Regt, 2017 Potochnik, 2017). Raz and Beisbart (2022, pg. 12) argue that scientific discovery should aim for an "objectual understanding" of a subject matter or phenomenon. In this case of AlphaFold, the goal would be to encourage a greater understanding of the "the protein universe", which necessitates answering questions such as: "why do proteins fold in this manner". 
+The lack of explanation means that researchers are not 'entirely satisfied because they would want to comprehend how the [DNN] made these predictions' [[On scientific understanding with artificial intelligence]]. To recap, DNN usage presents problems both with justifying its outputs and with explaining its underlying phenomena. 
 
-DNNs do not provide explanations along with their predictions. Due to this, scientists 'would not be entirely satisfied because they would want to comprehend how the [DNN] made these predictions' [[On scientific understanding with artificial intelligence]]. Sullivan (CITE) describes this as the 'link-uncertainty' of a model. In which “the amount, kind, and quality of scientific and empirical evidence supporting the link connecting the model to the target-phenomenon" is unknown. 
+===Recap of Existing Litertaure===
+Epistemic opacity in relation to computer simulations have been well established (Duran). X has attempted to...
 
-This discrepancy between AlphaFold and traditional models forces us to ask where the qualitative difference is? 
+Opacity only presents problems if the function of the instrument is directly tied to being transparent or if there are no other ways to justify an output except for appealing to certain transparent features. 
+
+Section 1: Brief Overview of DNNs
+Section 2: What type of instruments there are
+Section 3: Different types of opacity and how opacity works
+Section 4: If opacity presents problems for the training stage of the DNN 
+Section 5: If opacity presents problems for the deployment. How these problems arise, and what we can trust
+
+Reasons for opacity: 
+CITATIONS IS SOGAARD
+1. Size and complexity 
+	1. DNNs can have billions of parameters. Some argue that this overwhelming size makes the DNN opaque because no agent could be expected to familiarise themselves with the entire system. (Shrestha et al., 2021). Furthermore, the extreme size makes it harder to understand how certain elements have influenced the output 
+2. Non-linearity 
+	1. A nonlinear function induces a "nonlinear structure which makes them opaque” (Joneidy & Ayadurai, 2021; Sachan et al., 2020). ". Due to it being harder to grasp a models "decision-making"
+3. Lack of Grounding or Lack of Translation procedures 
+	1. DNNs are not actually connected to the world and are not derived intentionally. In particular, they "do not work in accordance with the ways humans themselves assign meaning to the reality that surrounds them” (Landgrebe & Smith, 2021, p. 2070). "
+4. Semi-autonomous learning 
+	1. We are not privy to the *way* and *decisions* a network makes during training. This is also called the incrementality of a system. Specifically, “learning algorithms are even more opaque because they do not rely on pre-specified instructions, but on evolving weights and networks of connections that get refined with each additional data point” (Faraj et al., 2018, §2.1),
+
+This essay is an attempt to find what conditions are necessary for opacity, or a black box nature. 
+
+We will show that ... [conclusion]
+
+Opacity presents no problems for the training stage of a DNN. Whereas it presents certain problems for the deployment stage, only in reliability but not in explanation. 
+
+We will also investigate what exactly an epistemically relevant part of an instrument is and if DNNs are truly epistemically opaque. 
+
+
+Section 1: 
+
+NTV opacity will give an overview of epistemic opacity and its different taxonomies. 
+
+T-DNN will show that 
 
 
 
 
 
 
-===Sources for AI use===
-"anthrax spores (Jo et al., 2017), to calculate phenotypic distances from butterfly photographs (Cuthill et al., 2019), to improve breast cancer diagnostics (Witowski et al., 2022), to monitor urban earthquakes (Yang et al., 2022), in materials science (Zhong et al., 2022), and so on." [[On the Opacity of Deep Neural Networks]] 
 
-More examples: 
-DeepMind’s application to problems in healthcare (Fauw et al. 2018), deep learning models for data reduction in high energy physics (Guest et al. 2018) and bias in autonomous systems (Danks and London 2017).
-
-The use of artificial intelligence (AI) for decision-making has become widespread. This includes banking (Aggarwal, 2021), criminal recidivism (Dressel & Farid, 2018), hiring (Kuncel et al., 2014), policing (Alikhademi et al., 2022) and healthcare (Alowais et al., 2023; Gulshan et al., 2016; Donnelly, 2017; Longoni, Bonezzi and Morewedge 2019; McKinney et al., 2020; Topol, 2019). Baron, trust explainability and AI. 
-
-
-Read: 
-[[On scientific understanding with artificial intelligence]]
 
 
 

@@ -17,6 +17,8 @@ Section 2
 Section 3
 
 
+Start every section with the main claims and how you will defend them. 
+
 
 
 Main claims: 

@@ -1,27 +1,11 @@
-[[ML interpretability]]
-Sources: What is interpretability - Erasmus. For showing that complexity doesn't impede explanation 
+What does algorithmic opacity require. 
+Opacity ranges from familiarity of the underlying technical components (in the form of transistors or other sorts of hardware) to an understanding of the higher-level rules. Being unable to understand the structural and relational parts of each of these components means that an agent would, potentially, be unaware of how an output was reached from input. 
 
-If opacity is the prevention of giving explanations for a certain model, we first need to investigate what exactly an explanation is. Within the philosophy of science, explanation takes multiple forms. Of interest to us is the causal mechanical (CM) model, which focuses on how models encode and represent the causal structure of the phenomenon they represent. (Salmon 1984, Erasmus)
+If an agent understands how a certain functions emerge from certain other parts in a system. They can justify their reliance without being familiar with every operation. Furthermore, we can model opacity as a type of scale. At the bottom is run-transparency, or opacity that is caused by a lack of understanding of the lowest level components. Within the context of DNNs, these are the transistors used to calculating weights and biases. From there, is the actual programming implementation, and at the highest end is conceptual understanding. 
 
-\Footnote{Deductive Nomological (Hempel and Oppenheim 1948), Inductive Statistical (Hempel, 1965), and NM (Machamer et al 2000) have very little use in application towards scientific instruments and decision making.}
-
-For example, when we utilise a statistical algorithm for diagnosis we would like to understand how exactly the algorithm has reached its decision. Let's consider the case of a DNN trained on a vast and varied amount of data that produces a diagnosis of an exceptionally rare disease, the doctor reading these results wouldn't consider an explanation of "the machine has been correct in the past" to suffice. What they are seeking is a certain causal explanation of the DNNs reasoning. In comparison, if a human doctor were to produce the same diagnosis, when questioned they would be able to describe the discrete steps in their reasoning (Cite [[Conceptual challenges for interpretable machine learning]]). 
-
-To answer this, we need to return to our discussion of *model instruments*. Models, as established before, are a 'an interpretative description of a phenomenon that facilitates access to that phenomenon’ (Bailer-Jones, 2009, 1). In our previous historical examples, we can see that models need to fulfil two purpose: They need to represent the target phenomena in a certain way and present that representation in a suitable manner. 
-
-Firstly, how do models relate to their targets? 
-
-The representation of these targets, and the ability to run interventions on these causal variables, along with grounding within a certain theory. Allows for the creation of scientific explanation 
-
-When do we stop being able to give explanation 
+We provide a reformulation of opacity in the form of explanation within the philosophy of science. 
 
 
-
-What stakeholders are interested in is a causal account of how the DNN arrived at its decision. 
-
-Woodwards theory of explanation deals with 
-
-To start, we need to describe what a model instrument is and how explanations are usually provided for them. 
 
 
 
