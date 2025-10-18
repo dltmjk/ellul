@@ -1,15 +1,6 @@
 Sources: 
 [[Do Machine Learning Models Represent Their Targets?]]
 
-
-
-
-Structure
-1. What are models? 
-2. How do models represent their targets
-3. Double nature of models 
-4. What we require is a causal and conceptual account of a model 
-
 What exactly are the higher level rules needed 
 
 1. What are models 
@@ -19,8 +10,15 @@ What exactly are the higher level rules needed
 5. This can be used to provide further analysis of the underlying mechanism 
 6. But does not act as an reason for justifying reliability 
 
-What are models? 
-As mentioned before, models are a diverse category and encompass both simple linear equations and large scale material models (Frigg and Hartmann 2020 SEP). In general, 'a model is an interpretative description of a phenomenon that facilitates access to that phenomenon’ (Bailer-Jones, 2009, 1). Furthermore, models are grounded and constructed within an existing body of scientific theory/knowledge. 
+===Section Outline===
+This section establishes that an agent can justify the output of a model if they can:
+1. Understand how the model relates to its target phenomenon; and
+2. Explain which parts of the model correspond to specific aspects of the phenomenon.
+We then show that this type of relationship is impossible for DNNs due to their distributed nature. We also evaluate ExAI methods to determine whether they can resolve these issues. We conclude that, while ExAI methods provide explanatory value, they do not confer reliability on a DNN.
+
+
+===What are models? ===
+Models are a diverse category and encompass both simple linear equations and large scale material models (Frigg and Hartmann 2020 SEP). We can return to our previous definition where 'a model is an interpretative description of a phenomenon that facilitates access to that phenomenon’ (Bailer-Jones, 2009, 1). We need to add that models are grounded and constructed within an existing body of scientific theory/knowledge. 
 
 However, this explanation raises further questions. Firstly, how do models describe a given phenomena and how must this phenomenon be represented towards a human agent? Most accounts of models within scientific contexts focus on how the model represents a target phenomenon through, approximation, idealisation, or simplification (Weisberg 2013). The way in which the model is connected to its targeted phenomenon ($t_p$) could be mediated either by isomoprhic, structuralist, or mechanistic accounts among others. 
 
@@ -70,13 +68,13 @@ Within the philosophy of science this is known as the causal mechanical (CM) typ
 
 If we accept this then, if a model can represent a phenomena in a way that allows for reasoning, we can make claims about a phenomena based on the model. However, this is all contingent on the fact that the model actually represents the target phenomena in a way that allows for this type of explanation. I.e., an agent must have good reasons for showing that a subpart of a model (e.g. $F_{m}$) actually corresponds to a phenomenon (force). If they are able to provide this, then they must further furnish their explanation with a causal and conceptual account of how a model went from input to output. 
 
-Our need for a conceptual model is why we have to reject cannot appeal to reliability based only on the models shifting weights and biases. This is one sense in which a DNN is a model, however explanations produced from this, such as "X neuron shifted its weight form 0.4 to 0.6 due to the result of a backpropogation algorithm which led to a prediction of hurricane" are not the type we are looking for. While they are causal, they are not conceptual in nature. Explanation requires a sense of semantic intelligibility that is acceptable by another agent. Fong and Vedaldi give their explanation of a DNN output in the following way: 
+Our need for a conceptual model is why we have to reject cannot appeal to reliability based only structural transparency. This is one sense in which a DNN is a model, however explanations produced from this, such as "X neuron shifted its weight form 0.4 to 0.6 due to the result of a backpropogation algorithm which led to a prediction of hurricane" are not the type we are looking for. While they are causal, they are not conceptual in nature. Explanation requires a sense of semantic intelligibility that is acceptable by another agent. Fong and Vedaldi give their explanation of a DNN output in the following way: 
 
 > An explanation is a rule that predicts the response of a black box $f$ to certain inputs. For example, we can explain a behavior of a \textit{robin} classifier by the rule  $Q_1(x; f) = \{ x \in \mathcal{X}_c \leftrightarrow f(x) = +1 \},$ where $\mathcal{X}_c \subset \mathcal{X}$ is the subset of all the robin images. Since $f$ is imperfect, any such rule applies only approximately. We can measure the faithfulness of the explanation as its expected prediction error: $\mathcal{L}_1 = \mathbb{E}[1 - \delta_{Q_1(x;f)}],$ where $\delta_Q$ is the indicator function of event $Q$. Note that $Q_1$ implicitly requires a distribution $p(x)$ over possible images $\mathcal{X}$. Note also that $\mathcal{L}_1$ is simply the expected prediction error of the classifier. Unless we did not know that $f$ was trained as a robin classifier, $Q_1$ is not very insightful, but it is interpretable since $\mathcal{X}_c$ is (Fong \& Vedaldi, \citeyear{FongVedaldi2017}, p.~3450).
 
-While this is an accurate breakdown of a DNNs function, it does not give us insight to how parts of the DNN relate to the phenomena in question (robins). What we are interested in is how a target phenomenon is encoded by a DNN and how this leads to a prediction. Specifically, what type of causal methods are encoded by the DNN in actually identifying a robin. Like any model instrument, this requires an agent to be aware of the theory/experiment a DNN is situated within. Fon and Vedaldi's robin classifier only makes sense if we know that we are testing for a robin within a photo. For an agent to construct conceptual correlates of a DNN to the target phenomenon, they require this type of theoretical grounding. I.e., a DNNs architecture by itself will not tell you, in any conceptual way, what target phenomenon it is directed towards. 
+While this is an accurate breakdown of a DNNs function, it does not give us insight to how parts of the DNN relate to the phenomena in question (robins). What we are interested in is how a target phenomenon is encoded by a DNN and how this leads to a prediction. Specifically, what type of causal methods are encoded by the DNN in actually identifying a robin. Like any model instrument, this requires an agent to be aware of the context that a DNN is situated within. Fon and Vedaldi's robin classifier only makes sense if we know that we are testing for a robin within a photo. For an agent to construct conceptual correlates of a DNN to the target phenomenon, they require this type of theoretical grounding. I.e., a DNNs architecture by itself will not tell you, in any conceptual way, what target phenomenon it is directed towards. Therefore, what we require is algorithmic transparency. 
 
-This echos the previous notion of algorithmic interpretability. If we return to our example of a program which outputs 'hi'. Algorithmic opacity was corrected by identifying certain components and assigning a conceptual function to this subpart. E.g. certain transistors were grouped together to encode the 'h' char. However, nothing about the transistors themselves would lead an agent to be aware of this function. This parallels our discussion of the construction of model instruments. Where theory both creates and grounds the model. This gives an agent good reasons for connecting the functioning of a model (and the output) with a certain theoretical, which allows them to privillege to apply certain concepts to parts of the model. 
+If we return to our example of a program which outputs 'hi'. Algorithmic opacity was corrected by identifying certain components and assigning a conceptual function to this subpart. E.g. certain transistors were grouped together to encode the 'h' char. However, nothing about the transistors themselves would lead an agent to be aware of this function. This parallels our discussion of the construction of model instruments. Where theory both creates and grounds the model. This gives an agent good reasons for connecting the functioning of a model (and the output) with a certain theoretical, which allows them to privilege to apply certain concepts to parts of the model. 
 
 This type of reasoning, originally pioneering within cognitive science research (CITE), have been extended towards DNN. Generally dubbed mechanistic interpretability (CITE), it is performed in the following way: 
 
@@ -86,21 +84,18 @@ This type of reasoning, originally pioneering within cognitive science research 
 To illustrate this point, consider a DNN that represents the logical XOR function. A minimal network capable of learning XOR contains two hidden neurons, each of which can be shown to encode a subfunction analogous to logical operations such as “AND”, “OR”, or “NOT”. For instance, one neuron may activate when only one input is high. Which mirrors the behavior of a NOT gate composed with an AND gate. When visualized or analyzed through activation patterns, we can identify that this neuron corresponds to a conceptual component of the XOR function. 
 
 [Diagram]
+https://www.researchgate.net/figure/a-A-sample-DNN-to-learn-the-XOR-function-b-the-values-of-X-and-Y-according-to-the_fig3_359771176
 
 What this demonstrates is that a DNN, even though realized as a distributed network of weighted connections, can encode _structurally meaningful subcomponents_ that correspond to elements of the phenomenon it models. In the case of XOR, these correspondences can be exactly mapped to logical relations. We can see that this DNN is not algorithmically opaque because we can point to a neuron and give good reasons for why this represents one part of the XOR function, or how it fits into the overall function. Which fulfils the criteria for model reliability. 
 
-
-
-===How does this differ from our previous discussion on opacity?===
-
-What stops this from happening? From here, we will investigate at what point a DNN is unable to provide this explanation compared to other transparent statistical models, such as linear regression or decision trees. To prove this will utilise Mill's method of difference in applying a certain property $\chi$ onto a transparent statistical algorithm and contrast this with a DNN to see if this is a sufficient condition for opacity. 
+However, do we retain this ability in systems of extreme size? our XOR network is made up of a few hidden layers, whereas those in real scientific use contain billions. As we will see, this overwhelming size makes any demarcation of the model impossible. From here, we will investigate at what point a DNN is unable to provide this explanation compared to other transparent statistical models, such as linear regression or decision trees.
 
 ___
 
 Linear models are a type of statistical model that are defined in the following way: a target variable ( y ) is represented as a linear combination of input variables ( x_1, x_2, \ldots, x_n ), each weighted by a corresponding parameter ( w_i ), plus an error term ( \epsilon ). Formally,
 
 $$
-$y = w_0 + w_1x_1 + w_2x_2 + \dots + w_nx_n + \epsilon.
+y = w_0 + w_1x_1 + w_2x_2 + \dots + w_nx_n + \epsilon.
 $$
 
 The model assumes that the expected value of ( y ) changes proportionally with the inputs. Meaning that the relationship between each input and the output is additive and independent of the others. During training, the model “learns” by adjusting the weights ( w_i ) to minimise some measure of error (typically the mean squared difference between the predicted and observed values). Why are these models considered transparent?
@@ -115,38 +110,34 @@ Decision trees are considered transparent along similar lines. They are intuitiv
 
 Does size present any problems for this conceptual nature? For example, given a linear model with billions of parameters, we are still capable of describing certain partitions of the model as corresponding to certain parts. In a large linear regression used for predicting house prices, for instance, we can still interpret the contribution of each feature (e.g. location, number of rooms, or proximity to schools) by examining its associated coefficient. Even if the model contains billions of such parameters, each still has a direct conceptual counterpart. Will the same hold for a decision tree? it seems only possible in cases where large chunks of the model can be separated into certain functional roles. However, certain decision trees can be made up of billions of else-if statements, all of which are distinct, the possibility of this decreases. 
 
-The same concern is applicable to DNNs. If our example of the XOR function was extended to a billion parameters. The ability to demarcate certain sections as corresponding to a certain function decreases. 
+The same concern is applicable to DNNs. If our example of the XOR function was extended to a billion parameters. The ability to demarcate certain sections as corresponding to a certain function decreases. In addition, unlike decision trees, DNNs do not represent their parameters with any sort of semantic description (i.e. it is all weights or biases - numbers). 
 
-While all of these help in obscuring the function of a DNN towards an agent. They all assist in 
-Furthermore, unlike decision trees, DNNs do not represent their parameters with any sort of semantic description (i.e. it is all weights or biases - numbers). 
+Furthermore, as Duede identifies, DNNs are distributed in a way which presents certain problems. He shows that, due to the nature of a DNNs layers and neurons all being activated in a feed forward manner, information cannot be localised within individual units. I.e., certain parts of the network do not light up for certain concepts. The entire network is used because each layer depends on the last. This phenomenon becomes standards as DNNs being increasingly large and complex. Therefore, each neuron is used in representing numerous input-output associations. Representational content, therefore, is not attached to a single parameter or node but is distributed across the system. Altering any one weight perturbs the activity of many others. In this sense, the deep network’s knowledge of its target is not encoded in subparts but in the global configuration of interrelations among all its parameters.
 
-Furthermore, as Duede identifies, DNNs are distributed in a way which presents certain problems. He shows that, due to the nature of a DNNs layers and neurons all being activated in a feed forward manner, information cannot be localised within individual units. I.e., certain parts of the network do not light up for certain concepts. The entire network is used because each layer depends on the last. This phenomenon becomes standards as DNNs being increasingly large and complex. Therefore, each neuron is used in representing numerous input-output associations. Representational content, therefore, is not attached to a single parameter or node but is distributed across the system. Altering any one weight perturbs the activity of many others. In this sense, the deep network’s knowledge of its target is not encoded in  subparts but in the global configuration of interrelations among all its parameters.
+An agent, inspecting the system, does not have many good reasons for selecting subsets as corresponding to any function. This is because every parameter within the DNN participates to some degree in representing all contents, and representational meaning is fully global. If the criterion for fully justifying a model is the ability to point to a subset and be able to give good reasons for why it encodes a certain function. The holistic nature of a DNN means that we don't have a proper epistemic reason for believing that any particular subpart fully encodes a specific function. This stops an agent from being fully sure, as is the case with other models, how the model represents the relationship between certain causal concepts. 
 
-Therefore, every parameter within the DNN participates to some degree in representing all contents, and representational meaning is fully global. If the criterion for fully justifying a model is the ability to point to a subset and be able to give good reasons for why it encodes a certain function. The holistic nature of a DNN means that we don't have a proper epistemic reason for believing that any particular subpart fully encodes a specific function. This stops an agent from being fully sure, as is the case with other models, how the model represents the relationship between certain causal concepts. 
-
-Diagram of Boge: physics equation, linear approximation, DNN approximation. 
 
 ===ExAI===
+In an attempt to correct for this, multiple “Explainable AI” (ExAI) methods have been constructed. These range from salience maps (Simonyan et al. 2013, getting serious about), local approximating techniques (Riberito et al., 2016), and layer-specific relevance analysis (Bach et al., 2015). All of these methods all appeal to post-hoc explainability. 
 
-In an attempt to correct for this, multiple "Explainable AI" (ExAI) methods have been constructed. These range from salience maps (Simonyan et al. 2013, getting serious about), local approximating techniques (Riberito et al., 2016), and layer-specific relevance analysis (Bach et al., 2015). 
+For example, if we have a DNN, which has already been trained and evaluated for its accuracy against a set of training data, that attempts to predicts tumours within an MRI image. A post-hoc ExAI algorithim would generate an additional output that highlights, for each feature in the input image, how much that feature contributed to the overall classification \footnote{This is an outline of how saliency maps work}. This localised relevance information is typically visualised as a heatmap, which offers a glance into the internal process of the machine learning model.
 
-All of these methods all appeal to post-hoc explainability (Boge, biomedical). For example, if we have a DNN, which has already been trained and evaluated for its accuracy against a set of training data, that attempts to predicts tumours within an MRI image. A post-hoc ExAI algorithim would generate an additional output that highlights, for each feature in the input image, how much that feature contributed to the overall classification \footnote{This is an outline of how saliency maps work}. This localised relevance information is typically visualised as a heatmap, which offers  a glance into the internal process of the machine learning model. 
+Such heatmap-based methods belong to the broader class of post hoc explainability techniques, which, for a given input, assign an importance score to each input feature based on its influence on the model’s output. Visualizing these relevance scores produces the heatmaps that serve as explainable representations of the model’s behaviour.
 
-Such heatmap-based methods belong to the broader class of post hoc explainability techniques, which, for a given input, assign an importance score to each input feature based on its influence on the model’s output. Visualising these relevance scores produces the heatmaps that serve as explainable representations of the model’s behaviour.
+While these methods are useful. We argue that they only provide value for researchers in somewhat elucidating the underlying phenomena but do not provide arguments for reliability. They are reliable as models of a DNN, but not as a model of the target phenomena itself. Despite this, it can still be used to increase scientific understanding.
 
-While these methods are useful. We argue that they only provide value for researchers in elucidating the underlying phenomena but do not provide arguments for reliability. They are reliable as models of a DNN, but not as a model of the target phenomena itself. Despite this, it can still be used to increase scientific understanding. 
-
-Within ExAI, researchers claim that their methods make the DNN more transparent (cite). However, ExAI is not changing any particular part of the DNN. Instead, it is applying another type of algorithm onto the DNN to produce a subsequent model. The previous example of a heatmap is not revealing any intermediate steps in the DNNs prediction, instead it is a separate model which takes the DNN as its target. 
-
+Within ExAI, researchers claim that their methods make the DNN more transparent (cite). However, ExAI is not changing any particular part of the DNN. Instead, it is applying another type of algorithm onto the DNN to produce a subsequent model. The previous example of a heatmap is not revealing any intermediate steps in the DNNs prediction, instead it is a separate model which takes the DNN as its target.
 An argument can be made by analogy to computational neuroscience. Methods like representational similarity analysis (RSA), which are often used to study how the brain represents information. These methods take neural recordings and try to predict neural responses from stimuli or compare patterns of activity across regions. While they can show that a particular stimulus property correlates with neural activity, they do not demonstrate that the brain “uses” that representation in the same way the model does. In other words, they are models of the brain. 
 
-If an ExAI model is a model of a DNN, which itself is a opaque model of a phenomenon, then we can claim that an ExAI model is a model of the phenomena. However, our epistemic grounding in making this claim is shaky because we an unaware of how a DNN relates to the phenomenon, meaning that we cannot show how an ExAI model relates to the phenomenon. 
+If we evaluate ExAI techniques as models of a DNN, we can see that the methods employed in mapping the DNN is tractable and algorithmically transparent (find source for ExAI DNN stuff). Furthermore, the method of representation is clear towards a human agent. Therefore, ExAI models are reliable models of a DNN. If an ExAI model is a model of a DNN, which itself is a model of a phenomenon, then can we claim that an ExAI model is a model of the phenomena? While prima facie convincing, it fails because DNNs are still opaquely related to their target phenomena. Meaning that we cannot draw a direct link between ExAI models and our object of scientific investigation. 
 
-However, we can show that ExAI models are reliable in representing the target of a DNN, since the methods employed are fully transparent. 
+Some might argue that that a post-hoc ExAI model can make genuine claims about the target phenomena because most processes of human explanation of scientific explanation are equally as post hoc. This works as an argument for using ExAI as a springboard for further research but not as a defense for the reliability of the underlying DNN. In highlighting what features the DNN considers most important, the ExAI model is able to provide valuable information about further paths of scientific discovery. 
 
-What we are able to do is inspect the ExAI model to see what features the DNN considers important. It has been argued that DNNs are able to pick up on features within input data that is "not transparent to human researchers" (Boge FCP pg. 1). This ability for ExAI models to show what DNNs consider important features allows for a glimpse of understanding. Explanation is not fully conceded, but researchers can use this as groundwork for further scientific discovery. 
+For example, it has been argued that DNNs are able to pick up on features within input data that is “not transparent to human researchers” (Boge FCP pg. 1). This ability for ExAI models to show what DNNs consider important features allows for a glimpse of understanding. Explanation is not fully conceded, but researchers can use this as groundwork for further scientific discovery. It’s important to note that scientists are only provided with what the DNN consider important – not why it consider this feature important. Similarly, ExAI methods do not grant us any insight into how a DNN actually utilizes these features to produce a prediction. 
 
-Certain ExAI methods show that certain parameters are more active than others given a certain input. 
+Certain approaches “test” the model with sets of input data to show that certain subsets of neurons are more active given the abundance of a certain feature. However, our previous problems with the distributed nature of a DNN persist. We are given information about the location of certain features but not how different features interact. I.e., we are given information that a model does encode this feature in a certain place, but now how this feature interacts with others in the dynamics of the models. Any attempt to correct for this will be reasoning ontop of the model instead of a result given by the model. Due to our lack of epistemic access into the DNNs representations, the second-order ExAI model is unfalsifiable. Therefore, we cannot fulfill our requirement for a relational understanding in a model and use that to justify its reliability. 
+
+
 
 
 ExAI is a model of the DNN, not a model of the phenomena
