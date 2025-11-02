@@ -1,0 +1,1 @@
+[The Type-Token Distinction and the Mind and Brain Sciences](https://philsci-archive.pitt.edu/3860/1/The_Type-Token_Distinction_and_the_Mind_and_Brain_Sciences.pdf)

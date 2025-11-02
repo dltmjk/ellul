@@ -1,0 +1,1 @@
+[Holism and Reductionism in the Illness/Disease Debate](https://philsci-archive.pitt.edu/20465/1/Buzzoni%2C%20Tesio%2C%20Stuart%202022%20Holism%20vs%20reductionism.pdf)

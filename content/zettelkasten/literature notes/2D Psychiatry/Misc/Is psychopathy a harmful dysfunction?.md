@@ -1,0 +1,1 @@
+[Is psychopathy a harmful dysfunction?](https://link.springer.com/article/10.1007/s10539-018-9668-5)

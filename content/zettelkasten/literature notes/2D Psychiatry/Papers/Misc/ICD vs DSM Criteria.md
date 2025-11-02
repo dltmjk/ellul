@@ -1,0 +1,1 @@
+[The Value of Categorical Polythetic Diagnoses in Psychiatry](https://philsci-archive.pitt.edu/18048/1/The%20Value%20of%20Categorical%20Polythetic%20Diagnoses%20in%20Psychiatry%20Pre-Typeset.pdf)

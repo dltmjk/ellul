@@ -1,0 +1,1 @@
+[Scientific Perspectivism and Psychiatric Diagnoses](https://philsci-archive.pitt.edu/18036/1/Scientific%20Perspectivism%20and%20Psychiatric%20Diagnoses%20Respecting%20History%20and%20Constraining%20Relativism%20Pre-typeset.pdf)
