@@ -40,14 +40,16 @@ Section 1: 2D Semantic Analysis to Normal Diseases
 5. Tie this into causal nature of explanation within medicine. 
 
 Section 1a: Problems with Psychiatry 
-1. Psychiatry being the younger siblings of medical specialities has lagged behind.
-2. What is the difference between mental disorders and other bodily disorders. 
+1. Kraepelin vs Fruedian analysis. 
+2. Natural vs Human kinds, latter from Hacking 
+3. Psychiatry being the younger siblings of medical specialities has lagged behind.
+4. What is the difference between mental disorders and other bodily disorders. 
 	1. Why use the word mental if we are committing ourselves to a materialism - a pragmatic decision. 
 	2. Lagging behind in this turn towards anatomical explanations 
 		1. For history: Epistemology of Neural Psychiatry 
 	3. Can symptoms act as a causal account for a certain psychiatric disorder. The same way other somatic disorders do? 
 		1. Generally what we are looking for is a causal account. It is epistemically contentious to say that a person have depression because of x, which causes y. When x and y are the same. 
-3. The mode of presentation of a mental disorder is more important to the meaning of a mental disorder in comparison to other somatic diagnoses. 
+5. The mode of presentation of a mental disorder is more important to the meaning of a mental disorder in comparison to other somatic diagnoses. 
 
 
 Section 2: Simple 2D application to psychiatric diseases 
