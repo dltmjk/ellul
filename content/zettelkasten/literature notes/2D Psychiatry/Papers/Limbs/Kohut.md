@@ -25,10 +25,6 @@ Causal accounts
 	Because there is no well defined notion of how a cause relates to the symptom in psychiatric cases 
 	In this way it is subject to Hacking's looping accounts 
 
-We will proceed with three cases. 
-(X) Gambling Addiction and Pathological Gambling Addiction (Murphy). 
-	Symptoms without biological dysfunction
-(Z) 
 
 ___
 The term 'ontological descriptivism' was coined by Jennifer Radden (CITE) in her attempt to classify the method of the Diagnostic and Statistical Manual of Mental Disorders (DSM) \footnote{The number after DSM- represents the specific edition. Revised editions are concatenated with 'TR'.}. Radden's 'descriptivism' refers to the DSM procedure of referencing only symptoms in the course a psychiatric diagnosis. Therefore, collapsing the concept of a mental disorder into its behavioural profile. 
@@ -53,50 +49,64 @@ The contrast with other somatic disorders is obvious. This presentation of MDD i
 
 In many ways, this seems like the inverse of our previous formulation of causal concepts. Continuing to read from the DSM:
 
-> This approach can be said to be ‘descriptive’ in that the definitions of the disorders consist of descriptions of the clinical features of the disorders. These features are described at the lowest order of inference necessary to describe the characteristic features of the disorder \footnote{APA (CITE, pg. 7), quote taken from (Hane Muang Psychiatric Euthanasia)}
+> This approach can be said to be ‘descriptive’ in that the definitions of the disorders consist of descriptions of the clinical features of the disorders.  \footnote{APA (CITE, pg. 7), quote taken from (Hane Muang Psychiatric Euthanasia)}
 
-If a psychiatric concept is defined by its symptomatic presentation, then our primary and secondary intension will be identical because our mode of presentation and reference object are also identical. Furthermore, a mental disorder concept settles into a fully constructivist account, since it is societal norms which determine deviancy of behaviour instead of any causal object. As an example let's evaluate the expression "BDD is a mental disorder" at two worlds. w1 is our own and w2 is a world with wildly different norms of human behaviour. Let's dub this "misery earth". In this other, much sadder, world the symptoms of BDD are characteristic of normal human behaviour. For the moment we will keep the symptomatic profile of BDD unchanged in w1 \& w2. We follow in our conception of a disease as an aberration of function. However, this will be a change in behavioural, instead of bodily, function.  
+If a psychiatric concept is defined by its symptomatic presentation, then our primary and secondary intension will be identical because our mode of presentation and reference object are also identical. The consequence is that a mental disorder concept settles into a fully constructivist account since it is societal norms which determine deviancy of behaviour instead of any causal object. As an example let's evaluate the expression "MDD is a mental disorder" at two worlds. w1 is our own and w2 is a world with wildly different norms of human behaviour. Let's dub this "misery earth". In this other, much sadder, world the symptoms of MDD are characteristic of normal human behaviour. For the moment we will keep the symptomatic profile of MDD unchanged in w1 \& w2. We follow in our conception of a disease as an aberration of function. However, this will be a change in behavioural, instead of bodily, function.  
 .
 	w1 w2
 w1    T    F
 w2    T    F
 
-Let's now change the symptoms of BDD in w2. Since their norms are opposite ours,their presentation of BDD is one where a patient displays behaviours of joy, high self esteem, and great interest in their everyday activities. Re-evaluating our previous expression: 
+It's contentious for us to keep the symptomatic profile static, so we will change the symptoms of MDD in w2. Since their norms are opposite ours, their presentation of MDD is one where a patient displays behaviours of joy, high self esteem, and great interest in their everyday activities. Re-evaluating our previous expression: 
 
 .
 	w1 w2
 w1     T    F
 w2     F    T
 
-As we can see, the designation of a mental illness is nothing about the symptoms themselves but only about how the symptoms are viewed normatively. At least in dysfunction accounts, we can hope to establish some concept of 'functionality' and base our normative judgements off that. However, without any reference object, this becomes impossible. 
+As we can see, the designation of a mental illness is nothing about the symptoms themselves but only about how the symptoms are viewed normatively \footnote{The reason we want to avoid this is because want a distinction between socially unacceptable behaviours and pathological mental disorders (Murphy, concept).}. At least in dysfunction accounts, we can try to establish some concept of 'functionality' and base our normative judgements of disorder on that. If we return to our example of TB, we can evaluate the expression "TB is caused by the dysfunction of what causes TB" and find that it returns 'T' across the board. Similarly, if we evaluate "TB is caused by the dysfunction of what actually causes TB", we are given the following table: 
 
-==TA==
+.
+	w1 w2
+w1     T    F
+w2     F    T
 
-(Y) Psychopathy and Gourmand Syndrome. 
-	Biological dysfunction without Deviant symptoms. 
-	In many ways, psychopathy is actually rewarded in our society. 
-	These are disorders, yes, but do they require treatment. Whereas the opposite case will require treatment without any harm. 
+Without any fixed reference, behaviours are automatically determined to be mental disorders purely because of their socially abnormal nature. For example in our previous example of MDD, the presentation of symptom (3) must necessarily be part of the MDD diagnosis, instead of an unrelated behaviour arising from other factors. It is entirely possible for a person to rationally choose to gain or lose weight, yet the nature of how this behaviour relates to other parts of the illness is forgone in the shadow of a decriptivist diagnosis. It does not matter how this behaviour actually came about, because it is the same behaviour as the symptom of BDD, it will be classified as a symptom of BDD. Therefore, the descriptivist diagnosis does not allow a certain behaviour to 'opt-out' from being included within the nature of the mental disorder. 
 
-Partly to avoid this, and partly because psychiatry has to abide by the expectations required of a medical speciality, i.e., its "scientific image" (Murphy, 2006). The DSM presumes a set of concomitant biological causes without much substantiation. Based on the assumption that all human brains behave the same structurally, biological psychiatrists reduce "understanding" of a specific mental disorder into a set of neurobiological differences, letting social factors take a backseat (Churchland PS: Neurophilosophy). Dubbed a "Kraepelin" \footnote{===Add stuff about this contrasting with frued===} approach to psychiatry \footnote{===Add Stuff about Kraepelin===}. This essentialism of mental disorder takes form by distinguishing structural lesions and other physiologic abnormalities as progenitors for familiar psychiatric symptoms (Epistemology of neuropsychiatry). 
+This phenomenon makes more sense when we consider a causal account of the same disorder. Assuming a neurobiological picture of psychiatric kinds, for the sake of an example, we will claim that depressive symptoms are causally related to frontal lobe lesions. If we can establish a well-defined relationship between this abnormality and any behaviour, we can extricate other circumstantial behaviours from a diagnosis. Symptoms are fixed towards their reference object and we can appeal to the dysfunction of these reference objects in explaining symptoms. Granted that verdicts on whether symptoms are considered harmful is still a normative issue. However, it is not *purely* a normative issue because dysfunction allows us to ground our judgements by appealing to this aspect of disease. 
 
-Psychiatry, as the younger sibling of the medical specialities, feels compelled to acquire the clean shaven respectability of a causal diagnosis. Yet without any truly substantive empirical methods, this is only an aspiration. One could chalk this up to the fact that progress in psychiatry is slow and, as a result, has not been able to fully codify its causal structures. Current methods in 'neuropsychiatry' are underdetermined at best and invoked only when a pattern of behaviour has been fully established. Still, a similar story unfolds for most specialities, and while psychiatry has had some especially gross missteps \footnote{The example of drapetomania, a mental disorder which caused slaves to flee their masters, springs to mind (Cite).}, one can still argue that, given enough time, it will correct for this. 
+Partly to avoid this, and partly because psychiatry has to abide by the expectations required of a medical speciality, i.e., its "scientific image" (Murphy, 2006). The DSM presumes a set of concomitant biological causes without much substantiation. Based on the assumption that all human brains behave the same structurally, some research psychiatrists reduce "understanding" of a specific mental disorder into a set of neurobiological differences, letting social factors take a backseat (Churchland PS: Neurophilosophy). Dubbed a "Kraepelin" \footnote{===Add stuff about this contrasting with frued===} approach to psychiatry \footnote{===Add Stuff about Kraepelin===}. This essentialism of mental disorder takes form by distinguishing structural lesions and other physiologic abnormalities as progenitors for familiar psychiatric symptoms (Epistemology of neuropsychiatry). 
 
-It's common for certain 'objectivist' conceptualisations of mental disorders to build upon this promise. 
+Psychiatry, as the younger sibling of the medical specialities, feels compelled to acquire the clean shaven respectability of a causal diagnosis. Yet without any truly substantive empirical methods, this is only an aspiration. One could chalk this up to the fact that progress in psychiatry is slow and, as a result, has not been able to fully codify its causal structures. Current methods in 'neuropsychiatry' are underdetermined at best and invoked only when a pattern of behaviour has been fully established. Still, a similar story unfolds for most medical specialties, and while psychiatry has had some especially gross missteps \footnote{The example of drapetomania, a mental disorder which caused slaves to flee their masters, springs to mind (Cite).}, one could argue that given enough time it will correct for this. 
 
-___
-
-Most famous is Wakefield's account which invokes a normative social aspect in 'harm', and a biological (naturally selected) share in 'dysfunction'. Put together, a mental disorder is a 'harmful dysfunction'. To qualify as the recipient of a mental disorder, an agent must possess: 
+It's common for certain 'objectivist' conceptualisations of mental disorders to build upon this promise. Most famous is Wakefield's account which invokes a normative social aspect in 'harm', and a biological (through natural selection) share in 'dysfunction'. Put together, a mental disorder is a 'harmful dysfunction'. To qualify as the recipient of a mental disorder, an agent must possess: 
 
 (1) A biological dysfunction. \footnote{Wakefield proposes an evolutionary interpretation of dysfunction.}.
 (2) Which manifests as a harmful behaviour. 
 
 This latter point is stressed to avoid counterexamples of anatomical change presenting as socially acceptable behaviour. For example, Regard and Landis's (1997, Murphy) “gourmand syndrome” is a philosophical hypothetical of a brain lesion that manifests as a fascination with fine dining within a patient. Therefore (2) is always evaluated in relation to general societal norms. 
 
-Wakefield's account seems very appealing. First, It fulfils the requirements of causality expected from concept of disease and medical norms. Second, in abiding by a causal account, it escapes the tradition of symptomatic diagnosis in psychiatry. Third, it avoids reducing into a purely constructivist account of mental disorder by appealing to biological dysfunction \footnote{Christopher Boorse, a self described "[unrepentant naturalist](https://www.buffalo.edu/content/www/romanell/blog/harm-component/_jcr_content/par/download/file.res/Harm.Necessary.Wakefield.pdf)", takes a more radical stance and skips normative judgements altogether. Reducing mental disorders into simple biological dysfunctions.}. 
+Wakefield's account seems very appealing. First, It fulfils the requirements of causality expected from concept of disease and medical norms. Second, in abiding by a causal account, it escapes a descriptivist diagnosis. Third, it avoids reducing into a purely constructivist account of mental disorder by appealing to biological dysfunction \footnote{Christopher Boorse, a self described "[unrepentant naturalist](https://www.buffalo.edu/content/www/romanell/blog/harm-component/_jcr_content/par/download/file.res/Harm.Necessary.Wakefield.pdf)", takes a more radical stance and skips normative judgements altogether. Reducing mental disorders into simple biological dysfunctions.}. 
 
 ===However there are some problems with Wakefields conception, to show this===
 
-Dysfunction in normal somatic diagnosis, while not entirely free from criticism themselves, are able to establish simple pictures of dysfunction. E.g. autoimmune disorders attacking host cells. The dysfunction that wakefield appeals to is not based around the biological object itself, but only its symptoms and their harmful capacity. 
+The problem is that dysfunction is exceptionally hard to define in relation to mental disorders. Dysfunction concepts in normal somatic diagnosis, while not entirely free from criticism themselves, are able to establish some simple relationships. E.g. the function of the heart is to pump blood. To show this we will evaluate two separate cases: 
+
+The purpose of both is to show that only the harm criteria is necessary to establish something as a mental disorder. 
+
+We will proceed with three cases. 
+(X) Gambling Addiction and Pathological Gambling Addiction (Murphy). 
+	Symptoms without biological dysfunction
+	Evaluated at two worlds 
+	Example of colorblindness (Wakefield response paper) etc... Some things are dysfunctions but are not harmful and therefore do not constitute a mental disorder. 
+(Y) Psychopathy and Gourmand Syndrome. 
+	Biological dysfunction without Deviant symptoms. 
+	In many ways, psychopathy is actually rewarded in our society. 
+	These are disorders, yes, but do they require treatment. Whereas the opposite case will require treatment without any harm. 
+
+
+
+The dysfunction that wakefield appeals to is not based around the biological object itself, but only its symptoms and their harmful capacity. 
 
 Wish to die evaluated at two different worlds. Both will return a result that this is part of the BPD diagnosis because mental illness is always an abberation. 
 
@@ -113,7 +123,6 @@ ___
 
 
 
-From here we will take a twofold approach to collapsing Wakefield's mental disorder concept. First, we will evaluate 'descriptivist' approaches in psychiatric diagnosis to show how they embed normative judgements in their mental disorder concept. Then we will show how Wakefield's mental disorder settles into the same descriptivist approach. 
 
 
 \footnote{Some authors, such as Lemoine, 2013 and Sholl, 2020 argue that we should stop worrying about psychiatric concepts altogether [[Are mental disorders brain disorders]]}
@@ -128,9 +137,6 @@ Do descriptivist -> causal concomitant account of biological dysfunction.
 
 
 
-The obvious problem with this approach is that certain behaviours appearing after MDD diagnosis will be assumed to be related to the agent possessing MDD. For example, the presentation of symptom (3) is seen as a development of MDD, instead of an unrelated behaviour arising from other factors. It is entirely possible for a person to rationally choose to gain or lose weight, yet the nature of how this behaviour relates to other parts of the illness is forgone in the shadow of a decriptivist diagnosis. The descriptivist diagnosis does not allow a certain behaviour to 'opt-out' from being included within the nature of the mental disorder. 
-
-This phenomenon makes more sense when we consider a causal account of the same disorder. Assuming a neurobiological picture of psychiatric kinds, for the sake of an example, we will claim that depressive symptoms are causally related to frontal lobe lesions. If we can establish a well-defined relationship between this abnormality and any behaviour, we can extricate other circumstantial behaviours from a diagnosis. 
 
 For example, while fevers are associated with X, it is entirely possible for an agent to present a fever due to a different reason from X. 
 
@@ -160,12 +166,6 @@ For the moment, we are going to ignore the fact that neurobiological accounts of
 
 
 ___
-
-
-"Just as a rash in a case of varicella zoster infection could have been caused by some-
-thing other than the varicella zoster infection, it could be speculated that the wish to
-die in a case of a mental disorder could have been caused by something other than the
-mental disorder."
 
 
 
