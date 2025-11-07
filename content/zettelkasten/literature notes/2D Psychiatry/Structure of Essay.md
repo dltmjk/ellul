@@ -1,6 +1,6 @@
 1. Preliminaries 
 
-When we are deciding whether some condition is a disease, we are in effect deciding what sort of people we ought to be" (Reznek, 1987, p. 166).
+"When we are deciding whether some condition is a disease, we are in effect deciding what sort of people we ought to be" (Reznek, 1987, p. 166).
 
 Thesis: 
 

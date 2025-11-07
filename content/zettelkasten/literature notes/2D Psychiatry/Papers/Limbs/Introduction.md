@@ -8,3 +8,4 @@ by Kathryn Tabb (Tabb, 2019), most of these approaches have focused on diagnos-
 tic kinds (Cooper, 2013a, 2013b), i.e., on categories of psychiatric disorders (e.g.
 “schizophrenia spectrum”)" From psychiatric kinds to harmful symptoms 
 
+"When we are deciding whether some condition is a disease, we are in effect deciding what sort of people we ought to be" (Reznek, 1987, p. 166).
