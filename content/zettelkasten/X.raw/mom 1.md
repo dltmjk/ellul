@@ -200,3 +200,10 @@ which simulates the child's? If this were then subjected to an appropriate cours
 obtain the adult brain. Presumably the child-brain is something like a note-book as one buys it from the
 stationers. Rather little mechanism and lots of blank sheets. … Our hope is that there is so little mechanism
 in the child-brain that something like it can be easily programmed." Alan M. Turing 
+
+“I figure that it’s better to be a
+sucker who makes something
+than a wise guy who is too
+cautious to make anything at all.”
+
+Henry Darger

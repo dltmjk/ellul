@@ -1,3 +1,4 @@
+
 "In recent decades, much research in the philosophy of psychiatry has been devoted to
 characterizing the normal and the pathological. Attention has shifted between psychi-
 atric kinds (Haslam, 2002; Kendler et al., 2011; Zachar 2000, 2015), the conceptual

@@ -42,7 +42,7 @@ Section 3: Models
 		1. [[Analogue Models and Universal Machines. Paradigms of Epistemic Transparency in Artificial Intelligence]]
 4. These are representations 
 	1. What is required of the representation? 
-		1. "its essential directionality and its capacity to allow surrogate reasoning and inference" [[An Inferential Conception of Scientific Representation]]
+		1. "its essential directionality and its capacity to allow surrogate reasoning and inference" [[content/zettelkasten/literature notes/Honour/Articles/Representation in AI/An Inferential Conception of Scientific Representation]]
 5. DNNs are models, but in what sense? 
 	1. Discrepancy between actual architecture and encoded models 
 		1. In some ways DNNs are models in a strict sense. One could argue that the actual neural network weights and biases (and to a lesser extent the actual computation behind these calculations) are the sense in which DNNs are models. However, it would be unfair to say this is what we are interested in. Instead, what we are interested in is what is encoded by the DNN, as a representation, when making its prediction. These are the models which concern us. 

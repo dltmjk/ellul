@@ -5,13 +5,38 @@ Empathy, Folk Psychology, Counterfactuals in Imaginary Friends, Literature, Narr
 
 [[General Points of Inclusion]]
 
-Idea: Way for simulationist and narrative accounts to run together. 
+We argue that the literature on imaginary friends can serve to strengthen any narrative accounts. 
+
+Point 0:
+[[Preliminaries]]
+
+To start, we need to establish the preliminaries for what warrants a narrative account of empathy. 
+What is empathy under a narrative account? 
+Brief Background: why a narrative account works over a simulationist account. "The crowning jewel of a narrative retelling is that it allows us to easily make sense of our emotions relating to fictional characters."
+
+Point 1: What is the narrative account of empathy?
+Subpoint: What is narrative? (bullet point list of the conditions for a narrative)
+Case Study: Application to fiction, does it fulfil the conditions? 
+
+Point 2: Challenges to the narrative account
+The challenges towards narrative accounts can be put as follows: (Bullet point list)
+
+1. The rules have to be 'internalised' pg.153 Bailey
+
+
+Point 3: How do imaginary companions fix this challenge? 
+
+Subpoint: What are imaginary companions exactly? 
+
+Do imaginary companions fulfil the conditions for a narrative account? 
+
+
 
 Point 1: Narrative and Imaginary Friends serve a similar purpose. As a way to scaffold experience. 
 ___
-Preliminary points: 
+Preliminary points: Narrative Accounts of Empathy 
 
-Conditions of Sympathy vs Empathy Conditions 
+Conditions of Sympathy vs Empathy Conditions. I.e., are we talking about sympathy or empathy? 
 
 Collectively sufficient conditions for empathy 
 
@@ -21,24 +46,23 @@ Collectively sufficient conditions for empathy
 4. The ascription condition: there is no empathetic understanding unless the empathizer knowingly ascribes the affective state to the target.
 5. The caring condition: the empathizer must be led to care about the target’s affective life because of context
 
-Can we afford E to IFr if it does not 
 
 Narrative Empathy 
 1. What is narrative? 
-	1. Background on how narrative already structures empathy
-	2. Does a narrative view commit us to a simulationist position? 
-	3. If it's needed for our further treatment of a child's action, then yes. If not, then no. 
+	1. X gives the following definition for what constitutes a narrative. Express in a bullet point list  [[Narrative Scaffolding]]
+	2. Background on how narrative already structures empathy
+	3. Does a narrative view commit us to a simulationist position? 
+	4. If it's needed for our further treatment of a child's action, then yes. If not, then no. 
 
 Narrative accounts as relating to empathy
 1. Acts as the way the essay ties in together. 
 
-
-X gives the following definition for what constitutes a narrative. Express in a bullet point list 
-[[Narrative Scaffolding]]
-
 Case study: How does a narrative view work in relation to fiction? 
 
+**Counterpoint**: We only classify this as a narrative account because we are forced into using the language of storytelling to explain ourselves? 
 
+
+Challenge to the Narrative account that a a reference to imaginary companions can fix. 
 
 
 Point: Do child apply this narrative account to their own life, furthermore, do they apply it to their IFr. 
@@ -48,7 +72,6 @@ Point: Do child apply this narrative account to their own life, furthermore, do 
 3. What is actually happening in the child's mental state 
 
 
-**Counterpoint**: We only classify this as a narrative account because we are forced into using the language of storytelling to explain ourselves? 
 
 
 
