@@ -1,36 +1,32 @@
-2/5/2025
-HPS Paper
-Frege Chapters
+##### Misc
+[[NewGymRoutine]]
+Yoga Mat - Cheap
+Email to Nick
+LIC 
+Go back to Old breakfast 
+	Berries, Blueberries, Mango, Protein Powder, Nuts, Greek Yogurt, Iron in the mixture, oats?
+	Find the recipe again 
 
-Current Tasks
-Honours Generally (Everyday)
+##### Languages
+French Chapters
+	Recap everything
+Start Latin
 
-Question for Epistemology
-Question for Republic 
-
-Cognsci Journal Submission 
-
+##### Passions
+Type up comments for Part A 
+Start source finding - French and English 
 
 
 
 Make Soap
-New distro for productivity 
-Turn literature notes in permanent notes 
-Make Room into a huge collage
-	Buy scalpel and mat to cut things  
-New Gym Split - 531, heavy ok volume
-Frege Chapters
-
-New Phone
-Put FT on the new phone - find a way to do this 
-ANKI
-
-Start working on Essays soon
-Print out Officeworks photos
-Blood test
+Figure out Zettelkasten System
+Make Room Nicer  
+New Gym Split - Focus on Flexibility 
 
 
-Anki Flashcards
+
+
+
 [German Reading Exercises ](https://la.utexas.edu/users/arens/tutorial/index.htm)
 
 nixon pg 85
