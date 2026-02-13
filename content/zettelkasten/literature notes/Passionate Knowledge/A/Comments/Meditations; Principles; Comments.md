@@ -1,0 +1,8 @@
+"The reason he presents to the princess for the necessity of that “union” is the same one he gave in the Discourse – the union is required in order to carry the passions:"
+
+While the historical argumentation doesn't rely on developing a detailed ontology of the passions. Throughout my first reading I found it hard to progress through this section without finding myself questioning Descartes terminology in this section. Specifically "union" and "primitive". Does he expand on the specifics of what both these terms entail? 
+
+This part on pg. 75 "We do that by distinguishing between what is harmful and what is beneficial for the “union of our mind with the body.” More generally, such a natural epistemology should explain our ability to recognize what is significant for maintaining this “profound union,”" makes it seem as this union is nothing more than a set of two objects instead of a gestalt arising from the conjoining of both entities. Given Descartes evasion at detailing his concept of a soul, it's a hard ask to give a fleshed out account. However I think some reference to the pineal gland earlier would've helped. 
+
+On my first reading I wrote - "what does it mean that the passions are a union of mind of body? Wouldn't this entail that it is, in-part, immaterial?" Which, for me, contradicted its supposed physicalization in [Cit. 352] and [Cit. 354]. The latter citation also presented problems for me when read with [Cit. 371] which formulates the passions as "all caused by some movement of the spirits". In general, I was slightly confused until the explanation of the pineal gland following [Cit. 382] which cleared everything up for me.  
+

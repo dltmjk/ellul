@@ -1,0 +1,1 @@
+18 For a detailed analysis of the "Dream" and its significance in relation to the genesis of Descartes's thought, see Henri Gouhier, Les Premieres pensees de Descartes. Contribution a l'histoire de l'anti-Renaissance (Paris, 1958).

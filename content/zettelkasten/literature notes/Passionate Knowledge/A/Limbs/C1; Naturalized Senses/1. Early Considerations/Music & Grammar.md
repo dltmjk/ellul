@@ -1,5 +1,6 @@
 T1: 
 	Traces Descartes' encounters with Kepler and optics 
+
 T2: 
 	'What is clear' 
 	Kelperian optics informed Descartes' inquiry into perception as causal. 

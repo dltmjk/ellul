@@ -1,6 +1,6 @@
-~~'it is determined by the passions.' 
+'it is determined by the passions.' 
 
-~~This might confuse a first-time reader if they are inexperienced with Descartes' passions. On my first reading I wrote down 'What is the difference between the passions and the mind?' and was generally confused at the mention of the former. ~~
+This is an exceptionally minor issue I had, and may only be particular to me. On my first reading I wrote down 'What is the difference between the passions and the mind?' and was generally confused at the mention of the former. However this confusion phased out as I continued through the text. 
 
 ___
 

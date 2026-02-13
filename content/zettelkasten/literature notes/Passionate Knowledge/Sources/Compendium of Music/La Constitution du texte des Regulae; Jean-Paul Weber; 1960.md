@@ -1,0 +1,3 @@
+"He may have already been thinking along these lines when he came across the Ad Vitellionem: the very first words of his earlier Musicae Compendium (written in 1618, when he was only 22) already suggest a clear determination to understand perception as a causal process:"
+
+Weber connects the method of an early draft of the Universalis Mathesis with the later method in the Regulae. If we trust Weber's conclusions then "only a few months separate the musicae compendium (completed in December 1618) from Descartes's letter to Beeckman alluding to the new science"

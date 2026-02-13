@@ -1,0 +1,1 @@
+T1: Resemblance is a purely physical phenomenon. There are images that can bring to mind the object they represent but do not, in any way, resemble the actual object. 

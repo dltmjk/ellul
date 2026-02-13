@@ -1,0 +1,1 @@
+North korea more like china, present day north korea. Interesting... No southern state, no state under seige. All depending on how the state of north korea is established. 
