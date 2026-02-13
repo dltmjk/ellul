@@ -8,7 +8,7 @@ For the first 10 pages I found different types of references/footnote pepperings
 	4. "The Compendium attempts to do precisely this, and thus anticipates the development of what is the mainspring of Cartesian physics: mechanism"
 
 2. For more instances of the argument put forward here; please find x
-	1. Augst (1965) also establishes the mechanical nature of the senses.
+	1. Augst (1965) also establishes the mechanical nature of the senses. 
 		1. "It should be observed that nowhere in the Compendium is the reliability of the sense organs questioned" pg. 120 [[Descartes's Compendium on Music; Bertrand Augst; 1965]]
 			1. Augst continues: "The organism conceived by Descartes, least to the extent it can be reconstituted on the basis of the treatise, selects and channels sensations to the soul"
 				1. "Secondly, it is an attempt to reduce sensory perception to a strictly mechanical, and therefore measurable, function." pg. 131
@@ -27,10 +27,12 @@ For the first 10 pages I found different types of references/footnote pepperings
 		2. "Secondly, what inclines some people to dance may incline others to weep. This is purely because it stirs up ideas in our memory:"
 			> This is so certain that I think that if you whipped a dog five or six times to the sound of a violin, it would begin to howl and run away as soon as it heard that music again.
 			1. He extends this sort of phenomenon to the human. 
+	3. Descartes exact thoughts on the aesthetics of music seem are sometimes contradictory. Writing to Mersenne he states that "the intervals of the third and the sixth are more agreeable than the interval of the fourth, and the major intervals are more appropriate for gay songs and minor intervals for sad songs,". Whereas, in another letter he writers that "I do not recognise any qualities in the consonances that correspond to the passions" [[Descartes and Seventeenth-Century Music; Arthur W. Locke; 1935]] pg. 428
 
 
-6. More primary source quotations
-	1. E.g. from the Musicae Compendium on the geometry of the object
-	2. Descartes exact thoughts on the aesthetics of music seem are sometimes contradictory. Writing to Mersenne he states that "the intervals of the third and the sixth are more agreeable than the interval of the fourth, and the major intervals are more appropriate for gay songs and minor intervals for sad songs,". Whereas, in another letter he writers that "I do not recognise any qualities in the consonances that correspond to the passions" [[Descartes and Seventeenth-Century Music; Arthur W. Locke; 1935]] pg. 428
+5. More primary source quotations
+	1. Descartes might have been thinking along these causal lines even earlier: 
+		1. "Thus, already in 1618, he considered the function of sensory perception to be based on the same principle as that governing gadgets like pulleys" [[Descartes's Compendium on Music; Bertrand Augst; 1965]] pg. 132
+			1. according to which, for example, a force capable of lifting a weight of one hundred pounds to a height of two feet can also lift a weight of two hundred pounds one foot high, or four hundred pounds half a foot high. . . . (_Treatise on Mechanics,_ A.T., I, 435f.)
 
 
