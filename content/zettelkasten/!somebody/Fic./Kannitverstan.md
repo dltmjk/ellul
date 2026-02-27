@@ -5,11 +5,12 @@ A young man, from Kassel, and, while he couldn't remember his childhood, he knew
 
 As an adult, he had made his living in the arts. Soft sculptures of the *ecce homo*; vases to hold pencils, caricatured drawings. Occasionally, he would record his nightmares in sketch, his last one on the ship from Tuttlingen to Amsterdam. Always the same scene, drowning in daylight. 
 
-Thin fingers, large ears, and feet that never knew where to step. 
+Thin fingers, large ears, and feet that never knew where to step. That's what they said. As a boy my mother found me in the garden hiding. She was an artist, mostly reproductions of [], almost mechanical in her process. Around the house, her real passion displayed, flower printed vases, caricatured drawings, soft prints of the ecce homo. Occasionally I found her nightmares in sketch, the last: a drowning in daylight. My father was a fisherman, not much more can be said. 
 
-As a boy his mother told him he would lay in the garden, hiding. 
+
 
 The son of a metalworker and seamstress. They lived well. 
+
 
 
 

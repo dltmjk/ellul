@@ -4,7 +4,6 @@ Yoga Mat - Cheap
 Go back to Old breakfast - or some sort of greek yoghurt protein situation 
 	Berries, Blueberries, Mango, Protein Powder, Nuts, Greek Yogurt, Iron in the mixture, oats?
 	Find the recipe again 
-Meet Neil 
 
 
 ##### Languages
