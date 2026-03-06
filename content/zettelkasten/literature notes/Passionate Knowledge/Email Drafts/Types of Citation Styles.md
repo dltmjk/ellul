@@ -1,3 +1,3 @@
-[[Musicae Compendium Ft. Col.]]
+[[1. Musicae Compendium Ft. Col.]]
 
 What footnotes should I focus on 
