@@ -1,1 +1,1 @@
-Truth to Nature was an ideal within [[content/zettelkasten/slipbox/Objectivity|Objectivity]] which focused on prioritizing the "ideal", "average", or "characteristic" 
+Truth to Nature was an ideal within [[content/zettelkasten/slipbox/Objectivity|Objectivity]] which focused on prioritising the "ideal", "average", or "characteristic" 

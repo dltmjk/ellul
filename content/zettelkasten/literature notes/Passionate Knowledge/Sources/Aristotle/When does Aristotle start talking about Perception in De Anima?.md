@@ -1,0 +1,1 @@
+In De anima 2.12, Aristotle turns from his survey of the individual senses in the previous five chapters (2.7–11) to the power to perceive in general
