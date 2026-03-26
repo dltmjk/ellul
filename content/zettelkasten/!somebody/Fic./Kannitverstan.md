@@ -13,7 +13,7 @@ Her copies of Vermeer, Rubens, Velázquez.
 
 Around the house the boy found flowers printed on vases, caricatured drawing, and soft prints of the ecce homo. She called them her 'frivolities' and never 'art'.  
 
-Otherwise, all she had were her reproductions, which paid little but which she carried out with a mechanical intensity. For reasons the boy never understood, and for which she could never explain herself, she would keep certain finished pieces to herself. Picking them almost at random, she would store them carefully in an untouched corner of the attic where nobody would have to stare at them again. 
+Otherwise, all she had were her reproductions, which paid little but which she carried out with a mechanical intensity. For reasons the boy never understood, and reasons she could never explain herself, she would keep certain finished pieces to herself. Picking them almost at random, she would store them carefully in an untouched corner of the attic ==where nobody would have to stare at them again.== Rework. 
 
 His father was a fisherman, short and brutish, like all men of his generation and of the generation before and to come. At the start of the boys fifteenth year they both made a pilgrimage deep into the woods. After nearly a day of walking the boy encountered a lighted bonfire with a flame reaching as high as the silver firs. In the morning he remembered only the image of a small wounded pyre. They didn't speak much after that day. In the mirror the boy, now a man, sees a face weakly reflected, not his own, but of the pyre and of his father's. 
 
