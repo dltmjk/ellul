@@ -1,0 +1,1 @@
+Index scolastico-cartésien By Etienne Gilson

@@ -1,0 +1,1 @@
+Quand on parle des Descartes, on généralement parle a propos la philosophie de Descartes mais pas de sa science.

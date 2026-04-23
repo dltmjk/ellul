@@ -207,3 +207,5 @@ than a wise guy who is too
 cautious to make anything at all.”
 
 Henry Darger
+
+“We should be forever cured of our romanticism were we willing, in order to think of the one we love, to try to be the person we shall be once we no longer love them.”  Marcel Proust, Sodom and Gomorrah 
