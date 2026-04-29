@@ -50,7 +50,7 @@ The boy in the days before his death [March 6th - March 8th] :
 
 He constructed his life in the shape of a perfect one. 
 He constructed the house in the shape of a perfect one. 
-At the end of his life, his only bedfellows being the books of Augustine; João Poinsot; Desiderius Erasmus; Anselm of Canterbury; William of Ockham and Meister Eckhart. Three days before, he died he regained the energy of a young man and painted each surface of his country house black, and, on the fourteenth of August, the grandfather laid dead in that pitch dark house for the first time in his life. 
+At the end of his life, his only bedfellows being the books of Augustine; João Poinsot; Desiderius Erasmus; Anselm of Canterbury; William of Ockham and Meister Eckhart. Three days before, he died he regained the energy of a young man and painted each surface of his country house black, and, on the fourteenth of August, he (the grandfather) laid dead in that pitch dark house for the first time in his life. 
 
 ===Main character is a cartographer tracing out his life. As a representation. 
 
@@ -151,9 +151,12 @@ Even today, this is how I define philosophy
 
 Discovery of the Bookeepers work. 
 
+==Get rid of stream of consciousness (Doesn't flow at alll)==
 Here it was, before I had written it down, some on paper before I had the chance to think it. All taken from me, nice and neatly put on typo-graphed paper and inked with the words I didn't have the chance to pen maps constructed from drawings I didn't have a chance to. I didn't even get a fair, it wasn't fair. It wasn't and, God I could've had it all down by now, if I just started and focused, but now it's too late. A decade too late and this Mr Kannitverstan had taken it. If I just started and didn't stop, but now. Now, I didn't even have a chance. He took it from me, he stole it and.
 It doesn't matter now. 
 Yes. The map of my life. Of growing up. I need to finish it, store it, steal it from myself. Or there will never be a map. And death. Yes. Death, it will steal it from me before I've had the chance. Yes. I need it all recorded before it goes away. Recorded and represented, in those symbols and dots. 
+
+In a sense, she had it stolen from me, before I had a chance to think it, before I could lock it away. 
 
 
 continuing from reunion section, add "and when the last eyes to see Napoleon,..., and the orange riots were closed for the last time"
