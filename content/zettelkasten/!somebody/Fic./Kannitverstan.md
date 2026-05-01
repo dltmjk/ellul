@@ -7,21 +7,11 @@ Stage 2: Making ideas understandable and of a narrative for the reader===
 
 Think of writing like architecture. Have your solid base. 
 
-START WITH DISPUTATIO, and then lead into Main story. 
 
-PROLOGUE: RECORDINGS OF A DISPUTATIO 
-
-Third person recounting of events 
+Obituary [On the 23rd of December, K. passed in his sleep]
 -
-First person 
--
-Third person recounting of events 
--
-First person 
--
-Third person recounting of events, differs, [On the 23rd of December, K. passed in his sleep]
--
-First person, differs in its ending [It is the 23rd of December and I am standing in the snow with my hands fully outstretched, it is like every winter I have lived through and it will be like every winter of the life I have to live. I take my rosary and clutch it close to my chest. I hold it beside the light spread thinly through the window. ]
+It is the 23rd of December and I am standing in the snow with my hands fully outstretched, it is like every winter I have lived through and it will be like every winter of the life I have to live. I wake up the next morning and reach from my my rosary. I clutch it close to my chest. 
+I hold it beside the light spread thinly through the window.
 
 END
 
@@ -68,13 +58,11 @@ Around the house the boy found flowers printed on vases, caricatured drawing, an
 
 Otherwise, all she had were her reproductions, which paid little but which she carried out with a mechanical intensity. For reasons the boy never understood, and reasons she could never explain herself, she would keep certain finished pieces to herself. Picking them almost at random, and then storing them in an untouched corner of the attic ==where nobody would have to stare at them again.== Rework. 
 
-In the middle was a reproduction of Vermeer. The boy noticed that her guidelines shook as they approached the centre of the canvas, while staying perfectly stable at the edges of the work. 
+In the middle was a reproduction of Vermeer. The boy noticed that her guidelines shook as they approached the centre of the canvas, while staying perfectly stable at the edges of the work. ===What idea is this expressing?===
 
 He looked closer and noticed that the paint was heavily chipped, in a way where the illusion of wholeness and consolidation remained, yet easily over 30% of the canvas was missing. 
 
 His father was a fisherman, short and brutish, like all men of his generation and of the generation before and to come. At the start of the boys fifteenth year they both made a pilgrimage deep into the woods. After nearly a day of walking the boy encountered a lighted bonfire with a flame reaching as high as the silver firs. In the morning he remembered only the image of a small wounded pyre. After that day his father started to show the first signs of his madness. 
-
-They didn't speak much after that day. 
 
 My mother said that her uncle had kept a friend whose father in law had known Bruegel the Elder. The father in law had re-enacted the way his voice would turn nasal while sketching to the uncles friend, who had in turn re-enacted it to the uncle who did so for my mother. My mother had forgotten exactly how to perform this voice and, as such, I was never privy but it seems as if my mother, centuries after Bruegel's death, would be the last to ever hear his voice. 
 
@@ -144,9 +132,9 @@ So was God a substance that could be contained within time? My head started to h
 
 (So on..., Create image of propositions ) 
 
+God was a carpenter in Palestine. 
 
-
-Even today, this is how I define philosophy
+Even today, this is how I define philosophy 
 
 
 Discovery of the Bookeepers work. 
@@ -209,9 +197,6 @@ Even if I had to know all of them through someone else. In youth I felt the worl
 
 It all started like this, props and shouting, language to name the stick, writing to mark down the rules, arithmetic to keep score, geometry to draw the field. Sound to call for mother. 
 
-The meaning of a relic 
-
-===Going from person to person asking for the meaning of a word
 
 
 
@@ -233,12 +218,16 @@ When he was young he dreamed of large fields and tall buildings like flowers. Hi
 
 On his 25th year he started the same year in a different city. Standing at the end of his creation he inevitably turned away, the form and his memory always differed. the content of his art was always different from the memory he wanted to render. 
 
-He couldn’t because he didn’t know how and he didn’t know because nobody ever taught him
+He couldn’t because he didn’t know how and he didn’t know because nobody ever taught him.
+
+Living longer meant living the same life. The father cherishes the same toys as the child, senility is reciting the same sentences you started school with. Every person with their same lot of different idiosyncrasies, sharpened with age, or stifled by others. Flowering and wilting at the same time, until death. 
 
 
 -
 
-He looks directly at me. His eyes are a pale blue and he has little hair. As a whisper, he asks if he can ask me something
+He looks directly at me. His eyes are a pale blue and he has little hair. As a whisper, he asks:
+
+can I ask you something?
 yes, i say
 do you remember your first rain? was it a slight pour or did it come down all at once. 
 
@@ -296,9 +285,7 @@ And to him, these qualities were far dearer to him than those infinitely large t
 
 And in the end, these large things became mere props for the living. The stars, in a single sentence, could be made equal to the pupil of an eye. Without any life of their own, they became the playthings of others. 
 
-And yet in this final days it didn't matter what you conquered, what you made, the art you produced. Those final months are years are reserved for the tedium of dying. The getting things in order, finding the suitable arrangements, the correct bed to spend your final moments.
-
-My wish is that I could have started on a point where I was already understood; that you - myself - gave me the courage to talk. But I do not feel these things, because I am am not here in my own bed, because I am in a narrow wooden box in a dark place under the earth. Because I am dead. 
+And yet in this final days it didn't matter what you conquered, what you made, the art you produced. Those final months are years are reserved for the tedium of dying. The getting things in order, finding the suitable arrangements, the correct bed to spend your final moments. My wish is that I could have started on a point where I was already understood; that you - myself - gave me the courage to talk. But I do not feel these things, because I am am not here in my own bed, because I am in a narrow wooden box in a dark place under the earth. Because I am dead. 
 
 -
 [Description of the dads personal feelings]
@@ -308,8 +295,12 @@ My wish is that I could have started on a point where I was already understood; 
 -
 
 
+I wanted to ask him. 
+Tell me about that day where the snow felt on the windowpane for the first time. Tell me. About the light as it spread flat across the dust filled room. Remind me how it felt to feel warmth as if it were skin. Please tell me. Tell me about that day when we rolled the wheat down from the road into the field, how heavily you handled those short tools and how the leaves fell and hung themselves flat on the ground. I looked up from the bed and our eyes laid on the same ceiling. I stared back at that day where I smelled the smoke drifting down from the forest's low ground for the first time. Tell me about how the 
 
-Tell me about that day where the snow felt on the windowpane for the first time. Tell me. About the light as it spread flat across the dust filled room. Remind me how it felt to feel warmth as if it were skin. Please tell me. (Repeated Sentence fragments)
+He'd say the same things day after day. Let me hear them one more time. 
+
+(Repeated Sentence fragments)
 
 
 
@@ -323,10 +314,9 @@ MAPS.
 
 (Go into full plains-ish prose here?)
 
-I looked around at the drifts and the snow on the drifts and the trees under both. There was no longer any difference between the whiteness of the skies...
+I looked around at the drifts and the snow on the drifts and the trees under both. There was no longer any difference between the whiteness of the skies and the blankness in myself. 
 
 This is Winterberg where I grew up in the snow. 
-
 
 This is my mother as she lived. 
 

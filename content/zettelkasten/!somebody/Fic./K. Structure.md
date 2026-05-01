@@ -11,15 +11,30 @@ Third part: Death and the map. (Resolution)
 
 The purpose of each part: 
 
-First part. 
-Placed around the page. Typographically should resemble the entrance of a building, gravestones as an entrance. 
-Obituary gets more fragmented. Builds suspense and leads reader in to stick with the second part. 
 
-Obituary: K's grandfather goes here, with the house. 
+
+First part: OBITUARY FOR THE TOWN OF WINTERBERG
+Placed around the page. Typographically should resemble the entrance of a building, gravestones as an entrance. 
+
+Should start like a set of disconnected dots that establish relationships as more dots are filled in. First few entries are mostly minor. Use this section to establish the feel for the world. What type of people exist in this, how do we describe them? 
+
+Obituaries progress chronologically, to show the progression of the town that the story is placed in. 
+Start with the beginning of the towns characters, e.g. the people that existed with the grandparents. Perhaps before. 
+
+Great Grandparents: Owned a small tavern next to x. Lived y
+Shorter -> becoming longer to add texture. 
+
+E.g.
+_
+Doctor: 
+... Wore brown leather shoes. 
+
+Ends with: Loving father, husband, and son. 
 
 Need to leave an element of suspense to keep the reader going on. 
 
 Fragments that change in some way? 
+
 
 
 

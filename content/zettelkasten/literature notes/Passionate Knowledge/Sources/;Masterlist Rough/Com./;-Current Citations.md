@@ -20,7 +20,12 @@ Clear and Distinctness after the Regulae Citations; relating to his abandonment
 On Descartes move of redefinition WITHIN the regulae
 [[Intuition within the Regulae]]
 
-General Sources on Intution and the Regulae: 
+16 - 
+Sources on Jan Baptiste van Helmont
+
+Descartes and the "sobering" of Rule 8 of the Regulae. 
+
+Intuition in Descartes' other works. 
 
 
 ___
