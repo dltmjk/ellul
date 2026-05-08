@@ -1,0 +1,1 @@
+file:///home/ellul/Downloads/Spinoza_%20Critical%20Assessments%20(Routledge%20Critical%20--%20Genevieve%20Lloyd%20--%20Routledge%20critical%20assessments%20of%20leading%20philosophers,%20--%20London%20%3b%20New%20York_%20--%20isbn13%209780415186186%20--%2024453b7e0881128db5998c44df47a24e%20--%20Anna%E2%80%99s%20Ar.pdf

@@ -36,11 +36,11 @@ The mother in the eyes of the boy [different years from above] :
 
 The boy in the days before his death [March 6th - March 8th] : 
 
-"Góis argues for the same view, with some additions, in his commentary on Aristotle’s Physics, published, like his De anima commentary, as part of the Coimbra series (Coimbra 1594, 1: 74–5). As authorities for the opposing view, which was that of St. Thomas Aquinas, Góis cites the Thomists Giles of Rome, Capreolus, and Cajetan, together with the Spanish Muslim commentator Averroes (ibn Rushd) and the Greek Aristotelian commentators John Philoponus and Themistius (Coimbra 1594, 440)."
+
 
 He constructed his life in the shape of a perfect one. 
 He constructed the house in the shape of a perfect one. 
-At the end of his life, his only bedfellows being the books of Augustine; João Poinsot; Desiderius Erasmus; Anselm of Canterbury; William of Ockham and Meister Eckhart. Three days before, he died he regained the energy of a young man and painted each surface of his country house black, and, on the fourteenth of August, he (the grandfather) laid dead in that pitch dark house for the first time in his life. 
+At the end of his life (his only bedfellows being the books of Augustine; João Poinsot; John Philoponus Capreolus and Cajetan both, together with Anselm of Canterbury; William of Ockham and Mister Meister Eckhart), he regained the energy of a young man and painted each surface of his country house black, so he could, on the fourteenth of August, lay dead in that pitch dark house for the first time in his life. 
 
 ===Main character is a cartographer tracing out his life. As a representation. 
 
@@ -269,7 +269,7 @@ For my father, the hurly-burlyness of the world was both too much and too little
 
 There was aunt T. with her sad and elongated weeping beside the coffin, and her husband with his stoic sensibility with one hand on her back. My mother was absent, I do not know where she was and to this day I have never asked but, if I had to guess, I would say she was in that attic of hers. Only at dusk did I dare start thinking of him. I thought of the uniform he wore to work, the same thing everyday and of his meals which he ate mechanically and at regular times. I thought of his friends who shed some, but not many tears, and I thought of the way his shouting reverberated around the house.  
 I knew him only by his surroundings. 
-At home I make my way into his room. I am now lying in that same bed where he laid, under that same black blanket, with that same blank expression and under similar spreads of daylight, I rose and felt his fingers grip the wooden fishing rod, my hands became his own. His feet took me down the stairs, down the route he made to the pier and the heavy water. I boarded the boat and his silence filled my morning, his breathing competed with the rhythm of mine. If I knew better, this is what they called mourning. 
+At home I make my way into his room. I am now lying in that same bed where he laid, under that same black blanket, with that same blank expression and under similar spreads of daylight, I rose and felt his fingers grip the wooden fishing rod, my hands became his own. His feet took me down the stairs, down the route he made to the pier and the heavy water. I boarded the boat and his silence filled my morning, his breathing competed with the rhythm of mine. If I knew better, I would say this is what they called mourning. 
 But I knew that wasn't true at all. 
 At night I lay my back flat in that same black bed and I felt my memories moulding into his; my childhood behind that frozen windowpane fell into the a different life in the same place, with a wife who locks herself in my attic. To a life where my only companions were small cold creatures, with a son who will not grieve me. (readjust)
 

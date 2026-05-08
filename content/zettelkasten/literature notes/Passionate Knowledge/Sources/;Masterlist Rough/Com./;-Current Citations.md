@@ -8,17 +8,17 @@ Examples of Descartes taking terms from the scholastics.
 	[[On Descartes Re-evaluate and Re-usage of Terms]]
 
 Elliot Sam Paul Paper on intuition: 
-For an overview of Descartes' usage of intuition and deduction, along with it's connection with scholastic predecessors, see; [[Cartesian intuition; Elliot Samuel Paul]]
-
+ [[Cartesian intuition; Elliot Samuel Paul]]
+ 
 Aquinas and Duns Scotus/Coimbra on Inutition
 [[Intuition within General Scholastic Sources]]
 Citation 46 Fix and Hunt Down
 
-Clear and Distinctness after the Regulae Citations; relating to his abandonment 
-[[Clear and Distinct after the Regulae]]
-
 On Descartes move of redefinition WITHIN the regulae
 [[Intuition within the Regulae]]
+
+
+
 
 16 - 
 Sources on Jan Baptiste van Helmont
@@ -27,6 +27,8 @@ Descartes and the "sobering" of Rule 8 of the Regulae.
 
 Intuition in Descartes' other works. 
 
+Clear and Distinctness after the Regulae Citations; relating to his abandonment 
+[[Clear and Distinct after the Regulae]]
 
 ___
 

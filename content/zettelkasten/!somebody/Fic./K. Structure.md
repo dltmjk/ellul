@@ -36,5 +36,13 @@ Need to leave an element of suspense to keep the reader going on.
 Fragments that change in some way? 
 
 
+Second Part: 
+
+First Person Narrative 
+
+
+Third Map?
+
+
 
 
