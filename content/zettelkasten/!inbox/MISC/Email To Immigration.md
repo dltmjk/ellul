@@ -1,0 +1,3 @@
+enquiry@immd.gov.hk
+
+I am following up on my Certificate of Registered Particulars. My original email was on the 23rd of May 2026 and was titled 'Certificate of Registered Particulars: THIK-1075985-26(D)'. Since then, I have received a phone call from you in which I was told to send over my appointment details for a Return Home Permit from China Travel Services. This appointment was originally on the 1st of June 2026. As this appointment date has now passed, I have scheduled another appointment with China Travel Services on the ... 

@@ -1,3 +1,33 @@
+Thesis of the book: The purpose of language, language as created from need, language to show silence. 
+
+Language as created from need: Lost boy of Aveyron 
+
+Language for silence: Aquinas secretary 
+
+Representation as representing what cannot be represented. 
+
+Things to remember: 
+Storytelling lending itself to as many interpretations as possible 
+Form matching content 
+
+NEVER SAY IT STRAIGHT THAT THERE IS SOMETHING WRONG WITH THE PARENTS 
+> It’s good to have undeclared, unrecognized pathologies and mental illnesses in your stories. The countryside is full of undeclared pathologies. Unlike in the urban setting, there, mental affliction goes unrecognized.
+
+How did these people speak? 
+> Dialect makes normal words seem other, odd and jagged. For example, ‘Jeziz’ for Jesus.
+
+Read through every sentence, make it perfect
+> Writing should not create the impression that the writer is trying to be ‘poetic’.
+
+Long sentences prevent you from having continually to name the subject (‘Gertie did this, Gertie felt that’ etc.).
+Avoid sentences that serve only to set up later sentences.
+Use the word ‘and’ as little as possible. Try for variety in conjunctions.
+
+Who is the narrator?: For the obituary, the protagonist who has graduated to writing the newspaper for his old village 
+
+
+
+
 The foundations of the narrative;
 
 Start with a retelling of Kannitverstan. 
@@ -42,6 +72,10 @@ First Person Narrative
 
 
 Third Map?
+
+To Add: The wild boy of aveyron and the caretakers daughter 
+
+Whale with a spear ledged into its fin
 
 
 

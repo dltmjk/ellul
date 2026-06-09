@@ -40,7 +40,7 @@ The boy in the days before his death [March 6th - March 8th] :
 
 He constructed his life in the shape of a perfect one. 
 He constructed the house in the shape of a perfect one. 
-At the end of his life (his only bedfellows being the books of Augustine; João Poinsot; John Philoponus Capreolus and Cajetan both, together with Anselm of Canterbury; William of Ockham and Mister Meister Eckhart), he regained the energy of a young man and painted each surface of his country house black, so he could, on the fourteenth of August, lay dead in that pitch dark house for the first time in his life. 
+At the end of his life (his only bedfellows being the books of Augustine; João Poinsot; John Philoponus Capreolus and Cajetan both, together with Anselm of Canterbury; William of Ockham and Mister Meister Eckhart), he regained the energy of a young man and painted each surface of his country house black, in order to, on the day in August (or on the fourteenth of August), lay dead in that pitch dark house for the first time in his life. 
 
 ===Main character is a cartographer tracing out his life. As a representation. 
 
@@ -62,7 +62,9 @@ In the middle was a reproduction of Vermeer. The boy noticed that her guidelines
 
 He looked closer and noticed that the paint was heavily chipped, in a way where the illusion of wholeness and consolidation remained, yet easily over 30% of the canvas was missing. 
 
-His father was a fisherman, short and brutish, like all men of his generation and of the generation before and to come. At the start of the boys fifteenth year they both made a pilgrimage deep into the woods. After nearly a day of walking the boy encountered a lighted bonfire with a flame reaching as high as the silver firs. In the morning he remembered only the image of a small wounded pyre. After that day his father started to show the first signs of his madness. 
+His father was a fisherman, short and brutish, like all men of his generation and of the generation before and to come. At the start of the boys fifteenth year they both made a pilgrimage deep into the woods. After nearly a day of walking the boy encountered a lighted bonfire with disparate flames shaped like a corridor of mirrors. In the morning he remembered only the image of a small wounded pyre. 
+
+After that day his father started to show the first signs of his madness. 
 
 My mother said that her uncle had kept a friend whose father in law had known Bruegel the Elder. The father in law had re-enacted the way his voice would turn nasal while sketching to the uncles friend, who had in turn re-enacted it to the uncle who did so for my mother. My mother had forgotten exactly how to perform this voice and, as such, I was never privy but it seems as if my mother, centuries after Bruegel's death, would be the last to ever hear his voice. 
 
@@ -94,7 +96,11 @@ I started my life near Winterberg in what seemed like every cold December. There
 
 The world seemed overwhelming in its mediocrity, and I, by growing into the world and inheriting that same mediocrity, was never able to bring myself to terms with the whole thing. By the whole thing, I meant the dread of it all, of everyday waking up into heat and light and then shitting and walking around and chewing fatty mushed food and gurgling soft and sour liquids and then the nausea of conversation until sleep and until death. 
 
-She enjoyed the taste of good food, but never was able to bring herself to make any. In her later years she held her hair tied up. She came into her age all at once and every birthday made her more undone. 
+My mother wasn't a very happy woman. 
+
+She enjoyed the taste of good food, but never was able to bring herself to make any. In her later years she held her hair tied up. She came into her age all at once and every birthday made her more undone. I always saw a face too old for her life, 
+
+(a life too old for her face) (a white stoned necklace around a face too old for her life)
 
 There was one episode when the boy was enduring another of his fathers screaming fits when she
 
@@ -120,14 +126,29 @@ Do not ask what is there, but look and see and you will find his creation. [Witt
 
 I could not help but think of X.Z. who was senior lector in my final years at la fleche.
 
-Yet I always preferred those simple fairy tales. It seemed that the more ornate art became the more distant it became to life. At the seminary I was never sure if I was writing philosophy, there were the evenly spaced propositions, correctly numbered and formed. Still I couldn't rid myself of the feeling that I was writing something closer to [poetry in plato]. One late night between two of those large shelves I felt that every sentence of mine could be traced back to a specific moment of my life. 'This is not philosophy' I thought. I put down my pen and searched for Aquinas, the book was both dusty and well worn. His propositions seemed to relate only to each other, a perfectly closed system. 
+Yet I always preferred those simple fairy tales. It seemed that the more ornate art became the more distant it became to life. At the seminary I was never sure if I was writing philosophy, there were the evenly spaced propositions, correctly numbered and formed. Still I couldn't rid myself of the feeling that I was writing something closer to [poetry in plato]. 
+
+One late night between two of those large shelves I felt that every sentence of mine could be traced back to a specific moment of my life. 'This is not philosophy' I thought. I put down my pen and searched for Aquinas, the book was both dusty and well worn. His propositions seemed to relate only to each other, a perfectly closed system. 
 
 [1] God is x
 [2] X
 [3] Y
 [4] Z
 
-So was God a substance that could be contained within time? My head started to hurt. 
+On the sixth of December, a sunny day, a day filled with light and the mourning of a young girl found drowned by a riverbank, Aquinas laid his pen down at the desk, that same desk of wood which kept his weighted elbows and weary head from touching earth, the same desk which he had dutifully placed himself every morning until night taking leave only for a simple lunch and dinner in hushed halls returning to place yet another volume on its wooden face. And after decades of thinking, talking, tinkering he was at the cusp of his work, yet he knew that a completed work pales with the even larger unfinished work, a structure that would serve the same purpose as the walls of a hallowed place, a work that would stand short against the larger and grander presence of words left uninked. Walls let us enjoy the emptiness of what it contains, words summed together become an approximation of the silence, leading us into what we can never say.  
+
+It is a sunny day, it is the sixth of December, it is a day filled with light and mourning over a young girl found drowned by the riverbank. 
+
+There was the work and there was the even larger completed work which remained uninked as if the entire work had served but a single purpose, with its roaring blazing arguments forced into strict and postured prose, 
+
+To leave it unfinished was to let us know 
+
+Walls let us enjoy the emptiness of the room, his words led us into silence, into what cannot be said. 
+
+Because what cannot be said, must be left in silence. 
+
+Another architect of experience, another type of structure unbecoming and becoming all at once, unmaking and constructing the world out of silence. From silence into silence, into specks of dust coalescing into grey walls collecting light. 
+
 
 
 (So on..., Create image of propositions ) 
@@ -204,7 +225,7 @@ Herr Kannitverstan, no first name. Working at the department of (record keeping)
 
 Herr Kannitverstan, no first name it seems. Been at the department for forty years, originally brought in for the finding and disposing of those middling vermin found within thousands of long and hard columns of books. After having done his time,   
 
-Why, in the endless possibilities of a new life, he chose the same type of work. I cannot tell you. 
+Why, in the endless possibilities of a new life, he chose the same type of labour. I cannot tell you. 
 
 
 
@@ -225,7 +246,7 @@ Living longer meant living the same life. The father cherishes the same toys as 
 
 -
 
-He looks directly at me. His eyes are a pale blue and he has little hair. As a whisper, he asks:
+He looks directly at me. His eyes are a pale blue and his head has little hair. As a whisper, he asks:
 
 can I ask you something?
 yes, i say
@@ -277,7 +298,9 @@ At night I lay my back flat in that same black bed and I felt my memories mouldi
 
 ===The Father is the original character from Kannitverstan 
 
-They will bury me in a narrow grave, I thought. Yet, it didn't matter much. Maybe it was the the size of his bed, or the view of the horizon outside but  In that moment he understood, in a way he was never privy to before, how small he was, he understood the vastness of the ocean and of the stars and he felt their presence at the beginning of every night and at the edge of every beach. Yet he didn't mind because those infinitely large things would never know a first love, they would never taste good food or work tirelessly and have good sex or read till dawn. 
+They will bury me in a narrow grave, I thought. Yet, it didn't matter much. Maybe it was the the size of his bed, or the view of the horizon outside but  In that moment he understood, in a way he was never privy to before, how small he was, he understood the vastness of the ocean and of the stars and he felt their presence at the beginning of every night and at the edge of every beach. 
+
+Yet he didn't mind because those infinitely large things would never know a first love, they would never taste good food or work tirelessly and have good sex or read till dawn. 
 
 Those things had never grown up in a small town in Winterberg to a brutish father and a distant mother. The sea had never felt the first snowfall of a new dawn, or seen the frost at the edge of his childhood windows and those stale stars in the sky will never felt the soft skin of another, and the taste of warm bread and the warmth of breath. Those large things which spread themselves thinly over the world would never know the thickness of flesh, the six roofs of Amsterdam, the nightmares of his mother and the coldness of her touch. They would stand forever but they would never have lived because living meant [recount the plot] 
 

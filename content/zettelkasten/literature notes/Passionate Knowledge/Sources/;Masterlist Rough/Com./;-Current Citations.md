@@ -20,10 +20,21 @@ On Descartes move of redefinition WITHIN the regulae
 
 
 
-16 - 
-Sources on Jan Baptiste van Helmont
+16(12) - 
+Sources on Jan Baptiste van Helmont. In relation to epistemology 
+[[Van Helmont Com.]]
+
+Descartes Dream and Adrian Billet 
+
 
 Descartes and the "sobering" of Rule 8 of the Regulae. 
+Rule Eight of the Regulae: 
+[[Back to Reason; Rule VIII]]
+
+Sources Cited: 
+Ben Yami ,Descartes’ Philosophical Revolution
+Schuster, Descartes Agonistes
+
 
 Intuition in Descartes' other works. 
 
