@@ -8,7 +8,7 @@ Our dear newspaper editor has taken the time to arrange and update all the entri
 Hans Scapelhandler
 The beloved town doctor. 
 
-Rumour was it that he was exceptionally fond of the innkeepers daughter and paid her a visit every Sunday to prevent a remission of her previous seasonal depressions. 
+Rumour was it that he was exceptionally fond of the innkeepers daughter and paid her a visit every Sunday to prevent remissions of her previously disasterious seasonal depressions. 
 
 He was fond of growing flowers in old bottles. 
 

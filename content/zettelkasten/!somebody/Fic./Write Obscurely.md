@@ -6,4 +6,3 @@ My mother once told me I had a face only a mother could love. She was not trying
 
 Within the thin volume there is the even bigger book he would not, or perhaps could not write. Wolfson states that if we ... we could reconstruct Spinoza's Ethics before it was even written. He's wrong, but in this other similarly thin volume we are constantly reminded of the larger work of which possess only the the austerely dissected remains. Aquinas wrote nearly seven volumes before deciding to lay down his pen for the first time. 
 
-Marriane Fritz is a genius. Marriane Fritz 

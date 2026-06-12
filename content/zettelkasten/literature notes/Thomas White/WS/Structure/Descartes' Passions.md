@@ -13,7 +13,7 @@ Descartes' position can be summed up in the following way
 
 White and Spinoza attack [3]
 
-In attacking proposition [3], White and spinoza complete [2] and produce a monism. In their respective metaphysics, humans are given no greater place than the other parts of nature.
+In attacking proposition [3], White and Spinoza complete [2] and produce a monism. In their respective metaphysics, humans are given no greater place than the other parts of nature.
 
 In completing this deflation/reduction of [2], they arrive at a type of unified monism because there is no longer any need for a dualistic counterpart. 
 
@@ -24,23 +24,23 @@ ___
 
 Showing [1] 
 
-Within the Meditations, Descartes builds his metaphysics on cause and effect. For him "nature,"
-taken generally, I understand nothing other than God himself or the ordered network of created things which was instituted by God" (Descartes, Meditations, Meditation Six, 45). 
-
-This metaphysical commitment has many functions. Famously, to prevent against sceptical dilemmas involving demons, but also to "distinguish dreams from reality because our sensations are caused by the "ordered network of created things"". 
+Within the Meditations, Descartes builds his metaphysics on cause and effect. According to him "nature,"
+taken generally, I understand nothing other than God himself or the ordered network of created things which was instituted by God" (Descartes, Meditations, Meditation Six, 45). This metaphysical commitment has many functions. Famously, to prevent against sceptical dilemmas, involving demons, but also to distinguish dreams from reality. 
 (Descartes, Meditations, Meditation Six, 50). 
 
-Our participation in this ordered network 
-
-Sensation therefore is 
+Descartes gives an example of this causal chain in part: 
 
 "when I see a stick, one should not think that some “intentional species” wing their way
 from the stick to the eye, but merely that rays of light reflected from the stick excite certain
-motions in the optic nerve and, by this means, in the brain, as I have explained at sufficient
-length in the Dioptrics"Descartes, Meditations, “Reply to Sixth Set of Objections,” 175.
+motions in the optic nerve"
 
-For him, we can distinguish dreams from reality because our sensations are caused by the "ordered network of created things"
-Descartes, Meditations, Meditation Six, 50.
+(Descartes, Meditations, “Reply to Sixth Set of Objections,” 175.)
+
+The role of the mind, then, is to interpret the sensations that are produced from these deterministic processes. Descartes, in his meditations, proposes a far stronger account of the mind function than in his later works. For this younger Descartes, the mind  
+
+
+Within [2] Descartes 
+
 ___
 
 The role of the brain in the above causal chain is to interpret these causal results. 
@@ -91,15 +91,6 @@ The passions of the soul and the actions of body are often just one and the same
 -
 Showing [3]
 
-Earlier in the Principles Descartes has already made a point of relieving the
-passions from the debilitating onus of the strict distinction between mind and body.
-Since he only admits the existence of a rational soul, doing away with the vegetative
-and motive souls by which the Aristotelians explained the organized actions and
-motions of plants and animals, he is left with little substantial distinction between soul
-(anima, âme) on the one hand, and mind or rational soul (animus, ratio) on the other,
-and he indeed uses them as synonyms – “the soul or mind.”335 In other places he
-seems to prefer the use of ‘soul’ to discuss volition, and belief and ‘mind’ when
-discussing reasoning, but regarding the passions these niceties are of little difference the passions are “attributes” of both body and mind (or soul) in their “union:”
 
 The idea of a dichotomy between mind and body is so deeply entrenched in the
 canonical recollection of early modern philosophy, that this off-hand reference to their

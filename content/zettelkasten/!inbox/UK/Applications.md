@@ -1,8 +1,20 @@
 To Do: 
 Redo CV with Courses completed and Longer research assistant information 
 
+CV Des: 
+Assisting in completing a project on the history of the passions from Descartes to Spinoza. Covering figures such as. 
+
+history of the passions as an epistemological tool within early modern philosophy. While working this role, I have developed a grounding in a number of key figures, most notably Descartes, Hobbes, and Spinoza, as well as other important, but often passed-over, characters such as Kenelm Digby, Jan Baptist van Helmont, the Cavendish Circle, and Thomas White.
+
 [[Emails]]
 
+UCL. Philosophy MPhil/PhD
+https://www.ucl.ac.uk/prospective-students/graduate/research-degrees/philosophy-mphil-phd
+
+Writing Sample (2000): Thomas White and Spinoza.
+Writing Sample (2000): Empathy Severely Cut Down. Without Introduction 
+
+Referees (2)
 
 
 St Andrews. Philosophy MLitt

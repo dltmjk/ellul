@@ -1,5 +1,7 @@
 Title: Spinoza and White on the soul after Descartes' passions. 
 
+[[Struc. Desc.]]
+
 [1] Descartes weakens his strict dichotomy of mind and body through his passions 
 [2] White and Spinoza both take the same strategy of finishing this process and lead into similar metaphysics. In which all of reality is causal and determinate in different ways. 
 [3] This leads to White's and Spinoza's relative brands of monism 
@@ -7,7 +9,7 @@ Title: Spinoza and White on the soul after Descartes' passions.
 
 Be careful to not reduce into mind body distinction. 
 
-Thomas White and Baruch Spinoza are two philosophers with some noteworthy similarities in their ideas. Specifically, their metaphysical monism and ideas on human freedom. Similar to Pierre Macherey's treatment of Hobbes and Spinoza, this paper will not attempt to sketch out of "the various ways in which they agree on such and such point", instead it will attempt to explain "how their thoughts arose from the same source". The source being Descartes' groundwork laid in his *Principles* and *Passions*. 
+Thomas White and Baruch Spinoza are two philosophers with some noteworthy similarities in their ideas. Specifically, their metaphysical monism and ideas on human freedom. Similar to Pierre Macherey's treatment of Hobbes and Spinoza, this paper will not attempt to sketch out of "the various ways in which they agree on such and such point", instead it will attempt to explain "how their thoughts arose from the same source". The source being Descartes' philosophical groundwork laid in his *Principles* and *Passions*. 
 
 (Cite Macherey, all translations from French and Latin are my own unless indicated otherwise). 
 This paper abbreviates Adam and Tannery (AD) and for Spinoza ...
@@ -16,13 +18,31 @@ This paper abbreviates Adam and Tannery (AD) and for Spinoza ...
 
 Both White and Spinoza reject [3]. In the process of this rejection they both maintain their strict Cartesian principles. 
 
+This is because they do not believe the soul has to be a necessary piece of a coherent Cartesian system. 
+
 Their metaphysics arises of a completion of the Cartesian process. 
 
-Because for Descartes, a metaphysical explaining includes the reduction of 
+Judgement can be reduced to the senses only. Why can we not ascribe to the body what we have been ascribing to the soul so far. 
+
+[[Descartes On Intermixing of Body and Soul]]
+
+[1] Descartes move is to reduce everything into motion
+[2] However, this type of metaphysical picture still maintains a superfluous piece: the mind
+[3] Therefore, White and Hobbes attempt to amend this and complete the Cartesian system to arrive at similar metaphysical pictures. 
 
 They reduce both the mind and the body with similar metaphysics. They rightly criticise previous philosophers for making man "imperium in imperio". Their response arises out of similar motives,  
 
-Descartes' Metaphysics of the passions. Passions as physical yet still maintaining a mind/body distinction. 
+Arising out of Descartes' method in the regulae, which attempts to...
+
+Descartes' attempt to reduce everything to matter in motion, White and Spinoza follow in their own types of metaphysical reduction, into quantity and substance/attribute respectively 
+
+[AP] The removal of the mind from the Cartesian system is a Cartesian move to make. 
+
+Evidence for this, i.e., What is being a good Cartesian? Completing the Cartesian system: 
+
+
+
+
 
 How does White reduce the mind and body
 [[White on the Soul]]

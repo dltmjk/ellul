@@ -4,5 +4,8 @@ The psychological profiling of characters always maintains a careful separation 
 
 This impulse is familiar within Japanese literature, which never lets itself get lost in its subject, except when the subject themselves is lost. Even then Mishima (speaking specifically of him) makes sure to deterministically render the silhouette of an emotional situation. Detachment is not the correct word, since the reader is fully able to empathise and, importantly, actually know the emotions of any character. Yet Mishima manages to move through his psychological analysis like he makes his way through a description of the mountainside. Both are rendered in a type of beauty both juvenile and sparse. 
 
-
 despite the numerous monologues which 'treat' (in the manner that Mishima is famous for) 
+
+-
+
+When I was young and I read 'the elementary particles' for the first time, I felt that I should (being a proper human being) allow myself to descend into being a bruno. one of the two main characters in the book, the first, lustful, part of two brothers whose sexual valencies added up to null. I promised, as a sort of obligation without reason, that I would also never allow myself to fill the space of the other brother - michael - whose detachment was attractive in ways i didn't know how to explain yet. 

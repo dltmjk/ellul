@@ -141,6 +141,8 @@ It is a sunny day, it is the sixth of December, it is a day filled with light an
 
 There was the work and there was the even larger completed work which remained uninked as if the entire work had served but a single purpose, with its roaring blazing arguments forced into strict and postured prose, 
 
+Within the thin volume there is the even bigger book he would not, or perhaps could not write
+
 To leave it unfinished was to let us know 
 
 Walls let us enjoy the emptiness of the room, his words led us into silence, into what cannot be said. 
