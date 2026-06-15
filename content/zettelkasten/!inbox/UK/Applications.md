@@ -65,7 +65,7 @@ Deadline: 26 June
 -
 
 MSc Philosophy of Science
-https://www.lse.ac.uk/study-at-lse/graduate/msc-philosophy-of-science#entry-requirements
+https://www.lse.ac.uk/study-at-lse/graduate/msc-philosophy-of-science
 
 Philosophy of Science Paper: Cognition? 
 
