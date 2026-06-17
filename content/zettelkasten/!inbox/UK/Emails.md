@@ -8,9 +8,6 @@ These programs are as follows:
 
 
 
-
-
-
 Email to Ofer:
 
 Hi Ofer, 
