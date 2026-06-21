@@ -2,11 +2,11 @@ What is necessary for the White and Spinoza sections to make sense?
 Descartes' mechanising of the world 
 His weakening of the mind body distinction 
 
-Therefore, if the world is causal
+Therefore, if the world is causal 
 White takes this and establishes a different sort of metaphysics which humans are also part of. 
-Spinoza takes this and ...
+Spinoza takes this and ... 
 
-Descartes' position can be summed up in the following way
+Descartes' position can be summed up in the following way 
 [1] Our sensations are causal 
 [2] These causal movements are produced from objects and then interpreted by the passions/the brain
 [3] However humans are NOT part of this causal chain, by virtue of possessing a judgement or a mind

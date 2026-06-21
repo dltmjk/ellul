@@ -32,7 +32,7 @@ Deadline: Aug 6
 -
 
 KCL Philosophy MA 
-https://www.kcl.ac.uk/study/postgraduate-taught/courses/philosophy-ma
+https://www.kcl.ac.uk/study/postgraduate-taught/courses/philosophy-ma 
 
 Reference (1): Ofer
 
@@ -54,8 +54,11 @@ Deadline: 25 July
 UCL History and Philosophy of Science MSc
 https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/history-and-philosophy-science-msc
 
-Writing Sample (2000): Thomas White and Spinoza.
-Writing Sample (2000): Empathy Severely Cut Down. Without Introduction 
+600 WORD PERSONAL STATEMENT 
+
+
+
+
 
 Referees (2)
 
@@ -68,6 +71,10 @@ MSc Philosophy of Science
 https://www.lse.ac.uk/study-at-lse/graduate/msc-philosophy-of-science
 
 Philosophy of Science Paper: Cognition? 
+
+
+
+Questions?
 
 Writing Sample (3000): Empathy Paper
 

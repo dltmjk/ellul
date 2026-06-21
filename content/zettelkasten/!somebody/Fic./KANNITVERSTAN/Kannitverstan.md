@@ -40,7 +40,7 @@ The boy in the days before his death [March 6th - March 8th] :
 
 He constructed his life in the shape of a perfect one. 
 He constructed the house in the shape of a perfect one. 
-At the end of his life (his only bedfellows being the books of Augustine; João Poinsot; John Philoponus Capreolus and Cajetan both, together with Anselm of Canterbury; William of Ockham and Mister Meister Eckhart), he regained the energy of a young man and painted each surface of his country house black, in order to, on the day in August (or on the fourteenth of August), lay dead in that pitch dark house for the first time in his life. 
+At the end of his life (his only bedfellows being the books of Augustine; João Poinsot; John Philoponus Capreolus and Cajetan both, together with Anselm of Canterbury; William of Ockham and Mister Meister Eckhart), he regained the energy of a young man and painted each surface of his country house black, in order to, on the day in August (or on the fourteenth of August), lay dead in that (pitch-dark) obscure house for the first time in his life. 
 
 ===Main character is a cartographer tracing out his life. As a representation. 
 

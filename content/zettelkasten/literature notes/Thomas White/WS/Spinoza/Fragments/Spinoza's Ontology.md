@@ -1,0 +1,1 @@
+Spinoza does not believe in free will but freedom. 

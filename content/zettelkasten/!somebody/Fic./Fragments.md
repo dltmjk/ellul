@@ -1,4 +1,6 @@
-One morning as a child, when my grandfather hadn't started his drinking and my grandmother still wore her nice dresses, my mother made the mistake of giving me the ritalin reserved for my brother and, because she was my dutiful mother and I was a child with a petulant child's body, decided impromptu to keep me home from school. 
+One morning as a child, when my grandfather hadn't started his drinking and my grandmother still wore her nice dresses, my mother made the mistake of giving me the ritalin reserved for my brother and, 
+
+because she was my dutiful mother and I was a child with a petulant child's body, decided impromptu to keep me home from school. 
 
 Being too young, unaware generally and unaware of fate specifically, I thanked chance or probability or whatever I knew it as before somebody else named it for me. 
 

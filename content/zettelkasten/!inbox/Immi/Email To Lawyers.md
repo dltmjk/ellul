@@ -82,3 +82,30 @@ Thank you very much for your time and help. I look forward to hearing from you.
 Kind regards,
 Ahan Rajora
 
+
+___
+Dear Ahan,
+
+Thank you for your inquiry – Clothier Anderson Immigration Lawyers would be pleased to provide you with a preliminary appointment regarding a student visa cancellation.
+
+Our preliminary services cost a fee of $330 are conducted with one of our lawyers. During this appointment, your situation will be thoroughly assessed and the legal options available to you evaluated. You will have the chance to provide us with any relevant information and ask any questions you have. Please note if you require an interpreter, we can book this for you for an additional fee of $198.00, provided you let us know the language and need for an interpreter at least 24 hours before the appointment.  For more information about the preliminary appointment, please visit the below link:
+
+[http://www.clothieranderson.com.au/making-an-appointment.html](http://www.clothieranderson.com.au/making-an-appointment.html)
+
+If you would like to book in a preliminary appointment (either in-person or via online video-chat) or want to ask further questions regarding this process, please call our office on **(03) 9347 4022** or provide us with your mobile number to call you at a preferable time.
+
+We look forward to hearing from you.
+
+Kind regards,
+
+To Whom it May Concern,
+Thank you for your email. I have already completed your 'new client instruction sheet' and am keen to proceed with a preliminary appointment.
+
+I am currently overseas and unable to call to book an appointment. To coordinate a suitable time, my contact number is "+852 92652782" . My current time zone is GMT+8 , and I am generally available on weekdays from 1PM onwards (3PM GMT+10). However, I am flexible with other available times.
+
+I would prefer an appointment via online video-chat. Please confirm if I need to take any action to arrange the $330 fee payment or provide any documents before the appointment. I do not require an interpreter at this time.
+
+Please let me know if you require any further information.
+
+Warm Regards,
+Ahan

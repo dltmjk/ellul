@@ -42,19 +42,24 @@ Later Descartes weakens both the responsibilities of the mind and the distinctio
 
 mais qu'il est besoin qu'elle soit jointe et unie plus étroitement avec lui, pour avoir, outre cela, des sentiments et des appétits semblables aux nôtres, et ainsi composer un vrai homme.
 
-"nec etiam ad solum corpus referri debent, quaeque, ut infrà suo loco ostendetur, ab arcta & intima mentis nostrae cum corpore unione proficiscuntur : nempe appetitus famis, sitis, &c. ; itemque, commotiones, sive animi pathemata, quae non in sola cogitatione consistunt, ut commotio ad iram, ad hilaritatem, ad tristitiam, ad amorem"
+"nec etiam ad solum corpus referri debent, quaeque, ut infra suo loco ostendetur, ab arcta & intima mentis nostrae cum corpore unione proficiscuntur : nempe appetitus famis, sitis, &c. ; itemque, commotiones, sive animi pathemata, quae non in sola cogitatione consistunt, ut commotio ad iram, ad hilaritatem, ad tristitiam, ad amorem"
 
 > the movements which are thus excited in the brain by the nerves affect the soul or mind [...] and these diverse states or thoughts of the mind, following immediately from these movements, are called the perceptions of the senses (Descartes, Principles, art. 189, 276.)
 
+Motus autem qui sic in cerebro à nervis excitantur, animam sive mentem intimè cerebro conjunctam iversimodè afficiunt, prout ipsi sunt diversi. Atque hae diversae mentis affectiones, sive cogitationes, ex istis motibus immediatè consequentes, sensuum perceptiones, sive, ut vulgò loquimur, sensus appellantur.
+
+The movements which are excited in the brain by the nerves affect the soul or the mind both intimately connected with the brain [...] and these diverse mental affections or thoughts resulting from these movements are called perceptions of the senses. 
+
 Interactions within this union are not asymmetrical (as they were previously). They are mutually affecting as "the soul has to move the body and the body to act on the soul, in causing sensations and passions" (l'ame & le corps ensemble – AT 3:665). At another point, Descartes asserts that "no subject that acts more immediately upon our soul than the body it is joined to" (375). In SM the role of the mind is to "direct the whole body [within ]its principal seat in the brain; there alone it not only understands and imagines" (Descartes, Principles, art. 189, 276). Whereas in the passions, the mind can be acted upon in a mechanical manner by the body. 
 
-We can call this conception of Descartes' mind the "weak" view (WM). The most marked shift from SM to WM is applying the language of movement to the mind, for Descartes "perceptions or sensations or excitations of the soul [...] are caused, maintained, and strengthened by some movement of the spirits (Descartes, Passions I, Art. 27-8, 33-4.)". The mind still had a set of required functional responsibilities, however by developing its affectibility to material components, we can view it as a material (and therefore liable to fixed laws) object. These functional responsibilities, furthermore, were also reallocated:
+We can call this conception of Descartes' mind the "weak" view (WM). The most marked shift from SM to WM is applying the language of movement to the mind, for Descartes "perceptions or sensations or excitations of the soul [...] are caused, maintained, and strengthened by some movement of the spirits (Descartes, Passions I, Art. 27-8, 33-4.)".  By developing the minds affectibility to material components, we can view it as a material (and therefore liable to fixed laws) object. The mind still had a set of required functional responsibilities, but Descartes has also shown that these can be reallocated to the body. Previously, the passions (or emotions) were in the domain of the mind (or soul). However, within WM they are entirely conditioned by the material body:
 
 > the principal effect of all the passions in men is that they incite and dispose their soul to will the things for which they prepare their body, so that the sensation of fear incites it to will to flee, that of boldness to will to do battle, and so on for the rest. Descartes, Passions I, Art. 40, 40-1.
 
 Within the Passions, the immateriality of the mind can appear as a relic of previous Cartesian system, and if viewed unfavourably, as an active contradiction. One could argue that the slow acquiescing of causal logic to the mind is the natural completion of his previous metaphysical commitments and method (as recorded in the first eight rules of his Regulae). Whether or not Descartes would've actually taken this to it's ultimate conclusion, and fully mechanised the mind, is unknown since removing it entirely hinges upon if its functional responsibilities can be re-allocated to the body. The more radical inheritors of the Cartesian tradition, of which I count both White and Spinoza, have this uneasy relationship between mind and reality as their starting point and take two alternate approaches towards resolving it. 
 
-White partitions the responsibilities of the mind to various parts of the body, while maintaining it as a metaphysical entity in name only. Spinoza maintains some of the previous Cartesian distinction but removes any role of reason within the mind, turning it into ... causal?
+White partitions the responsibilities of the mind to various parts of the body, while maintaining it as a metaphysical entity in name only. Spinoza tries to legitimise the mind as a coherent physical object.  
+
 
 
 ___
@@ -62,38 +67,17 @@ ___
 TA:
 Connection between White and Descartes and Spinoza and Descartes
 
-Not much was written of Thomas White in his lifetime, he was a student of the Jesuits in St. Omer turned Catholic theologian, a lifelong friend of Kenelm Digby (as noted in Aubrey's brief lives), and explicitly connected with figures such as Descartes, Hobbes, and Pascal, as recorded in Mersenne's biography. From these biographical details and from his written works, we notice an intimate familiarity with Descartes' oeuvre. A notable figure in his time who has since fallen out of fashion. 
+Thomas White arrived slightly earlier in time than Spinoza. A student of the Jesuits in St. Omer turned Catholic theologian, a lifelong friend of Kenelm Digby (as noted in Aubrey's brief lives (CITE))), and explicitly connected with figures such as Descartes, Hobbes, and Pascal, as recorded in Mersenne's biography. Southgate (CITE) notes his relevancy as a "representative of that fascinating period which marks the transition between an essentially 'mediaeval' outlook and our own." In understanding him, we can better grasp what lays on either side of him temporally. 
 
-===White is specifically linked with these luminaries by Mersenne's biographer, Le
-P. Hilarion de Coste.44 [[Covetous of Truth; Southgate]] p.28 ===
-
-[1] White rejects this by arguing that the body could subsume this role of mathematical comprehension 
-[2] Therefore White works about slowly removing the uniqueness of the mind and transfers its functionality to the body 
-[3] Spinoza doesn't bother with this, instead taking the Cartesian project to its extreme and starting with a mechanical conception of mind. 
-
-
-[1] Why do they keep around the mind?
-[2] White argues that these properties can be comprehended by the body, the same type of argument that Descartes employed in reallocating the passions from the mind to the body. 
-[3] If they can be allocated to the body, then whatever needs only the mind must be only the mind - descartes quote
-[4] Therefore, the mind is kept around only as an Aristotelian definition 
-[5] and he mechanises the functions of the mind. 
-
-Within his "Exclusion of Scepticks", White mounts his attacks against the Cartesians by targeting Joseph Glanvill, a contemporaneous adherent of Cartesian views. He argues that Glanvill, and Descartes by extension, maintain the necessity of the soul because the body alone cannot make out "Quantities, Distances, Figures and Colours of things” (Glanvill, Scepsis, 32.). These properties being mathematical, or geometrical, in nature, were privy to interpretation only by the intellect. White follows the same logic that Descartes employed in his *Passions*, except with a more radical conclusion: If the body could take on one function of the mind (the passions), why couldn't it take on all of them? Following this, White concludes that the body can subsume this role of comprehending mathematical properties. 
+Within his "Exclusion of Scepticks", White mounts his attacks against Cartesian thought by targeting Joseph Glanvill, a contemporaneous adherent of Cartesian views. He argues that Glanvill, and Descartes by extension, maintain the necessity of the soul because the body alone cannot make out "Quantities, Distances, Figures and Colours of things” (Glanvill, Scepsis, 32.). These properties being mathematical, or geometrical, in nature, were privy to interpretation only by the intellect. White follows the same logic that Descartes employed in his *Passions*, except with a more radical conclusion: If the body could take on one function of the mind (the passions), why couldn't it take on all of them? Following this, White concludes that the body can subsume this role of comprehending mathematical properties. 
 
 White performs this operation, of transferring duties from the mind to the body, multiple times. Previously "mental" operations becomes physical and causal as a result: “The first stroke produces Knowledge; the later, actual Memory.” (CITE 155). In depreciating the function of the the mind, he is removing any need for it. Inverting Descartes' view that "anything in us that we can’t conceive of as being somehow had by a body must be attributed to our soul" (CITE). However, if everything can be attributed to our body, what remains of the soul? 
 
 In White's original rebuttal to Glanvill, he accuses the Cartesians of mistakenly believing that “the Soul in the Body [is] a kind of thing, not the form or affection of the thing, Man” (White, An Exclusion of Scepticks, 35). The trap was assuming that a new, non-physical, entity is required in order to properly comprehend these properties, in his rejection he returns the soul (or mind) to it's Aristotelian origin \footnote{A noticeable feature of his thought is the lack of any doctrinal purity a fact which led to Hobbes remarking that he was "torn between two obligations" (Jones ed., Hobbes, p. 162. Southgate Book).}. 
 
-===We won’t find this very hard to do if we bear this in mind:
-anything we experience as being in us, and which we see
-can also exist in wholly inanimate bodies, can be attributed
-only to our body; and anything in us that we can’t conceive
-of as being somehow had by a body must be attributed to
-our soul. https://www.earlymoderntexts.com/assets/pdfs/descartes1649.pdf===
-
 In comparison to White, Spinoza's influences are harder to track down. While he undoubtedly read Descartes, his metaphysics can be reasonably traced to a number of different places (cite wolfson). One could view his turn towards mechanisation as emblematic of the time, using White as a foregoing example. However, Spinoza's reasoning of causality is framed in the language of the passions in a number of places. For him, passions are as deterministic as another other cause and effect relationship: "So the infant believes he freely wants the milk; the angry child that he wants vengeance; and the timid, flight." (CITE).  
 
-Unlike White, Spinoza does not bother with slowly diminishing the functionality of the mind, instead he starts from the premise that is is operated causally. Writing in his Tractatus de Intellectus Emendatione that the ancients believed "that true science proceeds from cause to effect, except that, as far as I know, they never conceived the soul, as we are here doing, as acting according to fixed laws". His point being that the soul, or the mind, is also liable to fixed physical laws usually applied to nature. We find this corroborated in the Ethics: 
+Unlike White, Spinoza does not bother with slowly diminishing the functionality of the mind, instead he starts from the premise that is is operated causally. Writing in his \textit{Tractatus de Intellectus Emendatione} that the ancients believed "that true science proceeds from cause to effect, except that, as far as I know, they never conceived the soul, as we are here doing, as acting according to fixed laws". His point being that the soul, or the mind, is also liable to fixed physical laws usually applied to nature. We find this corroborated in the Ethics: 
 
 "when men say that this or that action of the body arises from the mind which has command over the
 body, they do not know what they are saying, and are merely admitting … that they are ignorant of the
