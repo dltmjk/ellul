@@ -1,3 +1,5 @@
+[[White Structure]]
+
 White Books
 AN EXCLUSION OF SCEPTICKS
 
@@ -47,8 +49,6 @@ What was important to him at this time?
 When might spinoza have read White... 
 
 Spinoza approached Hobbes through Politics first: 
-
-What is the radical claim: That you can have a universe that is all matter-in-motion, deterministic (for lack of a better word), and you can still be free. This freedom is granted by having a rational soul: maintained both in White and Spinoza. 
 
 [[Spinoza's Ontology]]
 
