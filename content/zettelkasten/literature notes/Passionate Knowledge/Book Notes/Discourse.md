@@ -1,0 +1,9 @@
+"The first was never to accept anything as true if I did not have evident
+knowledge of its truth: that is, carefully to avoid precipitate conclusions
+and preconceptions, and to include nothing more in my judgements than
+what presented itself to my mind so clearly and so distinctly that I had no
+occasion to doubt it." p. 120 (PW Vol.1)
+
+Vocabularie de Descartes - Clare et distincte 
+
+La définition des _Principes_ (la seule que Descartes ait proposée, et qui est secondaire par rapport aux exemples) reste d’interprétation malaisée : la distinction y apparaît comme un degré supérieur de clarté, et l’unique exemple donné d’une perception claire, qui peut être rendue distincte, est celui de la douleur (I, 46). En réalité, clarté et distinction ne sont jamais dissociées : ce sont deux dimensions d’une même perfection de la perception ou représentation. Par ailleurs, il ne peut être question de refuser aux idées ou perceptions des sens _un certain genre_ de vivacité et de distinction (cf. _Med. VI_, AT IX, 60). Celles des couleurs, des saveurs, de la douleur, etc. sont obscures dans une réflexion qui les prend pour objets et les « considère en elles-mêmes » ; et il y a souvent de la confusion dans les jugements auxquels elles prêtent. Mais fonctionnellement, elles sont souvent très claires et très distinctes les unes des autres. Il s’agit donc de retrouver dans les perceptions purement intellectuelles l’équivalent de cette netteté. Le _Cogito_, où « ne se rencontre rien qu’une claire et distincte perception de ce que je connais », en sera l’exemple privilégié (_Med. III_, AT IX, 27 ; cf. _Discours_ IV, AT VI, 33 ; _à Silhon_, mars ou avril 1648, AT V, 138, etc.).

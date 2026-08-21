@@ -100,6 +100,8 @@ My mother wasn't a very happy woman.
 
 She enjoyed the taste of good food, but never was able to bring herself to make any. In her later years she held her hair tied up. She came into her age all at once and every birthday made her more undone. I always saw a face too old for her life, 
 
+After all, for her life was just meat moving through meat (the stomach). 
+
 (a life too old for her face) (a white stoned necklace around a face too old for her life)
 
 There was one episode when the boy was enduring another of his fathers screaming fits when she
@@ -183,7 +185,7 @@ Without that mountain range, there wouldn't have been those two battles (names).
 
 
 
-I am in the 2nd deck of a [type of ship]. The boat continues rocking, a man asks if I have any liquor. He's one of those who knew how to live effortlessly, fish in water or liquor in a jar. His head is slightly upturned. When he turns to his side you can make out a crook beside the nape of his neck. There is a small crease in the wooden deckfloor that acts as a seat. 
+I am in the 2nd deck of a [type of ship]. The boat continues rocking, a man asks if I have any liquor. He's one of those who knew how to live effortlessly, fish in water or liquor in a jar. His head is slightly upturned. When he turns to his side you can make out a crook beside the nape of his neck. There is a small crease in the water-worn wooden deck-floor that acts as a seat. 
 I am placed comfortably. [infinite jest]
 
 Socrates (Plato; rhymes better) knew it tenderly yet it still twisted and turned in his stomach resolving only after giving way to his Republic. Under fire humans seek cover and ready-made tents, sterile white pillars with no more reminders of just how unlike those wild things you are. After all, why shouldn't they? Less like the soil, more of what we can't see, forever trapped in little heads. 

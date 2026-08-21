@@ -4,17 +4,9 @@ W. Pagel: *Joan Baptista van Helmont: Reformer of Science and Medicine*: Cambrid
 
 This seems to be the definite secondary source on Van Helmont, mainly for medical history. Some quotes that relate to your section on Van Helmont and Descartes: 
 
-"For reason dwells in the
-lower part of the soul and hence is encumbered, being tied to
-body. It follows that reason is radically different from truth. A
-child of opinion, reason is nothing real, whereas truth stands for
-being that is real. " p. 21
+"For reason dwells in the lower part of the soul and hence is encumbered, being tied to body. It follows that reason is radically different from truth. A child of opinion, reason is nothing real, whereas truth stands for being that is real. " p. 21
 
-"Objects and phenomena of nature are, then, “given” to the human
-intellect through an illumination which is comparable to prophetic
-vision; it is the true light that shows the way to the “naked” being
-of things, by contrast with the deceitful advice derived from rea-
-son." p. 23
+"Objects and phenomena of nature are, then, “given” to the human intellect through an illumination which is comparable to prophetic vision; it is the true light that shows the way to the “naked” being of things, by contrast with the deceitful advice derived from reason." p. 23
 
 
 

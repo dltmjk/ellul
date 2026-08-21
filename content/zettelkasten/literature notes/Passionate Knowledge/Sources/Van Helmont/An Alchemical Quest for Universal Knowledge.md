@@ -2,9 +2,7 @@ Hedesan, G.D. (2016). An Alchemical Quest for Universal Knowledge: The ‘Christ
 
 Very useful source on Van Helmont's philosophy. Notable for this quote: 
 
-"This is a fallacy caused by our overreliance on the senses. In reality, ordinary sight only bestows ‘knowledge of observation’ rather than internal knowledge of the essence. Van Helmont postulates a fundamental difference between the surface and essence; indeed, ‘a visible entity is just as unknown as an invisible one’." 160
-
-160 Ch. 47, ‘Tractatus de Anima’, §8, 279: ‘Cum tamen alioquin, in entis entitate, tam sit intellectualiter ignotum visibile, quam est invisibile’.
+"This is a fallacy caused by our overreliance on the senses. In reality, ordinary sight only bestows ‘knowledge of observation’ rather than internal knowledge of the essence. Van Helmont postulates a fundamental difference between the surface and essence; indeed, ‘a visible entity is just as unknown as an invisible one’." 160 (Ch. 47, ‘Tractatus de Anima’, §8, 279: ‘Cum tamen alioquin, in entis entitate, tam sit intellectualiter ignotum visibile, quam est invisibile’.)
 
 Reading through the source, the 'Tractatus de Anima', it seems very relevant in backing up VH's distrust of bodies/the physical: 
 

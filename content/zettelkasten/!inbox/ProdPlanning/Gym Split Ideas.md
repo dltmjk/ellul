@@ -18,7 +18,6 @@ OHP 5/3/1
 Shoulder Press 
 Lat Raises, Cable Lat Raise (strap), DB Raise Myorep
 Tricep, Incline Pushdown, Smith JM Press
-Bicep, 
 Bicep, Reverse Curl EZ Bar
 
 Back (Heavy)
@@ -31,24 +30,19 @@ Back Extension
 
 Chest
 Bench Press 5/3/1
-Weighted Dips 
 Machine Bench/Smith Bench
 Bicep, Preacher Curl
 Tricep, Overhead Cable Extension 
-Tricep, Cable Pushdown 
 
-Back (Light)
+Back (Light) + Legs + 
 Lower Back Extensions - Slow Controlled 
 Anterior Pelvic Tilt Exercises
 Hanging 
 Wall sit Knee Raise (Insta)
 Skater Squat 
 Hip internal rotater deadlifts
-
-
-Leg Press
-Leg Curls
+Leg Press?
 RDL
+Cardio (Stairmaster)
 
-Forearms? 
 

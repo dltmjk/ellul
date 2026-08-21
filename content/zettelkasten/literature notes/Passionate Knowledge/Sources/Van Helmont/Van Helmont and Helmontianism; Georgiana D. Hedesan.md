@@ -1,6 +1,6 @@
 Hedesan, G.D. (2022). Van Helmont and Helmontianism. In: Jalobeanu, D., Wolfe, C.T. (eds) Encyclopedia of Early Modern Philosophy and the Sciences. Springer, Cham. 
 
-Same author from the book length treatment of Van Helmont's philosophy. Another one of these general secondary sources. Not as interesting as the book length treatment. 
+Same author from the book length treatment of Van Helmont's philosophy. Another one of these general secondary sources. Not as interesting as the book length treatment by the same author. 
 
 "Human beings are anomalous in Nature
 because they possess both the substantial light of
@@ -26,13 +26,9 @@ In Van Helmont’s view, the loss of the mind
 equals the loss of knowledge (scientia). 
 Van Helmont held a negative view of
 reason as something that belongs to the animal
-soul (Pagel 1982; Heinecke 1995) ===Sources on Van Helmont distrust of reason===
+soul (Pagel 1982; Heinecke 1995)
 
 [...]
 
-Van Helmont advocated mystical self-
-understanding, often achieved by means of intel-
-lectual visions, as the path to supreme knowledge.
-By access to the mind, one could recover to some
-extent the prelapsarian scientia of Adam."
+"Van Helmont advocated mystical self-understanding, often achieved by means of intellectual visions, as the path to supreme knowledge. By access to the mind, one could recover to some extent the prelapsarian scientia of Adam."
 

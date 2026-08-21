@@ -1,45 +1,74 @@
 Misc, 
-Add citations to bibliography document; 
+STILL TO DO; Add citations to bibliography document; 
+
+[[;-Old Citations]]
+
+___
+Chapter 2: 
 
 
-10-16
-Examples of Descartes taking terms from the scholastics. 
-	[[Sources on Descartes and Aquinas; The scholastics]]
-	[[On Descartes Re-evaluate and Re-usage of Terms]]
+Sources to go over: 
+References list of the Doptrique chapter in the Descartes' Lexicon
 
-Elliot Sam Paul Paper on intuition: 
- [[Cartesian intuition; Elliot Samuel Paul]]
- 
-Aquinas and Duns Scotus/Coimbra on Inutition
-[[Intuition within General Scholastic Sources]]
-Citation 46 Fix and Hunt Down
+Misc: 
 
-On Descartes move of redefinition WITHIN the regulae
-[[Intuition within the Regulae]]
+Descartes, Letter to Plempius, 3 October 1637, AT I, 413: “My opinion is not that animals see
+like we when we sense that we see [dum sentimus nos videre], but only that they see like us when our
+mind is applied elsewhere.”
 
+THE DIOPTRIQUE: THE VISION WE DO HAVE: 
+This section was very hard to find citations for since you've most of the main players are already included. 
 
+General sources on the Dioptrique: 
 
+Sources on the relationship between Descartes' metaphysics and his scientific works 
+Keywords: motion
 
-16(12) - 
-Sources on Jan Baptiste van Helmont. In relation to epistemology 
-[[Van Helmont Com.]]
+"The Dioptrique’s analysis of the motion of light and the creation of images is a high point of Descartes’ project of mathematical-experimental natural philosophy: the traditional optical-geometrical inquiry, whose ontology was left consciously vague,151 is given a clear matter-in-motion, physical grounding."
 
-Descartes Dream and Adrian Billet 
+On how the optics changed Descartes' metaphysics: 
+	[[Optics Affecting Metaphysics]]
 
+-
 
-Descartes and the "sobering" of Rule 8 of the Regulae. 
-Rule Eight of the Regulae: 
-[[Back to Reason; Rule VIII]]
+Footnote 143:
+143 Similar lines of interpretation of Descartes work have been developing recently
 
-Sources Cited: 
-Ben Yami ,Descartes’ Philosophical Revolution
-Schuster, Descartes Agonistes
+Mersenne Descartes acknowledges Kepler by name, in the Dioptrique he uses his very first lines to acknowledge his project.
 
+Descartes Acknowledging Kepler Sources: 
+Search: Descartes and Kepler. 
+C.f. Simon, “La Theorie Cartesienne de la Vision (Already cited by ofer)
 
-Intuition in Descartes' other works. 
+-
 
-Clear and Distinctness after the Regulae Citations; relating to his abandonment 
-[[Clear and Distinct after the Regulae]]
+The theoretical parts of the Dioptrique are both empirical (though hardly
+experimental) and mathematical, as optical treatises have been at least since Ibn al-
+Haytham’s 11th century Kitāb al-Manāzir 
+
+Descartes' Dioptrique in the context of optical theories historically: 
+
+In particular, the fact that the optics stresses the singular role of light: 
+
+Descartes’ Dioptrique is “of light,” as is the name of its First Discourse.147
+There “is nothing other than light” that passes from the object to the eye, he stresses
+repeatedly, especially not “all those small images flitting through the air, called
+intentional species, which worry the imagination of philosophers
+
+-
+It is clear to him, however, that it is a process of physical
+“mediation” and that the material makeup of the nerves is the key to understanding
+it. The nerves are made of
+
+Interaction between nerves and light in Descartes'
+
+-
+Sources on the pineal gland, historical perhaps? Focusing on the Dioptrique 
+
+Already cited by Ofer
+Shapiro, “Descartes’s Pineal Gland Reconsidered,” 259. For other recent discussions of the topic
+see Lockhorst, “Descartes and the Pineal Gland.”
+
 
 ___
 
@@ -48,14 +77,8 @@ What are the “Conimbricenses”?
 Commentaries of Aristotle produced at the university of Coimbra. Taught at La Fleche.
 
 Therefore, strains of Aristotle taught at La Fleche: Thomist, Scotus, Ockham, Suarez, and Conim.
-
+	
 “Unde cum haec tria mentis opera distinguantur, nempe simplex intuitus, judicium et discursus : simplex intuitus ad priman, discursus ad tertiam, judicium vero ad hanc secundam mentis operationem; imo ipsa et secunda mentus operatio” SCI Gilson p. 78; E.A S. Paulo Sum. Phil I. 163
 
 Mirroring Descartes usage of simple intuitions.
-
-Sources Connecting Regulae with Aquinas: Tarek R. Dika, Extrinsic Denomination and the Origins of Early Modern Metaphysics:
-
-Relating, not to intuition, but instead the scholastic idea of scientific _habitus_.
-
-Interestingly, Dika points out that “Descartes’s method creates, arguably for the first time, a chasm between how things can be known by the intellect and how they are in reality—i.e., between “epistemology” and “ontology”—that motivates him to pursue metaphysics after the Regulae”, and also that “[Descartes] experienced firsthand the mechanization of natural philosophy in the late 1610s through the Dutch natural philosopher Isaac Beeckman”, he pays no mind to the [optics implication].
 

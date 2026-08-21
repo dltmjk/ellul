@@ -19,43 +19,55 @@ Questions: I have found information claiming that 3 months after my course compl
 My question is as follows: 
 Given that my visa requires the adherence of all visa conditions, wouldn't my stay have been unlawful after April 9th. If this is the case, then wouldn't returning to Australia on the same student visa be immediately unlawful? 
 
+___
+Draft 2: 
+
+May Graduation I was unable to attend, graduation is now in October
+
+Find proof: 
+
 Also:  
 Furthermore, based on the 2027 admission schedule for the Doctor of Medicine course at USyd – is there any reason why you need to be physically present in Australia in September when offers are being made, e.g. are there in-person interviews etc.
 
 To my knowledge, there does not seem to be any reason for me to be physically present except to lodge a student visa application. Interviews for USyd can be held remotely. 
 
+Attending graduation in October
+Couldn't do it in may
+Evidence
+continuing after graduation to start medical school
+My graduation was on the fifth of may, which I could not attend due to personal reasons
+
+
 ___
-
-Hi Mr Chan, 
-Please find attached my draft statement below. For our convenience I have placed markers such as '(1)' to show that I am responding to the department's relevant factor (a) "the purpose of the person's travel to and stay in Australia." (2) would be factor (b), (5) is factor (e) etc.
-
-(1) I began my education in Australia in February of 2022 in order to complete a Bachelor of Arts and Bachelor of Advanced Studies at The University of Sydney. In 2023 I decided to change to a Bachelor of Science and Bachelor of Advanced Studies. In 2025, I started my Bachelor of Advanced Studies (Honours) and finished in 2026 with a final result of 'Honours Class I'. 
-
-Upon finishing my course I did not apply for a bridging or work visa, as my intention was to return to Australia in hopes of beginning a medical degree. In September 2025, I sat the GAMSAT (Graduate Medical School Admissions Test). I scored a 68 overall placing me in the top 10% of test takers that cycle. Furthermore, I attained a mark of 78 for section 2, which is a score attained by less than 1% of test takers. Given my result and my GPA as compared to the applicants of previous years, it is very likely that I would be accepted to an Australian institution for postgraduate medical studies. 
-
-In May of 2026, while in Australia, I lodged my application for a Doctor of Medicine (MD) at the University of Sydney, my first choice. This application, if deemed successful, would lead to my enrolment at the university in November of 2026. I also applied for the MD program at The University of Melbourne and the Doctor of Medicine and Surgery (MChD) program at Australian National University (ANU). Given that it is still early in the admission cycle, offers for the MD course will only be made later. However, I do currently possess an interview offer from ANU which is extended to only 20% of applicants. 
-
-After my course completed, I was engaged in two main activities while in Australia. The first was deciding whether to appeal the marking of my thesis. While my overall result was very good, an Honours Class I with a mark of 86, I felt that if my thesis was remarked, there was a chance of attaining the University Medal (an award given to the best Honours Thesis every year). While considering the viability of this, I consulted professors who could provide realistic advice towards my chances of a positive re-marking. 
-
-In addition to this, I assisted a professor, Ofer Gal, in his ongoing research and conducted my own. Since January of 2026 I have been helping him with the completion of his unfinished book "Passionate Knowledge," along with co-writing a paper with him. While assisting him, I handled the translation and collection of sources, along with other research responsibilities that allowed for him to complete his book in a timely manner. Alongside this, he guided and assisted my own academic research. This research work has culminated in me being personally invited to present, as a researcher representing The University of Sydney, at an international conference at Zhengzhou University in June 2026. I am currently working on turning this research into an academic paper. 
-
 ===Attach Zhengzhou university invite===
-
-My graduation was scheduled for the 5th of May, after which I returned to Hong Kong on the 18th in order to visit my parents, who live there, and my brother, who is visiting. My planned date of return to Australia was the 5th of July. I hoped to return in order to attend any interviews for medical school physically along with continuing my ongoing research. 
-
-(3) Upon receiving a cancellation notice, I cancelled my planned flight back to Australia which incurred a significant financial loss. I am also continuing to pay rent for an apartment I am not residing in. Whereas, if I was given some sort of prior notice before I left Australia, I would have chosen to make the necessary arrangements to sublet my apartment. 
-
 ===Lease Agreement Evidence: "TenancyEmail" & "TenancyForm".===
 
-At first I received a "Verification of Contact Details" email which contained the words "Section 128". I was immediate in responding to this email. (2) & (5) Following my previous visa applications and approvals. In the past I was proper in alerting the Department of Home Affairs about my passport change along with other relevant changes in personal details. Furthermore, I have fully adhered with all the stated visa conditions in my Student (subclass 500) visa and was a genuine student who completed my studies with high-scoring results. Therefore, I became exceptionally worried as to why I received an email of this nature. A few days later I checked my visa status on the Visa Entitlement Verification Online service and found that I do not currently possess an Australian visa. 
+Hi Mr Chan, 
+Please find attached my draft statement below. For our convenience I have placed markers such as '(a)' to show that I am responding to the department's relevant factor 'a': "the purpose of the person's travel to and stay in Australia." (b) for factor 'b', etc...
 
-This news led to some significant psychological hardship. My friends and family had both noted a severe change in my behaviour. Internally, I felt dread at having my planned future of entering medical school made impossible. Given that I had received a "Section 128" email that requested my contact details 25 days before the official section 129 notice, I believed that a PIC 4013 ban would apply and prevent any re-entry into Australia for 3 years. For those 25 days, my future was ambiguous and I was unsure of any further effects this cancellation could have on me. Especially concerning any alternate paths I had apart from medical school. 
+(a) I began my education in Australia in February 2022 in order to complete a Bachelor of Arts and Bachelor of Advanced Studies at The University of Sydney. In 2023, I decided to change to a Bachelor of Science and Bachelor of Advanced Studies. In 2025, I started my Bachelor of Advanced Studies (Honours) and finished in 2026 with a final result of 'Honours Class I'.
 
-(7) While my first choice was, by far, choosing to enter medical school in Australia. I also applied for two masters programs in the United Kingdom and have been accepted into both. One at University College London and the other at The London School of Economics. If I choose to enter one of these programs, my visa application to the UK would be unfairly prejudiced due to this visa cancellation. This is because I would have an obligation under s101 of the Act to declare the cancellation which could unfairly Jeopardise my chances of entering into those programs. 
+Upon finishing my course, I did not apply for a bridging or work visa, as my intention was to return to Australia in the hope of beginning a medical degree. In September 2025, I sat the GAMSAT (Graduate Medical School Admissions Test). I scored a 68 overall, placing me in the top 10% of test takers that cycle. Furthermore, I attained a mark of 78 for section 2, which is a score attained by fewer than 1% of test takers. Given my result and my GPA as compared to that of the applicants of previous years, I would be accepted to an Australian institution for postgraduate medical studies.
 
-(7) If my visa remains cancelled, I would be unable to lodge a proper student visa application in Australia. This is because I am unable to lodge a substantive visa application on an Electronic Travel Authority (subclass 601) visa. 
+In May 2026, while in Australia, I lodged my application for a Doctor of Medicine (MD) at the University of Sydney, my first choice. If this application is deemed successful, it would lead to my enrolment at the university in November 2026. I also applied for the MD program at The University of Melbourne and the Doctor of Medicine and Surgery (MChD) program at Australian National University (ANU). Given that it is still early in the admission cycle, offers for the MD course will not be made until later. However, I currently have an interview offer from ANU, which is extended to only 20% of applicants.
 
-(4) Even after receiving the section 129 notice. I was confused as to why the grounds of cancellation arose. The Department was aware of my course end date based on my CoE lodged with my most recently Student (subclass 500) visa application. It seemed unfair for the Department to cancel my visa while I was offshore without any natural justice and three months remaining on my visa. Furthermore, given these circumstances, I would not be able to seek review of the decision to not revoke the cancellation of your visa in the Administrative Review Tribunal. 
+I remained in Australia after I completed my course for three reasons: the first was to assess the viability of re-marking my thesis; the second was to conduct research which supported the university and was later presented at an international conference; and the third was to attend my scheduled graduation in May.
+
+While my overall result was very good, an Honours Class I, with a mark of 86, I felt that if my thesis was remarked, there was a chance of attaining the University Medal (an award given to the best Honours Thesis every year). While considering the viability of this, I consulted professors who could provide realistic advice on my chances of a positive remarking.
+
+In addition to this, I assisted a professor, Ofer Gal, in his ongoing research. Since January 2026, I have been helping him with the completion of his unfinished book "Passionate Knowledge" and co-writing a paper with him. While assisting him, I handled the translation and collection of sources, along with other research responsibilities that allowed him to complete his book. We also collaborated on academic research that was an extension of work completed in my honours year. This work has culminated in my being personally invited to present, as a researcher representing The University of Sydney, at an international conference hosted by Zhengzhou University in June 2026. I am currently working on turning this research into an academic paper.
+
+My graduation was scheduled for 5 May. However, due to unforeseen personal circumstances, I was unable to attend the ceremony. I then returned to Hong Kong on 18 May in order to visit my parents, who live there, and my brother, who is visiting. My planned date of return to Australia was 5 July. I hoped to return in order to physically attend any interviews for medical school and to continue my research.
+
+(c) Upon receiving a cancellation notice, I cancelled my planned flight back to Australia, which resulted in a significant financial loss. I am also continuing to pay rent for an apartment in which I am not residing. However, if I were given prior notice before I left Australia, I would have chosen to make the necessary arrangements to sublet my apartment.
+
+At first, I received a "Verification of Contact Details" email which contained the words "Section 128." I responded immediately to this email. (b) & (e) Following my previous visa applications and approvals, in the past I was diligent in alerting the Department of Home Affairs about my passport change and other relevant changes to my personal details. Furthermore, I have fully adhered to all the stated visa conditions in my Student (subclass 500) visa and was a genuine student who completed my studies with excellent results. Therefore, I became exceptionally worried about why I received such an email. A few days later, I checked my visa status on the Visa Entitlement Verification Online service and found that I do not currently possess an Australian visa.
+
+This news led to some significant psychological hardship. Internally, I felt dread that my planned future of entering medical school had been made impossible. Given that I had received a "Section 128" email that requested my contact details 25 days before the official Section 129 notice, I believed that a PIC 4013 ban would apply and prevent any re-entry into Australia for three years. For those 25 days, my future was ambiguous and I was unsure of any further effects this cancellation could have on me, especially concerning any alternate paths I had apart from medical school.
+
+(g) While my first choice was, by far, to enter medical school in Australia, I also applied for two master's programs in the United Kingdom and have been accepted into both: one at University College London and the other at The London School of Economics. If I choose to enter one of these programs, my visa application to the UK would be adversely affected because of this visa cancellation. This is because I would have an obligation under s101 of the Act to declare the cancellation, which could jeopardise my chances of entering those programs. Since I will likely pursue a PhD after undertaking a masters, any future PhD applications to a G7 country will be unfairly impacted by this cancellation. However, if my visa is reinstated, it is my intention to apply for a medical school (Subclass 500) visa. 
+
+If my visa remains cancelled, I would be unable to lodge a proper student visa application in Australia. This is because I am unable to lodge a substantive visa application while holding an Electronic Travel Authority (subclass 601) visa. Furthermore, I would be unable to attend my rescheduled graduation ceremony. (d) Even after receiving the section 129 notice. I was confused as to why the grounds of cancellation arose. The Department was aware of my course end date based on my CoE lodged with my most recently Student (subclass 500) visa application. It seemed unfair for my visa to be cancelled without any natural justice, despite having three months remaining on my visa. Furthermore, given the above circumstances, I would not be able to seek review in the Administrative Review Tribunal of the decision not to revoke the cancellation of my visa.
 
 ___
 

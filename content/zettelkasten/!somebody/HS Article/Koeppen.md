@@ -1,6 +1,6 @@
 Wolfgang Koeppen lived and died in Munich (not true). The bastard son of a Prussian seamstress and eye-doctor, Koeppen jumped from Grandma to sister to aunt and cousin until eighteen, from there a variety of odd jobs: bookboy, ticket taker, junior journalist. 
 
-These novels are the last that Koeppen ever wrote, dubbed the "trilogy of failure" (GER). You might, understandably, guess that Koeppen died not long after the last work "Death in Rome". You would be wrong; he lived another forty years 
+These novels are the last that Koeppen ever wrote, dubbed the "trilogy of failure" (GER). You might, understandably, guess that Koeppen died not long after the last work "Death in Rome". You would be wrong; he lived another forty years and wrote nothing else. 
 
 The last that Koeppen ever penned despite living another forty years. 
 
