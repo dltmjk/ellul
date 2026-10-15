@@ -40,6 +40,15 @@ Different Interpretations of Clear and Distinct perception
 
 Chapter 2; 28 - 
 
+For a different interpretation, see Beck (1952) and Marion (1975).
+[[Descartes' Method; Tarek R. Dika and Denis Kambouchner]]
+
+Frankfurt 
+[[Frankfurt and Gerwith Misc]]
+
+Nature
+[[Nature in Descartes]]
+
 
 
 
