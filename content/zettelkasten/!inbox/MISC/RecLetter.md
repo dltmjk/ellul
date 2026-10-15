@@ -5,4 +5,3 @@ I briefly spoke with you about the possibility of your writing a letter of recom
 If you are able to write a letter, I would be glad to provide any materials that might be useful, such as my CV; any copies of my major essays; transcripts; or drafts of my application statements. Please let me know if this is something you would feel comfortable doing. Thank you very much for your time, and thanks regardless.
 
 Warm regards, 
-Ahan

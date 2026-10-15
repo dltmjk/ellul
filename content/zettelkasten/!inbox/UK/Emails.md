@@ -18,7 +18,7 @@ Which document is your rework of Part II? I'd like to take a read-through. It'd 
 Either way I think it'd be good to have a zoom before Zhengzou. If I'm coming - to go over my short presentation, and if I'm not coming then to discuss part I. 
 
 (Hopefully) See You Soon, 
-Ahan
+
 
 
 
