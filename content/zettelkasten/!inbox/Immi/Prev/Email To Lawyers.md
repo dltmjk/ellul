@@ -39,7 +39,7 @@ I did not apply for a bridging or work visa, as my intention was to return to Au
 
 After completing all of these, I returned to Hong Kong on the 18th of May 2026.
 
- On the 1st of June, I received an email from "studentvisa.offshore@homeaffairs.gov.au" with the subject line "Section 128 - Verification of Contact Details - Rajora, Ahan (01 May 2003, M) CID 60374764208 - File ref BCC2026/2961589 [SEC=OFFICIAL]". On the same day, I replied to the email with my current overseas address and email (the same email address on which they originally contacted me). I have attached both the original email and my reply in PDF form.
+ On the 1st of June, I received an email from "studentvisa.offshore@homeaffairs.gov.au" with the subject line "Section 128 - Verification of Contact Details -, Ahan CID 60374764208 - File ref BCC2026/2961589 [SEC=OFFICIAL]". On the same day, I replied to the email with my current overseas address and email (the same email address on which they originally contacted me). I have attached both the original email and my reply in PDF form.
 
 On the 3rd of June, I checked my visa status on VEVO and found that I do not currently possess an active Australian visa. Given the email I received contained "Section 128", I became concerned that my visa had been cancelled. On the 9th of June 2026, I sent a reply to the original email regarding contact details, asking about the purpose of the email "Verification of Contact Details", but I have received no reply. As of the current date (the 16th of June 2026), I have not received a section 129 notice either in physical mail or in my email.
 
@@ -80,7 +80,6 @@ Please let me know a suitable time for a call and whether you require any suppor
 Thank you very much for your time and help. I look forward to hearing from you.
 
 Kind regards,
-Ahan Rajora
 
 
 ___

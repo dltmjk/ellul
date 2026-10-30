@@ -7,4 +7,3 @@ Both of these research assistant roles required me to develop strong organisatio
 I am interested in this role because I admire the literature that Deep Vellum publishes and would like to support its work in any way I can. Some of my favourite contemporary authors have been published under its imprint, particularly Michèle Audin. In terms of historical favourites, there are too many to choose from, but Viktor Shklovsky and Violette Leduc are two current favourites. I am also currently reading Nobodaddy’s Children by Arno Schmidt, published by Dalkey Archive Press.
 
 Thank you for your time,
-Ahan Rajora

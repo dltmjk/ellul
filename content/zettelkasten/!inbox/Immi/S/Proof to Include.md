@@ -9,7 +9,11 @@ Why I did not undertake this course in Hong Kong
 Explain why I changed streams 
 Computer Science -> Medicine 
 
+I made the decision to enter medicine in 2025, I started studying for the GAMSAT in March and took it in September 2025. 
+
 Proof of more earning potential in medicine. 
+In Hong Kong salaries for doctors are far more than for software engineers, or any other jobs which I could pusue with my previous qualifications. 
+
 
 -
 Proof of Financial Support 
@@ -29,3 +33,4 @@ Evidence of funds to cover living costs: 12 months of living costs including ove
 
 Sponsor Income:
 Last two-year Income Tax returns along with computation of Income of the sponsor and/or parents
+-

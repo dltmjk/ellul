@@ -49,4 +49,62 @@ Below:
 Pugh, Blacklo’s Cabal.
 
 ___
-Chapter One
+Chapter One; Thomas White (p. 9 - 14): White's sensations/motions.  
+
+Primary Sources to go Over:
+Institutions 
+An Exclusion of Skeptiks 
+De Mundo 
+
+Citations on 
+White's Sensations/Motions
+	Sensation being material and mechanical. 
+	Us being acquainted with the objects of our experience 
+	Things in the world have an essence that we can understand 
+
+-
+===Misc Notes===:
+Citation 33 and 34 are the same citation 
+-
+
+White's Sensations: (point: White is a mechanical philosopher)
+White’s sensation is “materiall” and mechanical
+	Parts in primary sources where White goes over his sensation/the action of the body. Perhaps in De Mundo 
+
+
+1. Quotes relating to the metaphysics of sensations 
+"Tis apparent, too, that the Senses are nothing but certain different degrees of Touches: For, the parts of the same body must needs make only a more subtile stroak, of the same nature with the stroak of the whole"
+II.18.5 (p. 99; PDF 75):
+
+Sense organs pass motions to the brain
+“the least impression made in any extremity of the body must needs, in a moment, run to their fountain, the Brain” … the organ’s “vertue” is “to transferre to the Brain the action of a body without.”
+II.18.1 and 18.11 (pp. 98, 100–101; PDF 75–77):
+
+How does a body recieve a "thing"
+“since its action is not effected but by an emission of its own parts; ’tis plain, it cannot act upon a distant thing, but by a Medium” … “a dense body receiv’s the nature and similitude of the body acting upon it.”
+II.9.6–8 (pp. 70–71; PDF 56–57):
+
+Passages on the soul (pg. 237)
+
+2. We are acquainted with the objects of experience 
+“we apprehend the Object to be in the Animall, as neither perfecting nor hurting it, but indifferently, and purely As another thing; and this we call Knowing.”
+(p. 212; PDF 149)
+
+___
+(p 14 - )
+
+Search through the entirety of Hobbes Critique of White after finding all relevant argumentative points. 
+
+Secondary literature search: (go over each promising secondary source individually, especially the longer works)
+Keywords: 
+Thomas White and Aristotle 
+Thomas White Sensation 
+
+Other relavant argumentative points: 
+1. Not being constrained by any philosophical tradition 
+	1. They moved freely between the wide array of intellectual options available to them, choosing from any of those options concepts and arguments to support their positions towards the fundamental dilemmas of the time. 
+	2. Competing Aristotelian and Galilean-Cartesian sources
+2. White's idea on sensation/motion/substance/essence
+
+
+

@@ -28,7 +28,7 @@ White doesn't mention the reason part, only hands. I think I might be be graspin
 
 I have been asking you for too many things recently, so hopefully this will be the last - and thanks again for everything. I need a note for medical school admissions that outlines what I've been doing since the beginning of this year. Could you please write something along these lines: 
 
-Ahan Rajora has assisted me with ongoing university-related research on my current projects since January of 2026. Specifically, my current research titled "Passionate Knowledge." We have collaborated on academic research together. He is a great student and assisted me at the Workshop on Research Methods in the History of Science at Technology conference at Zhengzhou university. 
+Ahan has assisted me with ongoing university-related research on my current projects since January of 2026. Specifically, my current research titled "Passionate Knowledge." We have collaborated on academic research together. He is a great student and assisted me at the Workshop on Research Methods in the History of Science at Technology conference at Zhengzhou university. 
 
 If it's possible something on an official letterhead so they don't think I wrote it. Thanks for this and let me know if it's possible. 
 

@@ -33,7 +33,7 @@ ___
 Hi Mr Chan,
 May we suggest the following amendments for the draft statement. 
 
-Ahan Rajora Draft Statement: 
+Ahan Draft Statement: 
 
 Point 9: 
 We are unsure as to what the conjecture in point 9, specifically "I believe that my course completion date was revised downwards from the previous eCoE," adds to the overall statement. I.e., what purpose does it serve in building the overall case. We are worried about any potential implications if this is read as me finishing my course early. Could you please advise us on this point. Thank you
